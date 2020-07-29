@@ -10,3 +10,67 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+# Grades & Grading Scales
+
+::: l-body
+
+### COMPONENTS OF FINAL GRADE
+
+|Category/Scale | Component              | Points |
+|---------------|------------------------|--------|
+| Exams	        | Midterm 1	             | 30* or lowest scoring midterm
+|(Letter grades)| Midterm 2	             | 40
+|	              | Midterm 3	             | 40
+|	              | Final	                 | 60
+| Assignments	  | Case Study I	         | 20
+|(Letter grades)|	Case Study II	         | 20
+|	              | Case Study III         | 20
+|	              | Term Paper	           | 75
+| Participation	| Lecture debriefs       | 15
+| (Check system)|	Conservation IRL       | 25
+|	              | Reading Reflections	   | 50
+|	              | In-class discussions   | 15
+|	              | Annotated bibliography | 10
+| Lab	          | Homework	             | 125
+| (Check system)|	Participation	         | 20
+
+:::
+
+*Points for weekly assignment are best on mean grade for all assignments across the semester*
+
+*Your final grade for the course based on the proportion of points accumulated over the course of the semester will be a letter grade.* 
+
+### GRADING SCALES 
+
+**Letter grades**
+
+::: l-body
+
+| Grade |	Percent |
+|-------|---------|
+|A      |	93 – 100
+|A-	    | 90 – 92
+|B+	    | 87 – 89 
+|B	    | 83 – 86 
+|B-	    | 80 – 82 
+|C+	    | 77 – 79 
+|C	    | 73 – 76 
+|C-	    | 70 – 72 
+|D+	    | 67 – 69 
+|D	    | 63 – 66 
+|D-	    | 60 – 62 
+|F	      | < 60
+
+:::
+
+**Check systems**
+
+*The check system is essentially a pass/fail or completion-based system creating a set of assignments that are low-stakes but frequent. *
+
+| Grade |	Percent | Explanation |
+|-------|---------|-------------|
+|✔(+)	  | 110     |assignment is 100% complete, all tasks completed, all answers correct, exceptional work (rare).
+|✔	    | 100     | assignment is complete, all tasks have been attempted, most are correct (expected).
+|✔(-)	  | 60      |assignment is < 80% complete, most answers incorrect (ideally rare).
+
+
