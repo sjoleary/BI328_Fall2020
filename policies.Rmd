@@ -1,7 +1,11 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Conservation Biology (BI328)"
+description: | 
+  Fall 2020 Course Site
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
 ---
 
 ```{r setup, include=FALSE}
@@ -12,9 +16,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Grades & Grading Scales
 
-::: l-body
-
 ### COMPONENTS OF FINAL GRADE
+
+<aside>
+Your final grade for the course based on the proportion of points accumulated over the course of the semester will be a letter grade.
+</aside>
+
+<aside>
+Points for weekly assignment are based on mean grade for all assignments across the semester
+</aside>
+
+::: l-body
 
 |Category/Scale | Component              | Points |
 |---------------|------------------------|--------|
@@ -36,9 +48,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 :::
 
-*Points for weekly assignment are best on mean grade for all assignments across the semester*
 
-*Your final grade for the course based on the proportion of points accumulated over the course of the semester will be a letter grade.* 
+
 
 ### GRADING SCALES 
 
@@ -65,7 +76,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Check systems**
 
-*The check system is essentially a pass/fail or completion-based system creating a set of assignments that are low-stakes but frequent. *
+<aside>
+*The check system is essentially a pass/fail or completion-based system creating a set of assignments that are low-stakes but frequent.*
+</aside>
+
+::: l-body
 
 | Grade |	Percent | Explanation |
 |-------|---------|-------------|
@@ -73,4 +88,4 @@ knitr::opts_chunk$set(echo = FALSE)
 |✔	    | 100     | assignment is complete, all tasks have been attempted, most are correct (expected).
 |✔(-)	  | 60      |assignment is < 80% complete, most answers incorrect (ideally rare).
 
-
+::: l-body
