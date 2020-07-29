@@ -5,7 +5,33 @@ site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
+
 knitr::opts_chunk$set(echo = FALSE)
 
 ```
+
+# Course Details
+
+::: l-body
+|.                 |.                                                |
+|-----------------|------------------------------------------------|
+| **Instructor:**   | [Shannon J. O'Leary](https://olab.netlify.app/)|
+|                   | office: GOUL 2321                              |
+|                   | `r icon::fa("envelope")` shannon.j.oleary[at]gmail[dot]com |
+| **Office Hours:** | `r icon::fa("home")` Monday, Tuesday, Friday 11:30am - 1pm (or by appointment)  |
+| **Lectures:** | `r icon::fa("chalkboard-teacher")` Monday/Wednesday/Friday 10:20 - 11:10am (GOUL3102) |
+| **Lab:** | `r icon::fa("flask")` Wednesday 1:30 - 4:30pm (GOUL3102) |
+:::
+
+# Course Objectives
+
+After completing this course, you should be able to
+
+1.	Describe what biodiversity is, how we measure levels of biodiversity, and the value thereof.
+2.	Explain the patterns and processes leading to the observed ongoing, drastic decline in biodiversity. 
+3.	Apply fundamental principles from a variety of fields, including ecology, genetics, systematics, toxicology, economics, and creative problem-solving to management and conservation of biodiversity.
+4.  Apply the theoretical framework, field, lab, and computational techniques to current management and conservation concerns, including
+    + Being able to evaluate sources/content of information.
+    + Gaining an overview of commonly used techniques to monitor biodiversity.
+    + Understanding how large data sets & modeling can be used to enable sound conservation/management decision-making.
 
