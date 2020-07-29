@@ -5,7 +5,7 @@ description: |
 output:
   distill::distill_article:
     toc: true
-    toc_depth: 2
+    toc_depth: 3
 ---
 
 ```{r setup, include=FALSE}
@@ -16,15 +16,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Grades & Grading Scales
 
-### COMPONENTS OF FINAL GRADE
+### Components of final grade
 
-<aside>
-Your final grade for the course based on the proportion of points accumulated over the course of the semester will be a letter grade.
-</aside>
-
-<aside>
-Points for weekly assignment are based on mean grade for all assignments across the semester
-</aside>
+*Points for weekly assignment are based on mean grade for all assignments across the semester. Your final grade for the course based on the proportion of points accumulated over the course of the semester will be a letter grade.*
 
 ::: l-body
 
@@ -49,9 +43,7 @@ Points for weekly assignment are based on mean grade for all assignments across 
 :::
 
 
-
-
-### GRADING SCALES 
+### Grading scales
 
 **Letter grades**
 
@@ -76,9 +68,8 @@ Points for weekly assignment are based on mean grade for all assignments across 
 
 **Check systems**
 
-<aside>
 *The check system is essentially a pass/fail or completion-based system creating a set of assignments that are low-stakes but frequent.*
-</aside>
+
 
 ::: l-body
 
@@ -88,4 +79,49 @@ Points for weekly assignment are based on mean grade for all assignments across 
 |✔	    | 100     | assignment is complete, all tasks have been attempted, most are correct (expected).
 |✔(-)	  | 60      |assignment is < 80% complete, most answers incorrect (ideally rare).
 
-::: l-body
+:::
+
+### Exams
+
+Exams will consist of short answer and essay questions unless otherwise specified. Material to be covered in each exam will be discussed in class prior to the exam. The midterms will not be cumulative, though some content will connect to material not explicitly covered in the exam. The final will be cumulative and open book. In general, I will schedule Q&A sessions before the exam; though it is expected that you work through the material beforehand and come prepared with additional questions you have. Makeup exams will be given at my discretion and are generally only allowed for medical emergencies. It is your responsibility to contact me within 48 hours of the missed exam to make arrangements; ideally contact me as soon as you realize you will not be at the exam. The use of cell phones, tablets, and other electronic devices is strictly prohibited during the midterms and will result in zero credit.
+
+
+### Assignments
+
+*see Assignments section of course site*
+
+
+# Course Policies
+
+**Be curious. Be kind. Be on time. Do the work. Don’t cheat.**
+
+
+### Class conduct & expectations
+
+Free discussion, inquiry, and expression is encouraged in this class. Let’s strive towards conversations and interactions that are edifying, inclusive, and respectful of each other. This includes listening to and learning from each other and challenging ideas, not persons. Discussions are always a time to pursue interesting questions, sharpen our knowledge, and refine ideas – they are never a time to demean or devalue others. Behavior that interferes with my ability to conduct the class/lab or your classmates ability to benefit from the class is not acceptable, this includes things like routinely entering class late/leaving early, distracting use of devices, talking while I am lecturing or your classmates are asking/answering questions, or participating in a way that is perceived as overtly aggressive or offensive.
+
+
+### Attendance
+
+Attendance is mandatory. That being said, we are in for an (at best) unusual semester and will need to be flexible. If you are experiencing any symptoms or have potentially been exposed to Covid-19 and are needing to miss class in-person please contact me immediately – ideally before class/lab so we can figure out how best ensure that you can participate and/or catch up on the necessary work. We will handle this on case-by-case basis. If you know that you are going to need to miss class for other acceptable reasons (e.g. observance of a religious holiday) be pro-active in your communication so we can accommodate.
+
+### Participation
+
+Engage and participate in the class. Ideally ask, comment on, and answer questions; you might prefer ‘participation’ as staying focused and quietly processing – that’s cool, too. In addition to in-class discussions, there are weekly assignments for slack-based discussion to help you engage with the material and help me assess where everybody is at. The more you engage with the material, the more you will get out of the class (and the more fun all of us will have), so I am going to challenge you to step outside your comfort zone in the safety of a small class.
+
+### Technology use
+
+Technology is becoming an increasingly integral part of our life; it is important to learn to use technology responsibly. Think of class/lab as a time to be deliberate in your use of technology. Here are some guidelines that I think will be helpful for you to stay focused on class and minimize distractions for you and others (this includes me). 
+
+* Ditch the phone. Leave it in your bag. Charge it, whatever … Class and lab times serve a distinct purpose – be present and respectful of the rest of us.
+* You are strongly encouraged to stick to paper and pen (or pencils) for taking notes. I am happy to chat about note-taking techniques if that’s something you would like to become more adept at. Some of you may find laptops and tablets useful or even vital for note taking, following slides, etc. that’s fine – but please refrain from surfing the web, social media, online shopping etc. Even if you swear it’s not distracting you for you, it likely is distracting somebody else (you’d be surprised how easy it is to see your screen and follow the action). 
+
+
+### Academic honesty
+
+Any form of cheating, whether on exams, or in the form of plagiarism on written assignments and projects will not be tolerated. You are expected to properly cite the sources in your assignments. The College’s official definitions can be found in the Student Handbook. The consequences of violating this policy range from the assignment of zero points for an exam or paper, up to assignment of a failing grade for the course. 
+
+
+### Accessibility
+
+Saint Anselm College is committed to meeting the needs of students with documented physical, sensory, psychiatric, and learning disabilities. To disclose a disability and request academic accommodations, please email or call Kenneth Walker, who will assist you in making contact with faculty members and/or arranging support services and accommodations available within the Academic Resource Center (ARC) and elsewhere. To ensure that accommodations are arranged in a timely manner, you are encouraged to make your request at the beginning of each semester.
