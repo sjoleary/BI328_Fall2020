@@ -1,6 +1,7 @@
 ---
 title: "Conservation Biology (BI328)"
-description: Fall 2020 Course Site
+description: |
+  Fall 2020 Course Site
 site: distill::distill_website
 ---
 
@@ -35,3 +36,6 @@ After completing this course, you should be able to
     + Gaining an overview of commonly used techniques to monitor biodiversity.
     + Understanding how large data sets & modeling can be used to enable sound conservation/management decision-making.
 
+# Syllabus
+
+Download a hard copy of the syllabus [`r icon::fa("file-download")`](/files/BI328_Syllabus_F2020.pdf).
