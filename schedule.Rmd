@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-# Course Content & Schedule
+# Course Schedule
 
 *This is the current (updated) lecture schedule. Assigned readings will be posted at least one week in advance.*
 
