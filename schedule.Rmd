@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 *This is the current (updated) lecture schedule. Assigned readings will be posted at least one week in advance.*
 
-::: l-body-outset
+::: l-body
 
 | | WEEK  |DAY| LECTURE TOPIC                                      | READINGS |
 |-|-------|---|----------------------------------------------------|----------|
