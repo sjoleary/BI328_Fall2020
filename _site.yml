@@ -17,6 +17,12 @@ navbar:
       menu:
         - text: "Overview"
           href: assignments.html
+        - text: "Bibliography"
+          href: bibliography.html
+        - text: "Case Studies"
+          href: case-study.html
+        - text: "Term paper"
+          href: termpaper.html
     - text: "Lab"
       href: lab.html
     - text: "Policies"

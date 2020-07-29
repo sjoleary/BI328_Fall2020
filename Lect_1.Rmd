@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Introduction to Conservation Biology
 
+(**8/19/2020**)
+
 ### Assigned readings
 
 
