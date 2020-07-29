@@ -1,0 +1,71 @@
+---
+title: "Conservation Biology (BI328)"
+description: |
+  Fall 2020 Course Site
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+# Course Content & Schedule
+
+*This is the current (updated) lecture schedule. Assigned readings will be posted at least one week in advance.*
+
+::: l-body-outset
+
+| | WEEK  |DAY| LECTURE TOPIC                                      | READINGS |
+|-|-------|---|----------------------------------------------------|----------|
+|1|	8/19  |	W	| Introduction to Conservation Biology	             | 2
+|	|	      |   | **BIODIVERSITY: CONCEPTS, MEASURES, PATTERNS**     | 
+| |       | F	| Rise & Fall of Biodiversity	                       | 1 
+|2|	8/24	| M |	Biodiversity & Biocomplexity	                     | 3, 4 
+| |       |	W |	Ecosystem Diversity                                | 3, 4
+| |       | F	| Species Diversity                                  | 3, 4
+|3| 8/31	| M	| Genetic Diversity                                  | 3, 4
+|	|	      |   | **THE VALUE OF BIODIVERSITY**	                     |
+| |       | W	| Value Systems	                                     | 5 
+| |       | F	| Ecosystem Services & Economics of Biodiversity I   | 6
+| |       |   | *due 9/4 by midnight: Topics for case studies*     |
+|4| 9/7	  | M	| Ecosystem Services & Economics of Biodiversity II  | 6, 7
+| |       | W	| Ecosystem Services & Economics of Biodiversity III | 6, 7
+| |       | F	| **MIDTERM**	                                       |
+|	|	      |   | **THE BIODIVERSITY CRISIS**                        |
+|5|	9/14	| M |	Loss of Biodiversity: Extinction Risks & Drivers   | 8
+| |       | W	| Habitat Loss, Fragmentation & Degradation	         | 9
+| |       | F	| Pollution	                                         | 9
+|6|	9/21	| M	| Overexploitation	                                 | 10
+| |       | W	| Fisheries Management & Aquaculture	               |
+| |       | F	| Invasive species	                                 | 11
+|7|	9/28	| M	| Climate change	                                   | 12
+| |       | W	| Tipping Points, Resilience & Persistence           | 	
+| |       | F	| Biodiversity status quo	                           | 
+|	|	      |   | **MAINTAINING, CONSERVING, AND RESTORING BIODIVERSITY**	|
+|8| 10/5  | M	| Species/population-level conservation I	           | 13
+| |       |   | *due 10/5 by midnight: outline/annotated bibliography* |
+| |       | W |	Species/population-level conservation II	         | 13
+| |       | F	| **MIDTERM**                                        |
+|9|	10/12 |	M	| Species/population-level conservation III	         | 13
+| |       | W	| Ex situ Conservation	                             | 16
+| |       | F	| Wildlife forensics & Wildlife trade	               |
+|10| 10/19| M |	Conservation Genetics I	                           |
+| |       | W |	Conservation Genetics II	                         |
+| |       | F |	Conservation Genetics III	                         |
+|11| 10/26| M |	Conservation Genetics IV                           |	
+| |       | W |	Essential Habitats & Ecosystem-based management	   | 15
+| |       | F |	**MIDTERM**                                        | 
+|12| 11/2 | M	| Managing & Restoring Ecosystems	                   |  
+| |       | W	| Managing & Restoring Ecosystems	                   | 
+| |       | F	| Protected Areas/Networks	                         | 14, 15 
+|13| 11/9 |	M	| Marine Protected Areas	                           | 14, 15
+| |       | W	| Resource Management                                | 
+| |       | F	| Politics & Policy/domestic & international         |
+|14| 11/16| M	| Sustainable Development                            | 16
+| |       | W |	Ecopragmatism/Ecomodernism	                       |
+| |       | F |	The final word	                                   |
+| |       |   | *due 11/23 by midnight: Term paper*                |
+
+:::
+
