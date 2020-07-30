@@ -1,7 +1,7 @@
 ---
 title: "Conservation Biology (BI328)"
 description: | 
-  Fall 2020 Course Site
+  Fall 2020 - Assignments
 output:
   distill::distill_article:
     toc: true
@@ -14,3 +14,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+Over the course of the semester you will dig into three case studies. For at least one of these you will write an approximately 750-word summary and at least one will be an in-person 10-minute presentation; format for the third one is dealers choice (in this scenario, you are the dealer). At least one case study should detail strategies taken to conserve an endangered species or ecosystem, other topics may include specific pieces of legislation, biography of a scientist, or a personal experience (e.g. internship or research project); out of the box ideas welcome – but clear them with me first. At least one of your case studies should focus on an article of your choosing from the primary literature, for others you can pull from multiple, reliable sources, including grey and secondary literature. See guidelines for details. We will set deadlines/presentation dates after choosing topics/formats along with topic for term paper.

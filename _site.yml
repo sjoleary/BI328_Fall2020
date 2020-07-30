@@ -13,6 +13,40 @@ navbar:
       menu:
         - text: "Intro to Conservation Biol"
           href: Lect_1.html
+        - text: "Rise & Fall of Biodiversity"
+          href: Lect_2.html
+        - text: "Biodiversity & Biocomplexity"
+          href: Lect_3.html
+        - text: "Ecosystem Diversity"
+          href: Lect_4.html
+        - text: "Species Diversity"
+          href: Lect_5.html
+        - text: "Value Systems"
+          href: Lect_6.html
+        - text: "Ecosyst Services/Economics I"
+          href: Lect_7.html
+        - text: "Ecosyst Services/Economics II"
+          href: Lect_8.html
+        - text: "Ecosyst Services/Economics III"
+          href: Lect_9.html
+        - text: "Extinction Risks/Drivers"
+          href: Lect_10.html
+        - text: "Habitat loss/fragment/degradat"
+          href: Lect_11.html
+        - text: "Pollution"
+          href: Lect_12.html
+        - text: "Overexploitation"
+          href: Lect_13.html
+        - text: "Fisheries Magament/Aquaculture"
+          href: Lect_14.html
+        - text: "Invasive Species"
+          href: Lect_15.html
+        - text: "Climate Change"
+          href: Lect_16.html
+        - text: "Tipping Points/Resilience"
+          href: Lect_17.html
+        - text: "Biodiversity: Status quo"
+          href: Lect_18.html
     - text: "Assignments"
       menu:
         - text: "Overview"
@@ -27,4 +61,6 @@ navbar:
       href: lab.html
     - text: "Policies"
       href: policies.html
+    - text: "Resources"
+      href: resources.html
 output: distill::distill_article

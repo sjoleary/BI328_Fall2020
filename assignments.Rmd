@@ -1,7 +1,7 @@
 ---
 title: "Conservation Biology (BI328)"
 description: | 
-  Fall 2020 Course Site
+  Fall 2020 - Assignments
 output:
   distill::distill_article:
     toc: true
@@ -50,16 +50,16 @@ It does not have to be a “positive” encounter – this could also be a state
 
 ### ANNOTATED BIBLIOGRAPHY 
 Over the course of the semester, you will maintain an annotated bibliography as a “living document” (i.e. update it as you go) to help you keep track of materials outside of our textbook. This will include your readings for lectures, labs, articles you shared for the “conservation IRL” assignment, and resources for your conservation biology case studies and term paper. 
-[Details](link).
+[Details](https://bi328.netlify.app/bibliography.html).
 
 
 ### CONSERVATION BIOLOGY CASE STUDY
 Over the course of the semester you will dig into three case studies in the form of at least one written summary and one 10-minute presentation. Topics may include conservation efforts for an endangered species or ecosystem, biography of a conservation biologist or environmental scientist, or a specific piece of legislation - out of the out of the box ideas welcome – but clear them with me first. 
-[Details](link).
+[Details](https://bi328.netlify.app/case-study.html).
 
 
 ### TERM PAPER
-If I gave you $1 billion to invest in conservation – how would you spend it and why? You have all semester to come up with an answer. There will be three deadlines to help you spread out the work across the semester [Details](link).
+If I gave you $1 billion to invest in conservation – how would you spend it and why? You have all semester to come up with an answer. There will be three deadlines to help you spread out the work across the semester [Details](https://bi328.netlify.app/termpaper.html).
 
 1. Quick assignment to help you choose your topic along with topics for case studies (**due 9/4**).
 2. Outline + annotated bibliography (**due 10/5**).
