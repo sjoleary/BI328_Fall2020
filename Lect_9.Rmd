@@ -1,0 +1,51 @@
+---
+title: "Conservation Biology (BI328)"
+description: | 
+  Fall 2020 Lectures
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+# Ecosystem Services & Economics of Biodiversity II
+
+(**9/7/2020**)
+
+### Assigned readings
+
+
+
+
+
+**Reading reflections due: n/a**
+
+### Debrief
+
+Go over your notes & briefly answer these questions:
+
+*	What was the most muddy concept(s)? Do we need to further clarify?
+*	What was the exciting, interesting, or a new concept you learned?
+*	Was there any “assumed background knowledge” you didn’t have? Do we need to further clarify?
+*	Any additional general comments or questions on today's lecture or this week’s lab?
+
+**Due by 3pm tomorrow.**
+
+
+### Dig a little deeper
+
+Additional resources:
+
+
+
+### Review
+
+
+
+Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/).
