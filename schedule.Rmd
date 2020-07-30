@@ -59,10 +59,10 @@ knitr::opts_chunk$set(echo = FALSE)
 | |       | F |	Conservation Genetics III	                         |
 |11| 10/26| M |	Conservation Genetics IV                           |	
 | |       | W |	Essential Habitats & Ecosystem-based management	   | 15
-| |       | F |	**MIDTERM**                                        | 
+| |       | F |	Managing & Restoring Ecosystems                    | 
 |12| 11/2 | M	| Managing & Restoring Ecosystems	                   |  
-| |       | W	| Managing & Restoring Ecosystems	                   | 
-| |       | F	| Protected Areas/Networks	                         | 14, 15 
+| |       | W	| Protected Areas/Networks 	                         | 
+| |       | F	| **MIDTERM**	                                       | 14, 15 
 |13| 11/9 |	M	| Marine Protected Areas	                           | 14, 15
 | |       | W	| Resource Management                                | 
 | |       | F	| Politics & Policy/domestic & international         |
