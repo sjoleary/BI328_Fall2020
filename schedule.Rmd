@@ -20,56 +20,56 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ::: l-body
 
-| | WEEK  |DAY| LECTURE TOPIC                                      | READINGS |
-|-|-------|---|----------------------------------------------------|----------|
-|1|	8/19  |	W	| Introduction to Conservation Biology	             | 2
-|	|	      |   | **BIODIVERSITY: CONCEPTS, MEASURES, PATTERNS**     | 
-| |       | F	| Rise & Fall of Biodiversity	                       | 1 
-|2|	8/24	| M |	Biodiversity & Biocomplexity	                     | 3, 4 
-| |       |	W |	Ecosystem Diversity                                | 3, 4
-| |       | F	| Species Diversity                                  | 3, 4
-|3| 8/31	| M	| Genetic Diversity                                  | 3, 4
-|	|	      |   | **THE VALUE OF BIODIVERSITY**	                     |
-| |       | W	| Value Systems	                                     | 5 
-| |       | F	| Ecosystem Services & Economics of Biodiversity I   | 6
-| |       |   | *due 9/4 by midnight: Topics for case studies*     |
-|4| 9/7	  | M	| Ecosystem Services & Economics of Biodiversity II  | 6, 7
-| |       | W	| Ecosystem Services & Economics of Biodiversity III | 6, 7
-| |       | F	| **MIDTERM**	                                       |
-|	|	      |   | **THE BIODIVERSITY CRISIS**                        |
-|5|	9/14	| M |	Loss of Biodiversity: Extinction Risks & Drivers   | 8
-| |       | W	| Habitat Loss, Fragmentation & Degradation	         | 9
-| |       | F	| Pollution	                                         | 9
-|6|	9/21	| M	| Overexploitation	                                 | 10
-| |       | W	| Fisheries Management & Aquaculture	               |
-| |       | F	| Invasive species	                                 | 11
-|7|	9/28	| M	| Climate change	                                   | 12
-| |       | W	| Tipping Points, Resilience & Persistence           | 	
-| |       | F	| Biodiversity status quo	                           | 
-|	|	      |   | **MAINTAINING, CONSERVING, AND RESTORING BIODIVERSITY**	|
-|8| 10/5  | M	| Species/population-level conservation I	           | 13
-| |       |   | *due 10/5 by midnight: outline/annotated bibliography* |
-| |       | W |	Species/population-level conservation II	         | 13
-| |       | F	| **MIDTERM**                                        |
-|9|	10/12 |	M	| Species/population-level conservation III	         | 13
-| |       | W	| Ex situ Conservation	                             | 16
-| |       | F	| Wildlife forensics & Wildlife trade	               |
-|10| 10/19| M |	Conservation Genetics I	                           |
-| |       | W |	Conservation Genetics II	                         |
-| |       | F |	Conservation Genetics III	                         |
-|11| 10/26| M |	Conservation Genetics IV                           |	
-| |       | W |	Essential Habitats & Ecosystem-based management	   | 15
-| |       | F |	Managing & Restoring Ecosystems                    | 
-|12| 11/2 | M	| Managing & Restoring Ecosystems	                   |  
-| |       | W	| Protected Areas/Networks 	                         | 
-| |       | F	| **MIDTERM**	                                       | 14, 15 
-|13| 11/9 |	M	| Marine Protected Areas	                           | 14, 15
-| |       | W	| Resource Management                                | 
-| |       | F	| Politics & Policy/domestic & international         |
-|14| 11/16| M	| Sustainable Development                            | 16
-| |       | W |	Ecopragmatism/Ecomodernism	                       |
-| |       | F |	The final word	                                   |
-| |       |   | *due 11/23 by midnight: Term paper*                |
+| | WEEK  |DAY| LECTURE TOPIC                                                                           |
+|-|-------|---|-----------------------------------------------------------------------------------------|
+|1|	8/19  |	W	| [Introduction to Conservation Biology](https://bi328.netlify.app/lect_1)                |
+|	|	      |   | **BIODIVERSITY: CONCEPTS, MEASURES, PATTERNS**                                          |
+| |       | F	| [Rise & Fall of Biodiversity](https://bi328.netlify.app/lect_2)                         |
+|2|	8/24	| M |	[Biodiversity & Biocomplexity](https://bi328.netlify.app/lect_3)                        |
+| |       |	W |	[Ecosystem Diversity](https://bi328.netlify.app/lect_4)                                 |
+| |       | F	| [Species Diversity](https://bi328.netlify.app/lect_5)                                   |
+|3| 8/31	| M	| [Genetic Diversity](https://bi328.netlify.app/lect_6)                                   |
+|	|	      |   | **THE VALUE OF BIODIVERSITY**	                                                          |
+| |       | W	| [Value Systems](https://bi328.netlify.app/lect_7)                                       |
+| |       | F	| [Ecosystem Services & Economics of Biodiversity I](https://bi328.netlify.app/lect_8)    |
+| |       |   | *due 9/4 by midnight: Topics for case studies*                                          |
+|4| 9/7	  | M	| [Ecosystem Services & Economics of Biodiversity II](https://bi328.netlify.app/lect_9)   |
+| |       | W	| [Ecosystem Services & Economics of Biodiversity III](https://bi328.netlify.app/lect_10) | 
+| |       | F	| **MIDTERM**	                                                                            |
+|	|	      |   | **THE BIODIVERSITY CRISIS**                                                             |
+|5|	9/14	| M |	[Loss of Biodiversity: Extinction Risks & Drivers](https://bi328.netlify.app/lect_11)   |
+| |       | W	| [Habitat Loss, Fragmentation & Degradation](https://bi328.netlify.app/lect_12)          |
+| |       | F	| [Pollution](https://bi328.netlify.app/lect_13)                                          |
+|6|	9/21	| M	| [Overexploitation](https://bi328.netlify.app/lect_14)                                   |
+| |       | W	| [Fisheries Management & Aquaculture](https://bi328.netlify.app/lect_15)                 |
+| |       | F	| [Invasive species](https://bi328.netlify.app/lect_16)                                   |
+|7|	9/28	| M	| [Climate change](https://bi328.netlify.app/lect_17)                                     |
+| |       | W	| [Tipping Points, Resilience & Persistence](https://bi328.netlify.app/lect_18)           |
+| |       | F	| [Biodiversity status quo](https://bi328.netlify.app/lect_19)                            |
+|	|	      |   | **MAINTAINING, CONSERVING, AND RESTORING BIODIVERSITY**	                                |
+|8| 10/5  | M	| [Species/population-level conservation I](https://bi328.netlify.app/lect_20)            |
+| |       |   | *due 10/5 by midnight: outline/annotated bibliography*                                  |
+| |       | W |	[Species/population-level conservation II](https://bi328.netlify.app/lect_21)           |
+| |       | F	| **MIDTERM**                                                                             |
+|9|	10/12 |	M	| [Species/population-level conservation III](https://bi328.netlify.app/lect_22)          |
+| |       | W	| [Ex situ Conservation](https://bi328.netlify.app/lect_23)                               |
+| |       | F	| [Wildlife forensics & Wildlife trade](https://bi328.netlify.app/lect_24)                |
+|10| 10/19| M |	[Conservation Genetics I](https://bi328.netlify.app/lect_25)                            |
+| |       | W |	[Conservation Genetics II](https://bi328.netlify.app/lect_26)                           |
+| |       | F |	[Conservation Genetics III](https://bi328.netlify.app/lect_27)                          |
+|11| 10/26| M |	[Conservation Genetics IV](https://bi328.netlify.app/lect_28)                           |
+| |       | W |	[Essential Habitats & Ecosystem-based management](https://bi328.netlify.app/lect_29)    |
+| |       | F |	[Managing & Restoring Ecosystems](https://bi328.netlify.app/lect_30)                    |
+|12| 11/2 | M	| [Managing & Restoring Ecosystems](https://bi328.netlify.app/lect_31)                    |
+| |       | W	| [Protected Areas/Networks](https://bi328.netlify.app/lect_32)                           |
+| |       | F	| **MIDTERM**	                                                                            |
+|13| 11/9 |	M	| [Marine Protected Areas](https://bi328.netlify.app/lect_33)                             |
+| |       | W	| [Resource Management](https://bi328.netlify.app/lect_34)                                |
+| |       | F	| [Politics & Policy/domestic & international](https://bi328.netlify.app/lect_35)         |
+|14| 11/16| M	| [Sustainable Development](https://bi328.netlify.app/lect_36)                            |
+| |       | W |	[Ecopragmatism/Ecomodernism](https://bi328.netlify.app/lect_37)                         |
+| |       | F |	[The final word](https://bi328.netlify.app/lect_38)                                     |
+| |       |   | *due 11/23 by midnight: Term paper*                                                     |
 
 :::
 
