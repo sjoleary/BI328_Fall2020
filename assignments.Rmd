@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Class & Lab Participation
 
-Next to traditional in-class lab & lecture participation we have two assignments to help you engange with the covered material inside and outside the classroom.
+Next to traditional in-class lab & lecture participation we have two assignments to help you engage with the covered material inside and outside the classroom.
 
 ### LECTURE DEBRIEF
 
@@ -24,16 +24,17 @@ This assignment is meant to be a quick reflection on the material covered during
 
 *	What was the most muddy concept(s)? Do we need to further clarify?
 *	What was the exciting, interesting, or a new concept you learned?
-*	Was there any “assumed background knowledge” you didn’t have? Do we need to further clarify?
+*	Was there any “assumed background knowledge” you did not have? Do we need to further clarify?
 *	Any additional general comments or questions on today's lecture or this week’s lab?
 
-**Due by 3pm the day after lecture.** No late work will be accepted or receive credit.
+**Due by 3pm the day after lecture.**  
+No late work will be accepted or receive credit.
 
 
-### “CONSERVATION IRL”
-It is important to learn to make connections between the topics and concepts we cover during class and the real world. You will find that once you are aware of it that you encounter “Conservation Biology” all. the. time. 
-For this weekly assignment you will share one of these encounters in 5-10 sentences with the class using our slack channel. This could be a podcast you listened to, an interesting documentary you watched, an article or essay in the news, a conversation you had with somebody in person or on social media, ... 
-It does not have to be a “positive” encounter – this could also be a statement you came across that you think is incorrect or a position you disagree with. Whenever possible post a link for everyone who is interested to be able to follow up. Here are a few prompts to guide your post:
+### CONSERVATION IRL
+It is important to learn to make connections between the topics and concepts we cover during class and the real world. You will find that once you are aware of it that you encounter “Conservation Biology” all. the. time.  
+For this weekly assignment you will share one of these encounters in 5-10 sentences with the class using our slack channel. This could be a podcast you listened to, an interesting documentary you watched, an article or essay in the news, a conversation you had with somebody in person or on social media, ...  
+It does not have to be a “positive” encounter – this could also be a statement/article you came across that you think is incorrect or a position you disagree with. Whenever possible post a link for everyone who is interested to be able to follow up. Here are a few prompts to guide your post:
 
 *	Give a concise 1 – 2 sentence summary or state the main point that stuck out to you.
 *	How does it connect to our class?
@@ -43,27 +44,26 @@ It does not have to be a “positive” encounter – this could also be a state
 *	Was there some information you found unsettling? Did something seem incorrect?
 *	Was your encounter extremely biased in a certain direction?
 
-**Due by Sunday 5pm each week** though you are encouraged to post at any time during the week. If you post an initial ‘Conservation IRL’ by Aug 23rd (first half week of classes) you may cash that freebie in later that semester if needed, otherwise no late work will be accepted or receive credit. 
+**Due by Sunday 5pm each week** though you are encouraged to post at any time during the week.  
+No late work will be accepted or receive credit.  
+*If you post an initial ‘Conservation IRL’ by Aug 23rd (first half week of classes) you may cash that freebie in later that semester if needed.*
 
 
 # Writing assignments & presentations
 
 ### ANNOTATED BIBLIOGRAPHY 
-Over the course of the semester, you will maintain an annotated bibliography as a “living document” (i.e. update it as you go) to help you keep track of materials outside of our textbook. This will include your readings for lectures, labs, articles you shared for the “conservation IRL” assignment, and resources for your conservation biology case studies and term paper. 
+Over the course of the semester, you will maintain an annotated bibliography as a “living document”.  
+This will include your readings for lectures, labs, articles you shared for the “conservation IRL” assignment, and resources for your conservation biology case studies and term paper.  
 [Details](https://bi328.netlify.app/bibliography.html).
 
 
 ### CONSERVATION BIOLOGY CASE STUDY
-Over the course of the semester you will dig into three case studies in the form of at least one written summary and one 10-minute presentation. Topics may include conservation efforts for an endangered species or ecosystem, biography of a conservation biologist or environmental scientist, or a specific piece of legislation - out of the out of the box ideas welcome – but clear them with me first. 
+Over the course of the semester you will dig into three case studies in several formats.  
+Topics may include for example, conservation efforts for an endangered species or ecosystem, biography of a conservation biologist or environmental scientist, or a specific piece of legislation.  
 [Details](https://bi328.netlify.app/case-study.html).
 
 
 ### TERM PAPER
-If I gave you $1 billion to invest in conservation – how would you spend it and why? You have all semester to come up with an answer. There will be three deadlines to help you spread out the work across the semester [Details](https://bi328.netlify.app/termpaper.html).
-
-1. Quick assignment to help you choose your topic along with topics for case studies (**due 9/4**).
-2. Outline + annotated bibliography (**due 10/5**).
-3. Term paper (approx. 2,500 words **due 11/23**).
-
-
-
+If I gave you $1 billion to invest in conservation – how would you spend it and why?  
+This assignment is structure to givve you all semester to come develop an answer.  
+[Details](https://bi328.netlify.app/termpaper.html).

@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-# Ecosystem Diversity
+# Species Diversity
 
 (**8/26/2020**)
 
