@@ -14,10 +14,97 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-If I gave you $1 billion to invest in conservation – how would you spend it and why? You have all semester to come up with an answer. There will be three deadlines to help you spread out the work across the semester, first you will work through a small assignment to help you choose your topic, then you will hand in an outline + annotated bibliography, and finally your term paper (approx. 2,500 words). We will discuss details in person, and I will make detailed guidelines available. 
-Due dates are 9/4 (topics), 10/5 (outline + annotated bibliography), 11/23 (term paper).
+# Term paper
+
+**If I gave you $1 billion to invest in conservation – how would you spend it and why?** You have all semester to come up with an answer - there are three deadlines to help you spread out the work across the semester:
+
+1. Choose your topic for the term paper & case studies by **September 4th, 2020** (5 points). 
+2. Write an outline & annotated bibliography by **October 5th, 2020** (20 points).
+3. Finalize your term paper by **November 23rd, 2020** (50 points).
 
 
-1. Quick assignment to help you choose your topic along with topics for case studies (**due 9/4**).
-2. Outline + annotated bibliography (**due 10/5**).
-3. Term paper (approx. 2,500 words **due 11/23**).
+### OBJECTIVE & CONTENT
+This assignment is designed to give you a considerable degree of freedom to research and investigate a topic of your choice within the larger framework of conservation biology. The objective is for you to identify a broad-scale issue, identify a specific strategy to invest in to fix the issue, and to critically assess at success would look like and the extent to which it is achievable.  
+
+While drafting your paper make sure that you synthesize material from a range of reliable sources to define central concepts, illustrate the issue, argue the validity of your approach, and support your arguments.
+
+
+### CHOOSE YOUR TOPIC(S)
+
+***Step 1: Get some Inspiration***  
+In this [video](https://www.youtube.com/watch?v=A1xrWKBu704), `The Economist` asks five leading ocean conservationists how they would invest $1 billion. Watch the video and for each person note the following:
+
+1. Name of the interviewee
+2. How would they invest the money?
+3. What is the problem they are trying to address?
+4. How you their proposed strategy contribute to fixing the problem?
+
+
+***Step 2: Choose a topic***  
+The video you just watched is geared specifically towards ocean conservation - you are not limited to choosing to invest in the ocean, you could also consider a problem specific to terrestrial or freshwater systems. You may choose any of the five strategies mentioned in the video. You may have noticed that only one of them (batteries) was a little out of the box - your grade is not going to depend on how innovative your idea is but rather on how well you can justify that it is money well spent. 
+
+Formulate your topic as: "If I had $1 billion to invest in conservation I would ..."  
+*If you are having problems coming up with something that sounds interesting to you or you are not sure how to formulate it, come have a chat during office hours and we'll find something.*
+
+
+***Step 3: Double Check***  
+Now, make sure that your topic has a sufficiently broad **scope** and you will be able to find **appropriate sources** to write your paper. Your term paper will have a similar format to the answers given in the video, with an added critical evaluation at the end:
+
+1. How would you invest the money?
+2. What is the problem you are trying to address?
+3. How would your strategy contribute to fixing the problem?
+4. Critically evaluate your strategy -
+    + Is it high risk/high reward? i.e. if it works it will have a huge impact, if it doesn't you've essentially wasted $1 billion.
+    + Are you doubling down on proven strategies?
+    + What are potential obstacles to your strategy paying off?
+    + How broad/narrow would the impact be (e.g. is it specific to certain ecosystems, global/regional impact)?
+    + Are there obvious next steps?
+    + How would this strategies fit in to the larger frameworkd of conservation biology by complementing other strategies?
+
+You **do not** have to have all the answers worked out when you choose your topic, but you should reflect on these things to make sure that you are choosing a topic with sufficient scope. For example, "I would save elephants" is too small in scope but something like "I would invest in schemes to regulate wildlife trade and enforce poaching restriction" would be adequate.
+
+Finally, do a brief search to make sure you can find adequate sources for your paper to make sure you don't back yourself into a corner. Find five sources (primary literature, gray literature, not just a webpage or two).
+
+***Step 4: Identify Case Studies***
+See [Case Studies guidelines](https://bi328.netlify.app/case-study.html) for details on topics. Similar to the topic for your term paper make sure to double check that there are resources available. For each case study, identify at least one reliable source.
+
+List your three topics, for each indicate the format (written, presentation, other), list at least one reference per topic, and indicate which will be a summary of a research article. For presentation you may indicate preferences to present earlier/later in the semester based on your schedule in this and other courses - I will try to accommodate that as best possible). For written summaries choose a deadline that works with your course schedules - the latest date is November 17th.
+
+I am intentionally having you chose your case study along with your term paper topic - you may want to either intentionally diversify to keep it interesting or you may choose something that compliments your term paper. For example, if you wanted write about the wildlife trade you could choose a case study looking specifically at conservation of elephants in a certain region or assessing the contributions of a specific scientist towards those efforts.
+
+
+***Step 5 Submit***  
+Your topic choices should be submitted by **September 4th, 2020** as a word document through `Canvas`. Double space and use a legible font (Times new Roman/Cambria, Arial/Calibri) and font size (11 - 12pts). Name your file `BI328_lastname_topics.docx`. Create a header or footer with your Name, Page number, and course designation/semester, it should contain your notes from step 1 (bullet points is fine), the topic of your term paper along with five potential sources, the topics & formats of each of your case studies (see step 4) along with one source for each. Format your references using a standard format.
+
+
+### WRITE YOUR OUTLINE & ANNOTATED BIBLIOGRPAHY
+
+To get an overview of material available read (skim) pretty much anything you can get your hands on. Start with material giving you an overview/background knowledge (reference books, review articles, use search engines ...) and start to structure the information you are finding. Then start using more specific searches to fill in gaps and/or dive further into a specific topic that has gained your interest. Secondary sources (books, web pages) are useful to get a grasp on the material and familiarize yourself with the subject - they can also be useful as leads for good primary sources. You should read more sources than you end up specifically referencing in your paper. Start generating an **annotated bibliography** to keep track of useful references.
+
+After you have read and digested source material, start to organize your thoughts and plan a clear, logical, and straightforward exposition of the material. Start your **outline** with your title, then organize information into subheadings. Now plan paragraph topics and information contained in each paragraph. It is also helpful to note which references will support each subtopic or paragraph. The content of your paper should answer the following questions:
+
+1. How would you invest the money?
+2. What is the problem you are trying to address?
+3. How would your strategy contribute to fixing the problem?
+4. Critically evaluate your strategy -
+    + Is it high risk/high reward? i.e. if it works it will have a huge impact, if it doesn't you've essentially wasted $1 billion.
+    + Are you doubling down on proven strategies?
+    + What are potential obstacles to your strategy paying off?
+    + How broad/narrow would the impact be (e.g. is it specific to certain ecosystems, global/regional impact)?
+    + Are there obvious next steps?
+    + How would this strategies fit in to the larger frameworkd of conservation biology by complementing other strategies?
+    
+The focus is less on the details of how your strategy would be realized but rather on why it would contribute to fixing the problem and have a broad impact. For example, in the video one of the scientists proposes the development of batteries that do not rely on cobalt - you would need to cite resources that indicate that development of such batteries is feasible but you would focus on why such batteries would help conserve marine ecosystems (no need for deep sea mining, reduction of ocean acidification) rather than get into the weeds of how to design that type of battery. Your critical assessment should include an assessment of the degree of uncertainty to creating readily-available technology that would suffice. Similarly, if your strategy involves developing policy strategies/lobbying for legislation you do not need to create an in depth strategy of which politicians to approach - but you would want to evaluate if such endeavors have been successful in the past.
+
+This is an early draft stage, you will like end up removing some references and adding new ones when you write your final paper. For a paper of this length you should end up with a minimum of 10 - 20 references, when possible these should be from the primary literature, for this type of topic you will likely find white papers and gray literature (i.e. not peer-reviewed and published in journals) that are helpful. 
+
+The outline & annotated bibliography (minimum 10 references) should be submitted by **October 5th, 2020** as a word document through `Canvas`. Double space and use a legible font (Times new Roman/Cambria, Arial/Calibri) and font size (11 - 12pts). Name your file `BI328_lastname_outline.docx`. Create a header or footer with your Name, Page number, and course designation/semester. Start with your title, then your outline, and add your annotated bibliography at the end (minimum 10 references).
+
+
+### TERM PAPER
+
+You will receive feedback on your outline that you should incorporate as you finalize your paper. 
+
+Your term paper should be submitted by **November 23rd, 2020** as a word document through `Canvas`. Double space and use a legible font (Times new Roman/Cambria, Arial/Calibri) and font size (11 - 12pts). Name your file `BI328_lastname_termpaper.docx`. Create a header or footer with your Name, Page number, and course designation/semester. Start with your title, use subheadings as needed to help structure your paper; your paper should be approx. 2,500 words (minimum 1,500, don't go over 3,500, references not included). You should reference your paper throughout (author-year style), your paper should include a minimum of 15 references, at least five should be from the primary literature. You may chose a standard style to consistently format your reference section. Various word processors have their own functions implemented to help you organize your references, `Mendeley` and `Endnote` have good documentation on how to install plug-ins and use features.
+
+Give yourself sufficient time to proof-read and correct spelling & grammar. Additionally, read your paper critically for content, make sure the structure is easy to follow. Consider having somebody else read your paper and comment on it as well.
