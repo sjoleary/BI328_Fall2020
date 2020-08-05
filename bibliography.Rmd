@@ -14,4 +14,46 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Over the course of the semester, you will maintain an annotated bibliography as a “living document” (i.e. update it as you go) to help you keep track of materials outside of our textbook. This will include your readings for lectures, labs, articles you shared for the “conservation IRL” assignment, and resources for your conservation biology case studies and term paper.
+# Annotated Bibliography
+
+### ASSIGNMENT GUIDELINES
+
+Over the course of the semester, you will maintain an annotated bibliography as a “living document” to help you keep track of materials outside of our textbook. The included citations will include assigned readings (outside of textbook chapters), items your shared as weekly 'Conservation IRL' assignments, and resources for your case studies and term papers. 
+
+A "living document" is a dynamic document that is constantly being updated and edited, curating an annotated bibliography can be work intensive but adding references and their descriptions as you go will make the process efficient and will allow you to keep track of what you have read and allow you to easily go back and pull references as you need them. 
+
+Start your annotated bibliography by **Monday, August 31^ST** and share a link with me via slack. A straightforward way is to use a `google doc` and share the link with me another option would be to upload a word document to a cloud service like `dropbox`. You should be updating this document weekly(ish), there will be times during the semester e.g. when preparing your case study & term paper where you will be adding references more frequently. I should be able to track your progress over the semester, you will receive a final grade at the end of the semester.
+
+
+### FORMAT & CONTENT
+
+The difference between a "reference" or "works cited" section in a paper compared to an annotated bibliography is that each reference is followed by a short description and critical evaluation of that reference. This can be a short paragraph (150 words) or a series of short bullet points with the purpose of assessing the relevance, accuracy, and quality of the reference.
+
+Follow these steps to create an annotated bibliography:
+
+***Step 1: Choose a topic***  
+For this annotated bibliography your topic is "Conservation Biology"; for your term paper outline/bibliography you will have previously chosen a topic.
+
+***Step 2: Find your sources***  
+You will be including assigned readings (so technically these sources will find you) and your encounters with conservation IRL, for your case studies and term papers you can use specialized search engines such as [GoogleScholar](https://scholar.google.com/) or [library databases](https://geiselguides.anselm.edu/az.php). For a specific search a more general search engine will be helpful to find gray literature, reports, or newspaper articles.  
+*If you find resources you are interested in but cannot read, let me know and we'll see what we can do.*
+
+***Step 3: Read & Evaluate your sources***  
+You probably want to initially skim the paper (or other sources) to ensure it is relevant. Then during a more careful reading identify the main arguments, what topics are covered, and assess if it the information is reliable and it is biased or objective. If you are compiling an annotated bibliography for something you are writing you will also want to determine how it fits into the topic you will be writing about and how you can use it to shape and support your argument.
+
+***Step 4: Create your citation***  
+Choose a standard format for your citations and be consistent throughout. Be sure to follow guidelines for journal articles, book chapters, webpages, reports, newpaper articles, etc.
+
+***Step 5: Write your annotation***
+Typically, annotations are a short, concise paragraph (150-200 words) to summarizing the central theme, main arguments and scope; you may also use a series of bullet points if you prefer. The annotation should go beyond just a summary, it should also evaluate the source and indicate the significance and indicate possible shortcomings or bias.
+
+Your annotation should include:
+
+* a summary of the main topic & scope
+* a summary of the main argument(s)
+* a critical evaluation (shortcomings, bias, flaw in argument)
+* an evaluation of the value/significance as a contribution to the topic you are researching
+* note if there are significant features that you might want to go back to (appendix, glossary, ...)
+* highlight anything especially relevant to you
+
+You may include your own impression, but try to be objective and be explicit when stating your opinions. Generally, the annotations should be written in the third person, you may also want to include an evaluation of the author's credentials if relevant.
