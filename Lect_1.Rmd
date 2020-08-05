@@ -35,21 +35,29 @@ Go over your notes & briefly answer these questions:
 *	Was there any “assumed background knowledge” you didn’t have? Do we need to further clarify?
 *	Any additional general comments or questions on today's lecture or this week’s lab?
 
-<form name="Debrief" action="/thanks.html" netlify>
+<form name="Debrief 8/19/2020" action="/thanks.html" netlify>
   <p style="display:none;">
     <label>Don’t fill this out: <input name="bot-field"></label>
   </p>
   <p>
-    <label>What was the most muddy concept(s)? Do we need to further clarify?: <input type="text" name="muddy" size="80"></label>
+    <label>Name: </label><br>
+    <input type="text" name="name" size="80">
   </p>
   <p>
-    <label>What was the exciting, interesting, or a new concept you learned?: <input type="text" name="interesint" size="80"></label>
+    <label>What was the most muddy concept(s)? Do we need to further clarify?</label><br>
+    <input type="text" name="muddy" size="80">
   </p>
   <p>
-    <label>Was there any “assumed background knowledge” you didn’t have? Do we need to further clarify?: <input type="text" name="background" size="80"></label>
+    <label>What was the exciting, interesting, or a new concept you learned?</label><br>
+    <input type="text" name="interesting" size="80">
   </p>
   <p>
-    <label>Any additional general comments or questions on today's lecture or this week’s lab?: <input type="text" name="comments" size="80"></label>
+    <label>Was there any “assumed background knowledge” you didn’t have? Do we need to further clarify?</label><br>
+    <input type="text" name="background" size="80"></label>
+  </p>
+  <p>
+    <label>Any additional general comments or questions on today's lecture or this week’s lab?</label><br>
+    <input type="text" name="comments" size="80"></label>
   </p>
   <p>
     <button type="submit">Send</button>
