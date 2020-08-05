@@ -26,8 +26,8 @@ knitr::opts_chunk$set(echo = FALSE)
 |	|	      |   | **BIODIVERSITY: CONCEPTS, MEASURES, PATTERNS**                                          |
 | |       | F	| [Rise & Fall of Biodiversity](https://bi328.netlify.app/lect_2)                         |
 |2|	8/24	| M |	[Biodiversity & Biocomplexity](https://bi328.netlify.app/lect_3)                        |
-| |       |	W |	[Ecosystem Diversity](https://bi328.netlify.app/lect_4)                                 |
-| |       | F	| [Species Diversity](https://bi328.netlify.app/lect_5)                                   |
+| |       |	W |	[Species Diversity](https://bi328.netlify.app/lect_4)                                 |
+| |       | F	| [Ecosystem Diversity](https://bi328.netlify.app/lect_5)                                   |
 |3| 8/31	| M	| [Genetic Diversity](https://bi328.netlify.app/lect_6)                                   |
 |	|	      |   | **THE VALUE OF BIODIVERSITY**	                                                          |
 | |       | W	| [Value Systems](https://bi328.netlify.app/lect_7)                                       |

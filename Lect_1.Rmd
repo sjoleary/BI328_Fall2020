@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ### Assigned readings
 
 
-
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 2
 
 
 **Reading reflections due: n/a**
@@ -33,7 +33,29 @@ Go over your notes & briefly answer these questions:
 *	What was the most muddy concept(s)? Do we need to further clarify?
 *	What was the exciting, interesting, or a new concept you learned?
 *	Was there any “assumed background knowledge” you didn’t have? Do we need to further clarify?
-*	Any additional general comments or questions on todays lecture or this week’s lab?
+*	Any additional general comments or questions on today's lecture or this week’s lab?
+
+<form name="Debrief" action="/thanks.html" netlify>
+  <p style="display:none;">
+    <label>Don’t fill this out: <input name="bot-field"></label>
+  </p>
+  <p>
+    <label>What was the most muddy concept(s)? Do we need to further clarify?: <input type="text" name="muddy" size="80"></label>
+  </p>
+  <p>
+    <label>What was the exciting, interesting, or a new concept you learned?: <input type="text" name="interesint" size="80"></label>
+  </p>
+  <p>
+    <label>Was there any “assumed background knowledge” you didn’t have? Do we need to further clarify?: <input type="text" name="background" size="80"></label>
+  </p>
+  <p>
+    <label>Any additional general comments or questions on today's lecture or this week’s lab?: <input type="text" name="comments" size="80"></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+
 
 **Due by 3pm tomorrow.**
 
