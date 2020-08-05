@@ -14,4 +14,56 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Over the course of the semester you will dig into three case studies. For at least one of these you will write an approximately 750-word summary and at least one will be an in-person 10-minute presentation; format for the third one is dealers choice (in this scenario, you are the dealer). At least one case study should detail strategies taken to conserve an endangered species or ecosystem, other topics may include specific pieces of legislation, biography of a scientist, or a personal experience (e.g. internship or research project); out of the box ideas welcome – but clear them with me first. At least one of your case studies should focus on an article of your choosing from the primary literature, for others you can pull from multiple, reliable sources, including grey and secondary literature. See guidelines for details. We will set deadlines/presentation dates after choosing topics/formats along with topic for term paper.
+# Case Studies in Conservation
+
+### DEADLINES
+
+Over the course of the semester you will dig into three case studies and present these in various formats.  
+You will chose your topics and submit them along with your term paper topic & annotated bibliography by **September 4th, 2020** (see details [here](https://bi328.netlify.app/termpaper.html)). We will set deadlines/presentation dates after choosing topics/formats (you will have the opportunity to indicate preferences).
+
+
+### TOPICS & CONTENT 
+
+**At least one** case study should primarily focus on a specific **research article** from a scientific journal (e.g. [Conservation Biology](), []()). For other case studies you may use multiple, reliable sources including primary literature, gray literature (e.g. reports from government agencies or NGOs) or similar.
+
+**At least one** case study should detail strategies taken to **conserve an endangered species or a specific ecosystem**. Make this as specific as possible (e.g. not "coral reefs" rather you would describe the details of specific threats and efforts undertaken in a specific location). Your case study should detail the threats resulting in the species/ecosystem being threatened or endangered, the conservation strategies to preserve the ecosystem or species, and critically assess the success of the endeavor.
+
+Other topics could include a specific piece of legislation (endangered species act, implementation of a protected area), a biography of a scientist or activist who made a significant contribution to conservation biology (), or a personal experience e.g. volunteering (for this last category, please clear it with me first to make sure it is appropriate). In each case you want to describe the problem(s) being addressed, the proposed strategies, and assess the success.
+
+If you are having problems coming up with topics, come see me during office hours or make an appointment *before* the deadline so we can come up with something you are interested in!
+
+
+### FORMAT(S)
+
+This assignment is intended to let you play to your strengths in choosing topics you are interested in and by allowing to you to have a role in shaping the format for at least some of your case studies.  
+*On the off chance two of you choose the same/very similar topics for a presentation, you may be asked to switch formats for your topics*.
+
+**Written Summary**  
+**At least one** case study will be submitted as an approximately 750-word summary (no less than 600 words, no more than 1,000 word - keep it concise!). This case study should be submitted by the agreed upon deadline as a word document through `Canvas`. Double space and use a legible font (Times new Roman/Cambria, Arial/Calibri) and font size (11 - 12pts). Name your file `BI328_lastname_case-study-X.docx`. Create a header or footer with your Name, Page number, and course designation/semester. Give your case study a precise, descriptive title. Be sure to properly reference your summary and include a reference section at the end of the document (does not count toward word count. In general, in the natural sciences we do not use word-for-word citations. Being able to effectively summarize research in your own words is an important skill. You do not need to include figures (summarize key results instead). Make sure you are using “formal”, written English, replace “don’t”, “isn’t” etc. with “do not”, “is not” etc. Use a spell checker and take time to remove grammatical errors. Do not rely on spell checkers. Like autocorrect they have a will of their own (or it is a global conspiracy to make us look foolish, the jury is still out), some words may be spelled correctly but still not be the word you actually wanted to use. 
+
+
+**Presentation**  
+You will present **at least one** case study in a 10-minute presentation. You should slack or email me your presentation **by 8am** the day of your presentation (name it `BI328_lastname_case-study-X.pptx`). Presentations will take place at the beginning of our lab time. If you intend on using a presentation software other than powerpoint (e.g. prezi), please discuss this with me beforehand so we can make sure your presentation will run as expected.
+
+
+**Dealers Choice**  
+You may choose your preferred format for your third case study, i.e. you give another presentation or written summary as described above. If you have other creative formats that you would like to use, for example an infographic, a short, narrated video etc. - out of the box ideas are welcome but you need to clear them with me first so we can agree on an acceptable format and rubric for grading.  
+*The purpose of an optional open format is for you to play to your strengths and interests - regardless of format your case study will be evaluated on the content, not the format*.  
+
+Make sure to add a reference section to your document/presentation. You may choose your preferred format (numbered, author-year), but be consistent. 
+
+
+### A FEW REMARKS REGARDING STYLE TO TAKE INTO CONSIDERATION 
+For scientific writing the ratio of words used to information conveyed should be very high. Be as clear and concise as possible, make sure you use the correct terminology and introduce abbreviations properly. Here are a few pointers based on common “mistakes” made by your peers in this type of assignment:
+
+* Avoid “puffery” and superfluous language (e.g. “in the event that” = if; “had the opportunity to be” = was; “at this point in time” = now).  
+* Leave out redundancies (e.g. “terrible disaster” “future developments”), unnecessary intensifiers (major, absolutely, completely, utterly, fundamental, essential) and non-functional words (e.g. write down = write). If you can leave out a word and the meaning does not change – do.  
+* Eschew obfuscation: If you don’t understand it, don’t write it.  
+* Make the focus & organization of the paper very clear, internal structure should be reflected in external formatting: Use paragraphs to organize information.  
+* Use your own words. Summarize the content of your sources. In the natural sciences using word-for-word citations is virtually non-existent.  
+* Check things like effect vs. affect, they’re/their/there, you’re/your – make sure you have it right otherwise your paper appears sloppy and last minute. Same goes for spelling.  
+* This is a written paper, use formal language: Do not use contractions (isn’t, wasn’t…), avoid abbreviations, when you do make sure you introduce them properly and then use them consistently.  
+* Be consistent in your use of tenses.  
+* Species names should be in italics. Be consistent, introduce a species (taxon) with both scientific and common name but the consistently stick to one or the other throughout the paper.
+
+
