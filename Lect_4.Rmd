@@ -20,11 +20,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Assigned readings
 
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 3
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 4
 
+<br>
 
-
-
-**Reading reflections due: n/a**
+**Reading reflections due: 5pm, Aug 28th, 2020**
 
 ### Debrief
 
@@ -34,6 +35,8 @@ Go over your notes & briefly answer these questions:
 *	What was the exciting, interesting, or a new concept you learned?
 *	Was there any “assumed background knowledge” you didn’t have? Do we need to further clarify?
 *	Any additional general comments or questions on today's lecture or this week’s lab?
+
+<br>
 
 **Due by 3pm tomorrow.**
 

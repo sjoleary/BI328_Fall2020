@@ -35,6 +35,7 @@ Go over your notes & briefly answer these questions:
 *	Was there any “assumed background knowledge” you didn’t have? Do we need to further clarify?
 *	Any additional general comments or questions on today's lecture or this week’s lab?
 
+<br>
 
 **Due by 3pm tomorrow.**
 
@@ -44,7 +45,9 @@ Go over your notes & briefly answer these questions:
 Additional resources:
 
 `r icon::fa("book-reader")` Callicott. 1990. Wither Conservation Ethics
+
 `r icon::fa("book-reader")` Soule. 1985. What is Conservation Biology?
+
 `r icon::fa("book-reader")` Kareiva and Marvier. 2012. What is Conservation Biology?
 
 
@@ -57,5 +60,7 @@ Additional resources:
 * Compare and contrast Conservation Biology, Environmental Science, and Environmentalism.
 * Compare and contrast the two viewpoints of Conservation Biology as a subjective/value-based discipline and objective/evidence-based discipline.
 * List the central goals of structured decision making and briefly describe the general steps of the process.
+
+<br>
 
 Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/).
