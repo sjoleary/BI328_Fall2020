@@ -14,22 +14,27 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-# Biodiversity & Biocomplexity
-
-(**8/24/2020**)
+# The Value of Biodiversity
 
 ### Assigned readings
 
-`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 3
+**Reading reflections due: Sept 4th, 5pm**
+
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 5
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 6
+
+
+**Reading reflections due: Sept 11th, 5pm**
+
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 7
 
 
 <br>
 
-**Reading reflections due: 5pm, Aug 28th, 2020**
 
 ### Debrief
 
-Go over your notes & briefly answer these questions:
+After each lecture go over your notes & briefly answer these questions:
 
 *	What was the most muddy concept(s)? Do we need to further clarify?
 *	What was the exciting, interesting, or a new concept you learned?
@@ -37,10 +42,8 @@ Go over your notes & briefly answer these questions:
 *	Any additional general comments or questions on today's lecture or this week’s lab?
 
 <br>
-<br>
-<br>
 
-**Due by 3pm tomorrow.**
+**Due by 3pm the day after lecture.**
 
 
 ### Dig a little deeper
@@ -53,7 +56,7 @@ Additional resources:
 
 
 
-* Argue whether you would choose conserving an ecosystem that was functioning properly (productivity, nutrient cycling, species interactions) or an ecosystem with a complete set of native species.
+
 
 
 

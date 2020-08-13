@@ -16,15 +16,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Introduction to Conservation Biology
 
-(**8/19/2020**)
-
 ### Assigned readings
 
+**Reading reflections due: n/a**
 
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 2
 
-
-**Reading reflections due: n/a**
 
 ### Debrief
 

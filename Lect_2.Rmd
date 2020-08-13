@@ -14,21 +14,21 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-# The Rise & Fall of Biodiversity
+# Biodiversity: Concepts, Measures, Patterns
 
 (**8/21/2020**)
 
 ### Assigned readings
 
+**Reading reflections due: Aug 28th, 5pm**
+
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 3
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 4
 
-<br>
-
-**Reading reflections due: n/a**
 
 ### Debrief
 
-Go over your notes & briefly answer these questions:
+After each lecture go over your notes & briefly answer these questions:
 
 *	What was the most muddy concept(s)? Do we need to further clarify?
 *	What was the exciting, interesting, or a new concept you learned?
@@ -37,7 +37,7 @@ Go over your notes & briefly answer these questions:
 
 <br>
 
-**Due by 3pm tomorrow.**
+**Due by 3pm the day after lecture.**
 
 
 ### Dig a little deeper
@@ -48,6 +48,6 @@ Additional resources:
 
 ### Review
 
-
+* Argue whether you would choose conserving an ecosystem that was functioning properly (productivity, nutrient cycling, species interactions) or an ecosystem with a complete set of native species.
 
 Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/).

@@ -14,22 +14,33 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-# Species Diversity
-
-(**8/26/2020**)
+# The Biodiversity Crisis
 
 ### Assigned readings
 
-`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 3
-`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 4
+**Reading reflections due: Sept 18th, 5pm**
+
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 8
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 9
+
+
+**Reading reflections due: Sept 25th, 5pm**
+
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 10
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 11
+
+
+**Reading reflections due: Oct 2nd, 5pm**
+
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 12
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 2
 
 <br>
 
-**Reading reflections due: 5pm, Aug 28th, 2020**
 
 ### Debrief
 
-Go over your notes & briefly answer these questions:
+After each lecture go over your notes & briefly answer these questions:
 
 *	What was the most muddy concept(s)? Do we need to further clarify?
 *	What was the exciting, interesting, or a new concept you learned?
@@ -38,7 +49,8 @@ Go over your notes & briefly answer these questions:
 
 <br>
 
-**Due by 3pm tomorrow.**
+**Due by 3pm the day after lecture.**
+
 
 
 ### Dig a little deeper
