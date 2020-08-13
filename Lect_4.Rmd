@@ -21,18 +21,21 @@ knitr::opts_chunk$set(echo = FALSE)
 **Reading reflections due: Sept 18th, 5pm**
 
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 8
+
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 9
 
 
 **Reading reflections due: Sept 25th, 5pm**
 
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 10
+
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 11
 
 
 **Reading reflections due: Oct 2nd, 5pm**
 
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 12
+
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 2
 
 <br>

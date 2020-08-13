@@ -23,6 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **Reading reflections due: Aug 28th, 5pm**
 
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 3
+
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 4
 
 
