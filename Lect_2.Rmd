@@ -16,7 +16,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Biodiversity: Concepts, Measures, Patterns
 
-(**8/21/2020**)
 
 ### Assigned readings
 

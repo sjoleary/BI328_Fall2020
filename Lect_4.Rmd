@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # The Biodiversity Crisis
 
+
 ### Assigned readings
 
 **Reading reflections due: Sept 18th, 5pm**
