@@ -17,6 +17,8 @@ navbar:
           href: Lect_2.html
         - text: "The Value of Biodiversity"
           href: Lect_3.html
+        - text: "Biodiversity Crisis"
+          href: Lect_3.html
     - text: "Assignments"
       menu:
         - text: "Overview"
