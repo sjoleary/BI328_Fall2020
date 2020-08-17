@@ -17,14 +17,14 @@ knitr::opts_chunk$set(echo = FALSE)
 Download a hard copy of the syllabus [`r icon::fa("file-download")`](/files/BI328_Syllabus_F2020.pdf).
 
 ::: l-body
-|.                 |.                                                |
-|-----------------|------------------------------------------------|
-| **Instructor:**   | [Shannon J. O'Leary](https://olab.netlify.app/)|
-|                   | office: GOUL 2321                              |
-|                   | `r icon::fa("envelope")` shannon.j.oleary[at]gmail[dot]com |
-| **Office Hours:** | `r icon::fa("home")` Monday, Tuesday, Friday 11:30am - 1pm (or by appointment)  |
-| **Lectures:** | `r icon::fa("chalkboard-teacher")` Monday/Wednesday/Friday 10:20 - 11:10am (GOUL3102) |
-| **Lab:** | `r icon::fa("flask")` Wednesday 1:30 - 4:30pm (GOUL3102) |
+|.                  |.                                                                                         |
+|-------------------|------------------------------------------------------------------------------------------|
+| **Instructor:**   | [Shannon J. O'Leary](https://olab.netlify.app/)                                          |
+|                   | `r icon::fa("home")` GOUL 2321                                                           |
+|                   | `r icon::fa("envelope")` shannon.j.oleary[at]gmail[dot]com                               |
+| **Office Hours:** | `r icon::fa("home")` Monday, Friday 11:30am - 1pm, Tuesday 12pm - 1pm, or by appointment |
+| **Lectures:**     | `r icon::fa("chalkboard-teacher")` Monday/Wednesday/Friday 10:20 - 11:10am (GOUL3102)    |
+| **Lab:**          | `r icon::fa("flask")` Wednesday 1:30 - 4:30pm (GOUL3102)                                 |
 :::
 
 # Course Objectives
@@ -55,7 +55,7 @@ Figure out what wasn’t clear and follow up as quickly as possible at beginning
 (*Accountability mechanism: Lecture Debrief*)
 
 **Review:**
-Work through the re-cap questions, find a study buddy/group, come to Q&A sessions, and make use of office hours. 
+Work through the review questions, find a study buddy/group, come to Q&A sessions, and make use of office hours. 
 (*Accountability mechanisms: Re-cap questions, Exams*)
 
 **Plan ahead & manage your time:**
