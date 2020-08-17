@@ -5,8 +5,6 @@ description: |
 output_dir: "_site"
 navbar:
   right:
-    - text: "Home"
-      href: index.html
     - text: "Schedule"
       href: schedule.html
     - text: "Content"
