@@ -110,3 +110,19 @@ You will receive feedback on your outline that you should incorporate as you fin
 Your term paper should be submitted by **November 23rd, 2020** as a word document through `Canvas`. Double space and use a legible font (Times new Roman/Cambria, Arial/Calibri) and font size (11 - 12pts). Name your file `BI328_lastname_termpaper.docx`. Create a header or footer with your Name, Page number, and course designation/semester. Start with your title, use subheadings as needed to help structure your paper; your paper should be approx. 2,500 words (minimum 1,500, don't go over 3,500, references not included). You should reference your paper throughout (author-year style), your paper should include a minimum of 15 references, at least five should be from the primary literature. You may chose a standard style to consistently format your reference section. Various word processors have their own functions implemented to help you organize your references, `Mendeley` and `Endnote` have good documentation on how to install plug-ins and use features.
 
 Give yourself sufficient time to proof-read and correct spelling & grammar. Additionally, read your paper critically for content, make sure the structure is easy to follow. Consider having somebody else read your paper and comment on it as well, you can draw on the [Academic Resource Center](https://www.anselm.edu/academic-resource-center/advising-programs) and their writing assistance program.
+
+
+
+### A FEW REMARKS REGARDING STYLE TO TAKE INTO CONSIDERATION 
+For scientific writing the ratio of words used to information conveyed should be very high. Be as clear and concise as possible, make sure you use the correct terminology and introduce abbreviations properly. Here are a few pointers based on common “mistakes” made by your peers in this type of assignment:
+
+* Avoid “puffery” and superfluous language (e.g. “in the event that” = if; “had the opportunity to be” = was; “at this point in time” = now).  
+* Leave out redundancies (e.g. “terrible disaster” “future developments”), unnecessary intensifiers (major, absolutely, completely, utterly, fundamental, essential) and non-functional words (e.g. write down = write). If you can leave out a word and the meaning does not change – do.  
+* Eschew obfuscation: If you don’t understand it, don’t write it.  
+* Make the focus & organization of the paper very clear, internal structure should be reflected in external formatting: Use paragraphs to organize information.  
+* Use your own words. Summarize the content of your sources. In the natural sciences using word-for-word citations is virtually non-existent.  
+* Check things like effect vs. affect, they’re/their/there, you’re/your – make sure you have it right otherwise your paper appears sloppy and last minute. Same goes for spelling.  
+* This is a written paper, use formal language: Do not use contractions (isn’t, wasn’t…), avoid abbreviations, when you do make sure you introduce them properly and then use them consistently.  
+* Be consistent in your use of tenses.  
+* Species names should be in italics. Be consistent, introduce a species (taxon) with both scientific and common name but the consistently stick to one or the other throughout the paper.
+
