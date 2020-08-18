@@ -62,7 +62,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |D+	    | 67 – 69 
 |D	    | 63 – 66 
 |D-	    | 60 – 62 
-|F	      | < 60
+|F	     | < 60
 
 :::
 
@@ -76,19 +76,19 @@ knitr::opts_chunk$set(echo = FALSE)
 | Grade |	Percent | Explanation |
 |-------|---------|-------------|
 |✔(+)	  | 110     |assignment is 100% complete, all tasks completed, all answers correct, exceptional work (rare).
-|✔	    | 100     | assignment is complete, all tasks have been attempted, most are correct (expected).
-|✔(-)	  | 60      |assignment is < 80% complete, most answers incorrect (ideally rare).
+|✔	    | 100     |assignment is complete, all tasks have been attempted, most are correct (expected).
+|✔(-)	  | 60      |assignment is incomplete, most answers incorrect (ideally rare).
 
 :::
 
 ### Exams
 
-Exams will consist of short answer and essay questions unless otherwise specified. Material to be covered in each exam will be discussed in class prior to the exam. The midterms will not be cumulative, though some content will connect to material not explicitly covered in the exam. The final will be cumulative and open book. In general, I will schedule Q&A sessions before the exam; though it is expected that you work through the material beforehand and come prepared with additional questions you have. Makeup exams will be given at my discretion and are generally only allowed for medical emergencies. It is your responsibility to contact me within 48 hours of the missed exam to make arrangements; ideally contact me as soon as you realize you will not be at the exam. The use of cell phones, tablets, and other electronic devices is strictly prohibited during the midterms and will result in zero credit.
+Exams will consist of short answer and essay questions unless otherwise specified. Material to be covered in each exam will be discussed in lecture prior to the exam. The midterms will not be cumulative, though some content will connect to material not explicitly covered in the exam. The final will be cumulative and open book. In general, I will schedule Q&A sessions before the exam; it is expected that you work through the material beforehand and come prepared with additional questions you have. Makeup exams will be given at my discretion and are generally only allowed for medical emergencies. It is your responsibility to contact me within 48 hours of the missed exam to make arrangements; ideally contact me as soon as you realize you will not be at the exam. The use of cell phones, tablets, and other electronic devices is strictly prohibited during the midterms and will result in zero credit.
 
 
 ### Assignments
 
-*see Assignments section of course site*
+*see [Assignments](https://bi328.netlify.app/assignments.html) section of course site*
 
 
 # Course Policies
@@ -103,11 +103,14 @@ Free discussion, inquiry, and expression is encouraged in this class. Let’s st
 
 ### Attendance
 
-Attendance is mandatory. That being said, we are in for an (at best) unusual semester and will need to be flexible. If you are experiencing any symptoms or have potentially been exposed to Covid-19 and are needing to miss class in-person please contact me immediately – ideally before class/lab so we can figure out how best ensure that you can participate and/or catch up on the necessary work. We will handle this on case-by-case basis. If you know that you are going to need to miss class for other acceptable reasons (e.g. observance of a religious holiday) be pro-active in your communication so we can accommodate.
+Attendance is **mandatory** for lecture & lab. If you are more than 5 minutes late you will be considered absent. Excused absences require written documentation. You are allowed three unexcused absences from lecture and one unexcused absence from lab. For any unexcused absences beyond that 5 points will be deducted from your final grade.  
+That being said, we are in for an (at best) unusual semester and will need to be flexible. If you are experiencing any symptoms or have potentially been exposed to Covid-19 and are needing to miss class in-person please contact me immediately – ideally before class/lab so we can figure out how best ensure that you can participate and/or catch up. We will handle this on case-by-case basis to determine how you can best participate and make up for missed work (e.g. lab). If you know that you are going to need to miss class for other acceptable reasons (e.g. observance of a religious holiday, sports) be pro-active in your communication so we can accommodate.
+
 
 ### Participation
 
 Engage and participate in the class. Ideally ask, comment on, and answer questions; you might prefer ‘participation’ as staying focused and quietly processing – that’s cool, too. In addition to in-class discussions, there are weekly assignments for slack-based discussion to help you engage with the material and help me assess where everybody is at. The more you engage with the material, the more you will get out of the class (and the more fun all of us will have), so I am going to challenge you to step outside your comfort zone in the safety of a small class.
+
 
 ### Technology use
 
@@ -119,9 +122,9 @@ Technology is becoming an increasingly integral part of our life; it is importan
 
 ### Academic honesty
 
-Any form of cheating, whether on exams, or in the form of plagiarism on written assignments and projects will not be tolerated. You are expected to properly cite the sources in your assignments. The College’s official definitions can be found in the Student Handbook. The consequences of violating this policy range from the assignment of zero points for an exam or paper, up to assignment of a failing grade for the course. 
+Any form of cheating, whether on exams, or in the form of plagiarism on written assignments and projects will not be tolerated. You are expected to properly cite the sources in your assignments. The College’s official definitions can be found in the Student Handbook. The consequences of violating this policy range from the assignment of zero points for an exam or assignment, up to assignment of a failing grade for the course.
 
 
 ### Accessibility
 
-Saint Anselm College is committed to meeting the needs of students with documented physical, sensory, psychiatric, and learning disabilities. To disclose a disability and request academic accommodations, please email or call Kenneth Walker, who will assist you in making contact with faculty members and/or arranging support services and accommodations available within the Academic Resource Center (ARC) and elsewhere. To ensure that accommodations are arranged in a timely manner, you are encouraged to make your request at the beginning of each semester.
+Saint Anselm College is committed to meeting the needs of students with documented physical, sensory, psychiatric, and learning disabilities. To disclose a disability and request academic accommodations, please email or call Kenneth Walker, who will assist you in making contact with faculty members and/or arranging support services and accommodations available within the Academic Resource Center (ARC) and elsewhere. To ensure that accommodations are arranged in a timely manner, you are encouraged to make your request at the beginning of each semester, also if you are making use of ARC accommodations please remind me one week before exams.
