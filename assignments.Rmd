@@ -27,6 +27,8 @@ This assignment is meant to be a quick reflection on the material covered during
 *	Was there any “assumed background knowledge” you did not have? Do we need to further clarify?
 *	Any additional general comments or questions on today's lecture or this week’s lab?
 
+Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/forms/d/e/1FAIpQLSf_wpIenOLXtsZ24-3Aa120mgZmN3ioZHVkA342ZCYOj5OQug/viewform?usp=sf_link).
+
 **Due by 3pm the day after lecture.**  
 No late work will be accepted or receive credit.
 
