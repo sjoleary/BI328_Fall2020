@@ -1,7 +1,7 @@
 ---
 title: "Conservation Biology (BI328)"
 description: | 
-  Fall 2020 Course Site
+  Fall 2020 Lab
 output:
   distill::distill_article:
     toc: true
@@ -13,3 +13,50 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 
 ```
+
+# Lab
+
+**Lab times**
+
+`r icon::fa("flask")` Wednesday 1:30 - 4:30pm (GOUL3102)
+
+<br>
+
+
+**Lab manual**
+
+The lab manual will be available at the beginning of each week as needed. For the most part an electronic copy (on a laptop or tablet) is sufficient, at times you may be instructed to print a data or worksheet for lab.
+
+Access our online lab manual: [`r icon::fa("book-reader")`](https://labmanual.netlify.app).
+
+
+<br>
+
+
+**BYOD: Bring your own device (to lab)**
+
+You are required to bring your laptop for use during lab; a tablet will not be sufficient to participate though you are welcome to bring a tablet to have an extra screen to follow along an electronic version of the lab manual or an exercise we are working on. Make sure to have a power cable and/or fully charged battery!
+
+<br>
+
+
+**Lab homework/reports**
+
+You will be receiving lab homework in some format almost every lab, part of the assignments will be completed in lab, other parts your will finish on your own time. Make sure you start early enough to get help if necessary.  
+
+**Due by the following Wednesday 12pm** unless otherwise specified.  
+*No late or incomplete homework will be accepted or receive credit.*
+
+<br>
+
+
+**Field Trip-ish**
+
+We are going to attempt a cross between a field trip, scavenger hunt, and geocaching to gather some observations in the field, this will involve four trips to two locations with a "buddy" and the crowdwater app, a citizen's science project. We will discuss details during our first lab and you will need to sign up and complete the observations on your own time. Think of it as an excuse to get some fresh air and get a good walk in.
+
+<br>
+
+
+**R and Rstudio**
+
+There is a discernible shift in Conservation Biology towards leveraging large data sets and incorporating modeling – we will do the same during various labs. We will primarily use R for our data analysis, to produce figures, and reports. You will need to install R and Rstudio on your laptop – but we will do this together during our first lab.
