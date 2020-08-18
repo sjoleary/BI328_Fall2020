@@ -34,17 +34,17 @@ While drafting your paper make sure that you synthesize material from a range of
 ***Step 1: Get some Inspiration***  
 In this [video](https://www.youtube.com/watch?v=A1xrWKBu704), `The Economist` asks five leading ocean conservationists how they would invest $1 billion. Watch the video and for each person note the following:
 
-1. Name of the interviewee
+1. Name of the interviewee.
 2. How would they invest the money?
 3. What is the problem they are trying to address?
 4. How you their proposed strategy contribute to fixing the problem?
 
 
 ***Step 2: Choose a topic***  
-The video you just watched is geared specifically towards ocean conservation - you are not limited to choosing to invest in the ocean, you could also consider a problem specific to terrestrial or freshwater systems. You may choose any of the five strategies mentioned in the video. You may have noticed that only one of them (batteries) was a little out of the box - your grade is not going to depend on how innovative your idea is but rather on how well you can justify that it is money well spent. 
+The video you just watched is geared specifically towards ocean conservation - you are not limited to choosing to invest in the ocean, you could also consider a problem specific to terrestrial or freshwater systems. You may choose any of the five strategies mentioned in the video. You may have noticed that only one of them (batteries) was a little outside of the box - your grade is not going to depend on how innovative your idea is but rather on how well you can justify that it is money well spent. 
 
 Formulate your topic as: "If I had $1 billion to invest in conservation I would ..."  
-*If you are having problems coming up with something that sounds interesting to you or you are not sure how to formulate it, come have a chat during office hours and we'll find something.*
+*If you are having problems coming up with something that sounds interesting to you or you are not sure how to formulate it, come have a chat during office hours and we'll figure it out.*
 
 
 ***Step 3: Double Check***  
@@ -53,17 +53,18 @@ Now, make sure that your topic has a sufficiently broad **scope** and you will b
 1. How would you invest the money?
 2. What is the problem you are trying to address?
 3. How would your strategy contribute to fixing the problem?
-4. Critically evaluate your strategy -
+4. Critically evaluate your strategy, for example
     + Is it high risk/high reward? i.e. if it works it will have a huge impact, if it doesn't you've essentially wasted $1 billion.
-    + Are you doubling down on proven strategies?
+    + Are you doubling down on proven strategies or are you trying something new (possily unproven)?
     + What are potential obstacles to your strategy paying off?
+    + What advantages does your strategy have that will help you execute it?
     + How broad/narrow would the impact be (e.g. is it specific to certain ecosystems, global/regional impact)?
     + Are there obvious next steps?
-    + How would this strategies fit in to the larger frameworkd of conservation biology by complementing other strategies?
+    + How would this strategies fit in to the larger framework of conservation biology by complementing other strategies?
 
-You **do not** have to have all the answers worked out when you choose your topic, but you should reflect on these things to make sure that you are choosing a topic with sufficient scope. For example, "I would save elephants" is too small in scope but something like "I would invest in schemes to regulate wildlife trade and enforce poaching restriction" would be adequate.
+You **do not** have to have all the answers worked out when you choose your topic, but you should reflect on these things to make sure that you are choosing a topic with sufficient scope. For example, "I would save elephants" is too small in scope but something like "I would invest in schemes to regulate wildlife trade and enforce poaching restrictions" would be adequate.
 
-Finally, do a brief search to make sure you can find adequate sources for your paper to make sure you don't back yourself into a corner. Find five sources (primary literature, gray literature, not just a webpage or two).
+Finally, do a brief search to make sure you can find adequate sources for your paper to make sure you don't back yourself into a corner. Find five sources (ideally primary literature, gray literature, not just a webpage or two).
 
 ***Step 4: Identify Case Studies***  
 See [Case Studies guidelines](https://bi328.netlify.app/case-study.html) for details on topics. Similar to the topic for your term paper make sure to double check that there are resources available. For each case study, identify at least one reliable source.
