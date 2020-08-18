@@ -22,12 +22,12 @@ Over the course of the semester, you will maintain an annotated bibliography as 
 
 A "living document" is a dynamic document that is constantly being updated and edited, curating an annotated bibliography can be work intensive but adding references and their descriptions as you go will make the process efficient and will allow you to keep track of what you have read and allow you to easily go back and pull references as you need them. 
 
-Start your annotated bibliography by **Monday, August 31^ST** and share a link with me via slack. A straightforward way is to use a `google doc` and share the link with me another option would be to upload a word document to a cloud service like `dropbox`. You should be updating this document weekly(ish), there will be times during the semester e.g. when preparing your case study & term paper where you will be adding references more frequently. I should be able to track your progress over the semester, you will receive a final grade at the end of the semester.
+Start your annotated bibliography by **Monday, August 31st** and share a link with me via slack. A straightforward way is to use a `google doc` and share the link with me another option would be to upload a word document to a cloud service like `dropbox`. You should be updating this document weekly(ish), there will be times during the semester e.g. when preparing your case study & term paper where you will be adding references more frequently. I should be able to track your progress over the semester, you will receive a final grade at the end of the semester.
 
 
 ### FORMAT & CONTENT
 
-The difference between a "reference" or "works cited" section in a paper compared to an annotated bibliography is that each reference is followed by a short description and critical evaluation of that reference. This can be a short paragraph (150 words) or a series of short bullet points with the purpose of assessing the relevance, accuracy, and quality of the reference.
+The difference between a "reference" or "works cited" section in a paper compared to an annotated bibliography is that each reference is followed by a short description and critical evaluation of that reference. This can be a short paragraph (<150 words) or a series of short bullet points with the purpose of assessing the relevance, accuracy, and quality of the reference.
 
 Follow these steps to create an annotated bibliography:
 
@@ -45,9 +45,9 @@ You probably want to initially skim the paper (or other sources) to ensure it is
 Choose a standard format for your citations and be consistent throughout. Be sure to follow guidelines for journal articles, book chapters, webpages, reports, newpaper articles, etc.
 
 ***Step 5: Write your annotation***
-Typically, annotations are a short, concise paragraph (150-200 words) to summarizing the central theme, main arguments and scope; you may also use a series of bullet points if you prefer. The annotation should go beyond just a summary, it should also evaluate the source and indicate the significance and indicate possible shortcomings or bias.
+Typically, annotations are a short, concise paragraph (<150-200 words) summarizing the central theme, main arguments and scope; you may also use a series of bullet points if you prefer. The annotation should go beyond just a summary, it should also evaluate the source and indicate the significance and indicate possible shortcomings or bias.
 
-Your annotation should include:
+Your annotation should generally include:
 
 * a summary of the main topic & scope
 * a summary of the main argument(s)
@@ -60,8 +60,3 @@ You may include your own impression, but try to be objective and be explicit whe
 
 ***Organization***  
 There is a degree of flexibility in how you organize your bibliography, at the very least sources should be in alphabetical sequence (last name of first author). You may find it helpful to additionally organize by topic or by assignment.
-
-
-### EXAMPLE
-
-
