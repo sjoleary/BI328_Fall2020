@@ -64,4 +64,4 @@ Additional resources:
 
 <br>
 
-Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/).
+Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/BI328_ReviewQs_Intro_Conserv_Bio.pdf).
