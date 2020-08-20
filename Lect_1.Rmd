@@ -16,6 +16,47 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Introduction to Conservation Biology
 
+### Outline
+
+**Goals of Conservation Biology**
+
+* Investigate & describe biodiversity (variety of life)
+* Evaluate/predict effects of human activities on biodiversity.
+* Develop practical solutions to protect/manage biodiversity in a sustainable way
+
+
+**Different Viewpoints of Conservation Biology**
+
+* Preservation
+* Resource Management
+* Applied Ecology
+
+
+**The interdisciplinary nature of Conservation Biology**
+
+* "founded" to combine practical experience of wildlife biology, ecology, forestry, fisheries, and national parks management & theory of biological sciences (population biology, biogeography, ecology, zoology, botany).
+* draws from disciplines in physical, social, and implementational environment
+
+
+**Comparison to Environmental Science & Environmentalism**
+
+* Environmental Science comprises five fields: Social Sciences, Geosciences, Environmental Chemistry, Ecology, Atmospheric Science
+* Ecology focus on interactions of organisms with the biotic and abiotic components
+* Conservation Biology focus on impact on biodiversity
+* Environmentalism focuses on philosophical/ethical arguments & the intrinsic value of nature
+
+**Crisis Discipline**
+
+* Managers required to make best decision possible even with incomplete data.
+* Conservation biologist are called up to provide quick, unambiguous answers with incomplete data.
+
+
+**Two-sides of a coin**
+
+* Subjective/value-based discipline (science as guide to conservation/management)
+* Objective/evidence-based discipline (science central role to understand systems and quantify trade-offs)
+* Evolution of Core Principles & Values
+
 
 ### Assigned readings
 
