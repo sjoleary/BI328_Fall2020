@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |	|	      |   | **BIODIVERSITY: CONCEPTS, MEASURES, PATTERNS**                                          |
 | |       | F	| [Rise & Fall of Biodiversity](https://bi328.netlify.app/lect_2)                         |
 |2|	8/24	| M |	[Concepts & Measures](https://bi328.netlify.app/lect_2)                                 |
-| |       |	W |	[Conceopts & Measures](https://bi328.netlify.app/lect_2)                                |
+| |       |	W |	[Concepts & Measures](https://bi328.netlify.app/lect_2)                                |
 | |       | F	| [Patterns](https://bi328.netlify.app/lect_2)                                            |
 |3| 8/31	| M	| [Drivers](https://bi328.netlify.app/lect_2)                                             |
 |	|	      |   | **THE VALUE OF BIODIVERSITY**	                                                          |
