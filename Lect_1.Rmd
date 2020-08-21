@@ -16,6 +16,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Introduction to Conservation Biology
 
+### Assigned readings
+
+**Reading reflections due: n/a**
+
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 2
+
+
+
 ### Outline
 
 **Goals of Conservation Biology**
@@ -56,13 +64,6 @@ knitr::opts_chunk$set(echo = FALSE)
 * Subjective/value-based discipline (science as guide to conservation/management)
 * Objective/evidence-based discipline (science central role to understand systems and quantify trade-offs)
 * Evolution of Core Principles & Values
-
-
-### Assigned readings
-
-**Reading reflections due: n/a**
-
-`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 2
 
 
 ### Debrief

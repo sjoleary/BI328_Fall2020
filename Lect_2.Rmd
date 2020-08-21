@@ -26,6 +26,118 @@ knitr::opts_chunk$set(echo = FALSE)
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 4
 
 
+### Outline
+
+**Rise & Fall of Biodiversity**
+
+* Throughout geological history physical changes on earth led to changes in biodiversity
+    + peaks of diversification
+    + mass Extinction events
+* The Cambrian Explosion
+    + within "short" time period most major groups of complex animals appear in fossil record
+    + major diversification within existing taxa
+    + possible triggers: higher levels of oxygen, evolution of predation, propagation of niches, development of Hox genes  
+* Rates of Extinction
+    + background extinction is a constant
+    + mass extinction events (five mass extinctions recorded in fossil record)
+* Causes of mass extinction
+    + Internal vs. External
+    + Terrestrial vs Extraterrestrial
+* External causes of mass extinction
+    + Impact events
+    + Climate events
+    + Flood basalt
+    + Methane release
+    
+<br>
+
+**Defining Biodiversity**
+
+* Hierarchical levels of Biodiversity
+  + Genetic Diversity
+  + Species Diversity
+  + Ecosystem Diversity
+* Quantifying/Describing Biodiversity
+  + Compositional Diversity
+  + Structural Diversity
+  + Functional Diversity
+* Definitions are defined by questions being asked: 
+    + Focus on compositional/structural: Variation & composition of life in all its forms at all levels of organization across all spatial scales
+    + Focus on structural/functional diversity: Richness, abundance, and variability of plant and animal species and communities and the ecological processes that link them with one another and with soil, air, and water 
+* Management perspective
+    + Biocomplexity/Portfolio effect
+    + Biotic integrity
+    + Ecosystem health/integrity
+    + Sustainability
+
+<br>
+
+**Quantifying Biodiversity**
+
+* Species inventory
+    + Census: How many species are there?
+    + Cataloguing: What is a species?
+    + Organizing species diversity: Taxonomy
+* Quantifying Species Diversity
+    + Richness/Abundance
+    + Evenness/Diversity
+* Genetic Diversity
+    + measure at individual, population, species, taxa level
+    + allelic richness/evenness
+    + allele frequencies & heterozygosity
+    + partitioning of variance within and among groups
+* Community/Ecosystem Ecology
+    + Review of Concepts: Food Webs & the Trophic Pyramid
+    + Quantify community structure using linkage density & connectance of food web
+* Properties of a community/ecosystem - biodiversity is dynamic
+    + Temporal & Spatial structure
+    + Scale
+    + Species interactions
+    
+<br>
+
+**Global Patterns of Biodiversity**
+
+* Biodiversity is unequally distributed
+    + Latitudinal gradient
+    + Biodiversity Hotspots
+    + Some ecoregions are more species-rich
+    
+<br>
+
+**Functional Diversity**
+
+* Comparison of proportional biomass and impact of species on ecosystem stability
+* Ecological Roles maintaining diversity
+    + Dominant/controller species
+    + Keystone species/predators
+    + Ecosystem Engineers
+* Ecological Extinction
+* Should we prioritize species with functional "value" or are rare species as "valueable"
+
+<br>
+
+**Divers of Biodiversity**
+
+* Some areas are more diverse than others due to different combination of abiotic/biotic factors & evolutionary/biogeographic history
+* Drivers of Biodiversity
+    + Ecological Drivers
+    + Evolutionary Drivers
+* Evolutionary Drivers
+    + Evolutionary forces: Selection, Drift, Mutation, Gene flow
+    + Speciation
+    + Genetic Drift, Genetic Bottlenecks, Founder Effects
+    + Selection: Directional, Stabilizing, Disruptive, Balancing
+* Ecological Drivers
+    + Competition/Adaptive Radiation
+    + Predation
+    + Dispersal
+    + Abiotic disturbances
+    + Life history trade-offs (within and among species)
+
+<br>
+
+
 ### Debrief
 
 After each lecture go over your notes & briefly answer these questions:
@@ -44,12 +156,38 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
 
 ### Dig a little deeper
 
-Additional resources:
-
+* Pimm, Stuart L., et al. "The future of biodiversity." Science 269.5222 (1995): 347-350.
+* De Vos, Jurriaan M., et al. "Estimating the normal background rate of species extinction." Conservation biology 29.2 (2015): 452-462.
+* Schindler, Daniel E., et al. "Population diversity and the portfolio effect in an exploited species." Nature 465.7298 (2010): 609-612.
+* Mora, Camilo, et al. "How many species are there on Earth and in the ocean?." PLoS Biol 9.8 (2011): e1001127.
+* Atkinson, Angus, et al. "Long-term decline in krill stock and increase in salps within the Southern Ocean." Nature 432.7013 (2004): 100-103.
 
 
 ### Review
 
+* Explain the difference between the background extinction rate and mass extinction events.
+* There are four hypothesized main causes of past mass extinction events. Briefly describe each of them.
+* Give a brief definition of Biodiversity.
+* Briefly describe the three main hierarchical levels of biodiversity.
+* Biodiversity can be described as compositional, structural, or functional diversity. Briefly describe each and explain the main difference in the quantifying biodiversity in compositional and functional terms.
+* Briefly explain the concept of biocomplexity and compare/contrast it to biodiversity.
+* Species diversity is frequently measured as abundance (richness) and diversity (evenness), briefly describe each measure and argue which you think is more useful to quantify biodiversity.
+* Briefly explain how you would quantify ecosystem diversity.
+* Biodiversity is unequally distributed. One prominent pattern is the latitudinal gradient. Briefly describe what that pattern looks like and explain each of the three leading hypothesis explaining the observed pattern.
+* Briefly explain what an ecological extinction is.
+* List three ecological roles that maintain and increase biodiversity.
+* Characterize dominant/controller species, keystone species, and ecosystem engineers in terms of their relative biomass in an ecosystem and their impact on the species diversity of an ecosystem.
+* Compare and contrast the roles of a keystone species and an ecosystem engineer.
+* Compare and contrast the roles of a dominant/controller species and a keystone species.
+* Compare and contrast the roles of a dominant/controller species and an ecosystem engineer.
+* Use an example to explain what an ecosystem engineer, keystone species, controller/dominant species is.
 * Argue whether you would choose conserving an ecosystem that was functioning properly (productivity, nutrient cycling, species interactions) or an ecosystem with a complete set of native species.
+* Briefly explain how your conservation goals/strategies would differ if your focus is on compositional vs. structural/functional diversity.
+* Give some examples for evolutionary and ecological drivers and explain the two categories differ.
+* Argue whether genetic drift and selection result in a net loss or gain of biodiversity (you may want to consider multiple hierarchical levels of biodiversity).
+* Briefly explain how competition can increase biodiversity.
+* Briefly explain how predation can increase diversity.
+* Argue whether abiotic disturbances increase or decrease biodiversity - consider that disturbances differ in their scale & frequency.
+
 
 Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/).

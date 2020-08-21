@@ -22,7 +22,7 @@ Download a hard copy of the syllabus [`r icon::fa("file-download")`](/files/BI32
 | **Instructor:**   | [Shannon J. O'Leary](https://olab.netlify.app/)                                          |
 |                   | `r icon::fa("home")` GOUL 2321                                                           |
 |                   | `r icon::fa("envelope")` shannon.j.oleary[at]gmail[dot]com                               |
-| **Office Hours:** | `r icon::fa("home")` Monday, Friday 11:30am - 1pm, Tuesday 12pm - 1pm, or by appointment |
+| **Office Hours:** | `r icon::fa("home")` Monday, Friday 11:30am - 12:30pm, Tuesday 12pm - 1pm, or by appointment |
 | **Lectures:**     | `r icon::fa("chalkboard-teacher")` Monday/Wednesday/Friday 10:20 - 11:10am (GOUL3102)    |
 | **Lab:**          | `r icon::fa("flask")` Wednesday 1:30 - 4:30pm (GOUL3102)                                 |
 :::
