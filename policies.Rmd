@@ -75,9 +75,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Grade |	Percent | Explanation |
 |-------|---------|-------------|
-|✔(+)	  | 110     |assignment is 100% complete, all tasks completed, all answers correct, exceptional work (rare).
-|✔	    | 100     |assignment is complete, all tasks have been attempted, most are correct (expected).
-|✔(-)	  | 60      |assignment is incomplete, most answers incorrect (ideally rare).
+|✔(+)	  | 110     | assignment is 100% complete, all tasks completed, all answers correct, exceptional work (rare).
+|✔	    | 100     | assignment is complete, all tasks have been attempted, most are correct (expected).
+|✔(-)	  | 60      | assignment is incomplete, most answers incorrect (ideally rare).
+|X      | 0       | not submitted (ideally never).
 
 :::
 
