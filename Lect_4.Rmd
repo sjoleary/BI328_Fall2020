@@ -37,7 +37,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 12
 
-`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 2
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 1
 
 <br>
 
