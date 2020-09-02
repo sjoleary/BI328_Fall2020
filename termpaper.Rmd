@@ -77,6 +77,8 @@ I am intentionally having you chose your case study along with your term paper t
 ***Step 5 Submit***  
 Your topic choices should be submitted by **September 4th, 2020** as a word document through `Canvas`. Double space and use a legible font (Times new Roman/Cambria, Arial/Calibri) and font size (11 - 12pts). Name your file `BI328_lastname_topics.docx`. Create a header or footer with your Name, Page number, and course designation/semester, it should contain your notes from step 1 (bullet points is fine), the topic of your term paper along with five potential sources, the topics & formats of each of your case studies (see step 4) along with one source for each. Format your references using a standard format.
 
+I've provided a template of what that submission could look like [`r icon::fa("file-download")`](/files/BI328_OLeary_topics.docx).
+
 
 ### WRITE YOUR OUTLINE & ANNOTATED BIBLIOGRPAHY
 

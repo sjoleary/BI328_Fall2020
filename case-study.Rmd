@@ -28,9 +28,13 @@ You will chose your topics and submit them along with your term paper topic & an
 
 **At least one** case study should detail strategies taken to **conserve an endangered species or a specific ecosystem**. Make this as specific as possible (e.g. not "coral reefs" rather you would describe the details of specific threats and efforts undertaken in a specific location). Your case study should detail the threats resulting in the species/ecosystem being threatened or endangered, the conservation strategies to preserve the ecosystem or species, and critically assess the success of the endeavor.
 
-Other topics could include a specific piece of legislation (endangered species act, implementation of a protected area), a biography of a scientist or activist who made a significant contribution to conservation biology, or a personal experience e.g. volunteering/research experience (for this last category, please clear it with me first to make sure it is appropriate). In each case you want to describe the problem(s) being addressed, the proposed strategies, and assess the success.
+Your case studies can fulfill more than one requirement, e.g. the case study focused on a specific endangered species or ecosystem can also be focused primarily on a single research article.
+
+Other topics could include a specific piece of legislation (Endangered Species Act, implementation of a protected area), a biography of a scientist or activist who made a significant contribution to conservation biology, or a personal experience e.g. volunteering/research experience (for this last category, please clear it with me first to make sure it is appropriate). In each case you want to describe the problem(s) being addressed, the proposed strategies, and assess the success.
 
 If you are having problems coming up with topics, come see me during office hours or make an appointment *before* the deadline so we can come up with something you are interested in!
+
+You will chose your topics along with your [term paper topic](https://bi328.netlify.app/termpaper.html); I've provided a template of what that submission could look like [`r icon::fa("file-download")`](/files/BI328_OLeary_topics.docx).
 
 
 ### FORMAT(S)
