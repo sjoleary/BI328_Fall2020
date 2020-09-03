@@ -31,10 +31,10 @@ knitr::opts_chunk$set(echo = FALSE)
 |3| 8/31	| M	| [Functional Diversity](https://bi328.netlify.app/lect_2)                                | 3, 4
 | |       | W	| [Drivers of Biodiversity](https://bi328.netlify.app/lect_3)                             | 
 |	|	      |   | **THE VALUE OF BIODIVERSITY**	                                                          |
-| |       | F	| [Value Systems & Ecosystem Services](https://bi328.netlify.app/lect_3)                  | 5, 6
+| |       | F	| [Value Systems](https://bi328.netlify.app/lect_3)                                       | 5, 6
 | |       |   | *due 9/4 by midnight: Topics for case studies*                                          |
-|4| 9/7	  | M	| [Ecosystem Services & Economics of Biodiversity](https://bi328.netlify.app/lect_3)      | 6, 7
-| |       | W	| [Ecosystem Services & Economics of Biodiversity](https://bi328.netlify.app/lect_3)      | 7
+|4| 9/7	  | M	| [Ecosystem Services](https://bi328.netlify.app/lect_3)                                  | 6, 7
+| |       | W	| [Economics of Biodiversity](https://bi328.netlify.app/lect_3)                           | 7
 | |       | F	| **MIDTERM**	                                                                            |
 |	|	      |   | **THE BIODIVERSITY CRISIS**                                                             |
 |5|	9/14	| M |	[Loss of Biodiversity: Extinction Risks & Drivers](https://bi328.netlify.app/lect_4)    | 8
