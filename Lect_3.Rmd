@@ -25,6 +25,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 6
 
+<br>
+<br>
 
 **Reading reflections due: Sept 11th, 5pm**
 
@@ -33,6 +35,106 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br>
 
+
+### Outline: Valueing Biodiversity
+
+**Value Systems**
+
+* Our worldviews shape the the questions we ask
+    + Values vs Ethics
+    + Scientists vs Advocates (?)
+* Major Value Systems for biodiversity
+    + Relational
+    + Instrinsic
+    + Utilitarian
+* Intrinsic Value of Biodiversity
+    + Moral arguments
+    + Ethical arguments
+    + Religious arguments
+* Relational Value of Biodiversity
+    + Personal/cultural identity
+    + Social responsibility
+    + Historical & Educational & Biophilia
+    + Aesthetic
+* Instrumental/Utilitarian values
+    + Direct use value
+    + Indirect use value
+    + Option value
+    + Non-use value
+
+**Case Study: Effects of decline in salmon body size**
+
+<br>
+
+**Assessing Value of Hierarchical Levels of Biodiversity**
+
+* Value of Genetic Diversity
+    + fundamental building block of biodiversity
+    + adaptive potential of a population
+* Species Diversity
+    + Intrinsic value
+    + Instrumental value
+    + Ecological/Functional Value
+    + Strategic Value for Conservation
+    + Realized vs potential value
+    + Uniqueness
+* Ecosystem Diversity
+    + Intrinsic value
+    + Instrumental value
+    + Strategic Value for Conservation
+    
+**Ecosystem Services**
+
+* Framework for defining ecosystem services
+    + Supporting 
+    + Provisioning
+    + Regulating
+    + Cultural
+* Supporting Services
+    + Resource Capture
+    + Biomass Production
+    + Decomposition
+    + Nutrient Recycling
+* Provisioning Services
+    + Food
+    + Raw materials
+    + Water Cycle
+    + Medicine/Biotechnology
+* Regulating Services
+    + Water purification
+    + Soil fertility & erosion
+    + Climate regulation
+    + Pest/disease control
+    + Natural disaster mitigation
+    + Pollination
+* Cultural Services
+    + Aesthetic
+    + Spiritual
+    + Educational
+    + Recreational
+* Ecosystem functioning/services & Biodiversity/Biocomplexity
+    + Species diversity plays important role in stabilizing ecosystems & regulating supporting services, examples Niche partitioning, positive interactions, selection effect, dilution effect
+    + (Intra-)Species diversity plays an important role to ensure constant delivery of ecosystem services by reducing volatility over time (population asynchrony/portfolio effect)
+    
+**Ecological Economics**
+
+* Ecosystem markets can established to reward the conservation of ecosystems
+    + direct public/private payments
+    + tax incentives
+    + cap & trade markets
+    + voluntary markets
+    + certification programs
+* Problems with paying for ecosystem services 
+* Ecological Economics
+    + the market mechanism
+    + markets fail open-access/pool resources
+* Total Economic Value Framework
+    + Direct Use Values
+    + Indirect Use Values
+    + Option Values
+    + Existence Values
+  
+<br>
 
 ### Debrief
 
@@ -58,9 +160,55 @@ Additional resources:
 
 ### Review
 
+Briefly describe the role of a scientist vs an advocate in Conservation Biology and argue whether you think there is such a thing as a "objective scientist".
 
+List the three major value systems for biodiversity.
 
+Compare and contrast the systems of valuing biodiversity for its instrumental vs intrinsic value.
 
+Briefly describe the three major arguments for the intrinsic value of biodiversity.
+
+Explain how the relational value of biodiversity describes aspects not encompassed in the intrinsic/utilitarian value of biodiversity.
+
+Briefly describe the four main categories to describe the instrumental value of biodiversity.
+
+Explain the difference in the ease of being able to assign monetary value for biodiversity with direct use value vs. Indirect Use Value/Option Value/Non-use value.
+
+Briefly describe the value of genetic diversity.
+
+Define the value of species diversity in terms of instrumental value.
+
+Define the value of species diversity in terms of ecological/functional value.
+
+Define the terms "flagship species", "umbrella species", "indicator species" and briefly explain how the groups of species have a strategic value for conservation.
+
+Argue whether you think the intrinsic value of a species is higher if it is more unique/rare.
+
+Argue whether you think the instrumental value of a species is higher if it has a more unique role within an ecosystem.
+
+Briefly describe the instrumental value of an ecosystem in terms of goods & services.
+
+Briefly explain how ecosystem diversity can have a strategic value for conservation.
+
+Briefly describe each of the four major categories of ecosystem services and list examples for each.
+
+Briefly describe the four ecosystem functions that constitute the supporting services and explain the relationship to the other three categories of ecosystem services.
+
+Briefly describe the four major groups of provisioning services and explain how provisioning services differ from the other three categories (keyword: direct value).
+
+Define what regulating services are, list the six major categories and briefly describe two of them in detail.
+
+Define what cultural services are and describe two examples.
+
+Species diversity plays an important role in stabilizing ecosystems and regulating supporting services. Use an example to explain this statement.
+
+Briefly explain the role of biocomplexity in enhancing ecosystem functioning & ecosystem services (you may use an example).
+
+List six ways markets have been established to trade ecosystem services. For two of them explain the benefits & drawbacks of using such a system.
+
+Briefly describe what open-access and open-pool resources are. List an example for each. Explain why the market frequently fails this type of resources.
+
+Briefly define the concept of the total economic value framework and explain how it captures the "full" utilitarian/instrumental value of biodiversity (use the key terms of direct use value, indirect use value, option value & existence value).
 
 
 
