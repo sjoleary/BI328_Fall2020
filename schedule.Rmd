@@ -33,15 +33,15 @@ knitr::opts_chunk$set(echo = FALSE)
 |	|	      |   | **THE VALUE OF BIODIVERSITY**	                                                          |
 | |       | F	| [Value Systems](https://bi328.netlify.app/lect_3)                                       | 5, 6
 | |       |   | *due 9/4 by midnight: Topics for case studies*                                          |
-|4| 9/7	  | M	| [Ecosystem Services](https://bi328.netlify.app/lect_3)                                  | 6, 7
-| |       | W	| [Economics of Biodiversity](https://bi328.netlify.app/lect_3)                           | 7
+|4| 9/7	  | M	| [Value of Genetic, Species, Ecosystem Diversity](https://bi328.netlify.app/lect_3)      | 6, 7
+| |       | W	| [Ecosystem Services](https://bi328.netlify.app/lect_3)                                  | 6, 7
 | |       | F	| **MIDTERM**	                                                                            |
+|5|	9/14	| M |	[Economics of Biodiversity](https://bi328.netlify.app/lect_4)                           | 7
 |	|	      |   | **THE BIODIVERSITY CRISIS**                                                             |
-|5|	9/14	| M |	[Loss of Biodiversity: Extinction Risks & Drivers](https://bi328.netlify.app/lect_4)    | 8
-| |       | W	| [Habitat Loss, Fragmentation & Degradation](https://bi328.netlify.app/lect_4)           | 9
-| |       | F	| [Pollution](https://bi328.netlify.app/lect_4)                                           | 9
-|6|	9/21	| M	| [Overexploitation](https://bi328.netlify.app/lect_4)                                    | 10
-| |       | W	| [Fisheries Management & Aquaculture](https://bi328.netlify.app/lect_4)                  |
+| |       | W	| [Loss of Biodiversity: Extinction Risks & Drivers](https://bi328.netlify.app/lect_4)    | 8
+| |       | F	| [Habitat Loss, Fragmentation & Degradation](https://bi328.netlify.app/lect_4)           | 9
+|6|	9/21	| M	| [Pollution](https://bi328.netlify.app/lect_4)                                           | 9
+| |       | W	| [Overexploitation](https://bi328.netlify.app/lect_4)                                    | 10
 | |       | F	| [Invasive species](https://bi328.netlify.app/lect_4)                                    | 11
 |7|	9/28	| M	| [Climate change](https://bi328.netlify.app/lect_4)                                      | 12
 | |       | W	| [Tipping Points, Resilience & Persistence](https://bi328.netlify.app/lect_4)            |
