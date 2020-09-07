@@ -190,4 +190,4 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
 * Argue whether abiotic disturbances increase or decrease biodiversity - consider that disturbances differ in their scale & frequency.
 
 
-Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/BI328_ReviewQs_Concepts_Measures_Patterns_Drivers).
+Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/BI328_ReviewQs_Concepts_Measures_Patterns_Drivers.pdf).

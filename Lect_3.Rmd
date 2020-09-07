@@ -154,7 +154,11 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
 
 ### Dig a little deeper
 
-Additional resources:
+* Oke et al. (2020) Recent declines in salmon body size impact ecosystem and fisheries
+* Cardinale (2011) Biodiversity improves water quality through niche partitioning
+* Losey & Denno (1998) Positive predator-predator interactions: enhanced predation rates and synergistic suppression of aphid populations
+* Chan et al (2017) Payments for ecosystem services: Rife with Problems and Potential: For Transformation towards Sustainability
+
 
 
 
@@ -212,4 +216,4 @@ Briefly define the concept of the total economic value framework and explain how
 
 
 
-Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/BI328_ReviewQs_Value_Biodiversity).
+Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/BI328_ReviewQs_Value_Biodiversity.pdf).

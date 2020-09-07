@@ -18,11 +18,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Templates for assignments
 
-Template for Reading Reflection Submissions [`r icon::fa("file-download")`](/files/BI328_OLeary_reading_08-28).
+Template for Reading Reflection Submissions [`r icon::fa("file-download")`](/files/BI328_OLeary_reading_08-28.docx).
 
-Template for Topics Submission [`r icon::fa("file-download")`](/files/BI328_OLeary_topics).
+Template for Topics Submission [`r icon::fa("file-download")`](/files/BI328_OLeary_topics.docx).
 
 
 ## Guidelines
 
-Exam Guidelines [`r icon::fa("file-download")`](/files/BI328_Exam_Guidelines).
+Exam Guidelines [`r icon::fa("file-download")`](/files/BI328_Exam_Guidelines.pdf).
