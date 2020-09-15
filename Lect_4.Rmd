@@ -25,6 +25,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 9
 
+*Food for thought*
+
+Is the current focus on a potential 6th mass extinction an overreaction?
+
+We extensively discussed biodiversity and how it can be described at different hierarchical scales (genetic, species, ecosystem) and using different frameworks (compositional, structural, functional) and yet we are using extinction (complete loss at species level as our only measure) - do you think this is a good proxy?
+
+Is pollution a type of habitat degradation or is habitat degradation one (of many) effects of pollution?
+
+
 <br>
 <br>
 
@@ -61,11 +70,105 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
 
 **Due by 3pm the day after lecture.**
 
+### Outline: The Biodiversity Crisis
+
+**Global Patterns of Biodiversity loss**
+
+* State of Biodiversity
+    + state of biodiversity declining trend
+    + pressures of biodiversity increasing trend
+    + responses to address loss increasing trend
+* Understanding patterns of biodiversity loss
+    + "levels" of extinction
+    + tracking (future) loss through IUCN Red List
+    + Global change in species diversity is a result of extinction & speciation
+    + determining if contemporary accelerated loss of species diversity is a mass extinction requires determining the rate of extinction and the proportion of existing species being lost
+    
+**Drivers of Extinction**
+
+* understanding drivers of extinction/biodiversity loss meanse we must address the ultimate causes of loss
+    + increasing numbers of humans
+    + increasing exploitation of natural resources
+    + addressing the causes not the symptoms means implementing sustainable use of resources
+* Drivers of the loss of biodiversity
+    + Habitat loss/fragmentation
+    + Pollution
+    + Invasive species
+    + Overexploitation
+    + Climate change
+* Multiple interacting threats can lead to synergistic effects
+    + some taxonomic groups more affected than others
+    + some habitats more affected than others
+    
+**Local & Regional Patterns of Biodiversity Loss**
+* local changes in species diversity are result of local extirpation and migration/colonization
+* expected number of extinctions due to habitat loss can be modeled using species/area relationships
+    + expected/observed patterns are not always accurate
+    + extinction debt
+    + oversimplified assumptions
+* biodiversity can be monitored using spatial and temporal comparisons
+    + patterns of local changes in species diversity are not just net loss due to complex interactions
+    + Experimental design is challenging & can be limiting to interpret results
+    + Lack of clear baselines
+    + Complete loss of species may not be adequate measure of impact
+    + our assumptions of mechanisms are likely too simple
+
+**Intrinsic Vulnerability of species**
+
+* Some species are more vulnerable to extinction
+    + high habitat specificity
+    + limited geographic range
+    + life-history parameters
+    + demographics
+* Stochastic effects make small populations more vulnerable
+    + demographic stochasticity
+    + environmental stochasiticity
+* Demographics
+    + Population size
+    + population growth rate
+    + population density
+* Habitat, range & connectivity
+    + geographic range & habitat
+    + connectivity and isolation
+* Life history traits
+    + lifespan, juvenile survivorship, adult mortality
+    + age-at-maturiuty, fecundity
+    + body size, growth
+    
+**Habitat Loss**
+
+
+
+**Habitat Fragmentation & Metapopulations**
+
+
+
+**Habitat Degradation**
+
+
+
+**Pollution**
+
+
+
+**Overexploitation**
+
+
+
+**Invasive species**
+    
+
+
+
+
 
 
 ### Dig a little deeper
 
-Additional resources:
+Winemiller (2005) Life history strategies, population regulation, and implications for fisheries management." Canadian Journal of Fisheries and Aquatic Sciences 62.4: 872-885.
+
+Kindsvater et al. (2016) Ten principles from evolutionary ecology essential for effective marine conservation. Ecology and Evolution 6.7: 2125-2138.
+
 
 
 

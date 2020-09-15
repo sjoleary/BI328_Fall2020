@@ -210,7 +210,7 @@ Briefly explain the role of biocomplexity in enhancing ecosystem functioning & e
 
 List six ways markets have been established to trade ecosystem services. For two of them explain the benefits & drawbacks of using such a system.
 
-Briefly describe what open-access and open-pool resources are. List an example for each. Explain why the market frequently fails this type of resources.
+Briefly describe what open-access and open-pool resources are. List an example for each. Explain why the market frequently fails this type of resources (keyword: externalities).
 
 Briefly define the concept of the total economic value framework and explain how it captures the "full" utilitarian/instrumental value of biodiversity (use the key terms of direct use value, indirect use value, option value & existence value).
 
