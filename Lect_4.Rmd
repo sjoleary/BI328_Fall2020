@@ -39,20 +39,35 @@ Is pollution a type of habitat degradation or is habitat degradation one (of man
 
 **Reading reflections due: Sept 25th, 5pm**
 
+`r icon::fa("book-reader")` Diaz, R. J., & Rosenberg, R. (2008). Spreading dead zones and consequences for marine ecosystems. science, 321(5891), 926-929.
+
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 10
 
-`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 11
+
 
 <br>
 <br>
 
 **Reading reflections due: Oct 2nd, 5pm**
 
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 11
+
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 12
 
-`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 1
 
 <br>
+<br>
+
+
+**Reading reflections due: Oct 9th, 5pm**
+
+`r icon::fa("book-reader")` Executive summary (p. 7 - 10) of [Leadley, P. (2010). Biodiversity scenarios: projections of 21st century change in biodiversity, and associated ecosystem services: a technical report for the global biodiversity outlook 3 (No. 50). UNEP/Earthprint.](https://www.cbd.int/doc/publications/cbd-ts-50-en.pdf)
+
+
+<br>
+<br>
+
+
 
 
 ### Debrief
@@ -101,6 +116,7 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
     + some habitats more affected than others
     
 **Local & Regional Patterns of Biodiversity Loss**
+
 * local changes in species diversity are result of local extirpation and migration/colonization
 * expected number of extinctions due to habitat loss can be modeled using species/area relationships
     + expected/observed patterns are not always accurate
@@ -137,9 +153,34 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
     
 **Habitat Loss**
 
+* Definition of habitat loss
+    + Habitat loss (destruction)
+    + Habitat fragmentation
+    + Habitat degradation
+    
+* Habitat loss resulting from land-use change is most significant driver of biodiversity loss
+
+* Primary drivers of habitat loss
+    + Agriculatural expansion
+    + Urbanization
+    + Extractive Industries
+    
+* Effects of increasing land-use intensity on biodiversity
+    + differential impacts on taxonomic groups
+    + differential impacts on biomes
+    
+**Habitat Fragmentation**
+
+* Habitat fragmentation is more than habitat loss
+
+* Habitat patch configuration determines impact
+    + size of habitat patches
+    + number of habitat patches
+    + distance/isolation among habitat patches
+    + area:perimeter ratio of patches (edge habitat)
 
 
-**Habitat Fragmentation & Metapopulations**
+**Metapopulations**
 
 
 
@@ -156,7 +197,14 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
 
 
 **Invasive species**
-    
+
+
+
+**Climate Change**
+
+
+
+**Tipping Points, Resilience & Persistence**
 
 
 
@@ -168,6 +216,8 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
 Winemiller (2005) Life history strategies, population regulation, and implications for fisheries management." Canadian Journal of Fisheries and Aquatic Sciences 62.4: 872-885.
 
 Kindsvater et al. (2016) Ten principles from evolutionary ecology essential for effective marine conservation. Ecology and Evolution 6.7: 2125-2138.
+
+Newbold et al. (2015) Global effects of land use on local terrestrial biodiversity. Nature 520.7545 (2015): 45-50.
 
 
 
