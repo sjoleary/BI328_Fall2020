@@ -314,14 +314,14 @@ Newbold et al. (2015) Global effects of land use on local terrestrial biodiversi
 
 e.g.
 
-parameter        |   | intrinsic vulnerability |
------------------|---| ----------------------- |
-age-at-maturity | ↑ |  ↑                      |
+parameter        | intrinsic vulnerability |
+-----------------| ----------------------- |
+age-at-maturity ↑|  ↑                      |
 
 
-17a Elephants generally have small population and their life history is characterized by a late-age-at maturity, high parental care, and long generation time. By contrast, squirrels are abundant throughout their wide geographic range. Their life history is characterized by a short generation time, and high fecundity. Argue which species has the higher intrinsic vulnerability. 
+17. a Elephants generally have small population and their life history is characterized by a late-age-at maturity, high parental care, and long generation time. By contrast, squirrels are abundant throughout their wide geographic range. Their life history is characterized by a short generation time, and high fecundity. Argue which species has the higher intrinsic vulnerability. 
 
-17b Plot twist: The British red squirrel has a geographic range extending from Siberia to Ireland and despite its overall abundance decreasing it is categorized as a species of least concern by the IUCN. Since the introduction of gray squirrels from North America this invasive species frequently outcompetes native red squirrels and (ironically) transmits a squirrelpox virus lethal to native red squirrels which are now only found in a few small population in southern Scotland. Argue whether you think the British red squirrel is correctly categorized by the IUCN.
+17. b Plot twist: The British red squirrel has a geographic range extending from Siberia to Ireland and despite its overall abundance decreasing it is categorized as a species of least concern by the IUCN. Since the introduction of gray squirrels from North America this invasive species frequently outcompetes native red squirrels and (ironically) transmits a squirrelpox virus lethal to native red squirrels which are now only found in a few small population in southern Scotland. Argue whether you think the British red squirrel is correctly categorized by the IUCN.
 
 18. Define habitat loss/destruction, habitat fragmentation, and habitat degradation.
 
@@ -361,4 +361,4 @@ age-at-maturity | ↑ |  ↑                      |
 
 
 
-Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/).
+Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/BI328_ReviewQs_Biodiversity_Loss.pdf).

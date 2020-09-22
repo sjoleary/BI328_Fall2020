@@ -26,3 +26,5 @@ Template for Topics Submission [`r icon::fa("file-download")`](/files/BI328_OLea
 ## Guidelines
 
 Exam Guidelines [`r icon::fa("file-download")`](/files/BI328_Exam_Guidelines.pdf).
+
+Guidelines written summary of research paper [`r icon::fa("file-download")`](/files/BI328_Article_Discussion_Guidelines.pdf).
