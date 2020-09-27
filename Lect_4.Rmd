@@ -216,6 +216,7 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
     + organisms with ontogenetic shifts and isolated/small populations at greater risks
     + may force species into meta-population structure
     
+    
 **Metapopulations**
 
 * Patchy landscape may force meta-population structures
@@ -242,6 +243,90 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
 
 **Habitat Degradation**
 
+* Habitat degradation is the result of human activities decreasing habitat quality resulting in the erosion of biodiversity
+    + primary causes are desertification, soil erosion & sedimentation
+    + habitat degradation can be caused by habitat fragmentation (edge effects)
+    + pollution may also result in habitat degradation in the broadest sense
+
+* Sediment erosion occurs when soil particles become detached by water, wind, or gravity and are transported away from their original location
+    + main causes are overgrazing, deforestation, unsustainable agriculture resulting in the loss of primary vegetation which mitigate soil erosion through their roots which stabilize the top soil and retain moisture
+
+* Soil erosion and sedimentation affect biodiversity & human well-being
+    + Increased turbidity loss of sunlight for plants/visibility for animals)
+    + Decrease available oxygen
+    + Problematic for filter feeders
+    + Affect drinking water (increased water treatment costs)
+    + Increased flooding, clogged storm water pipes/storage systems
+    + Property damage/value reduction
+    
+* Desertification is the result of poor soil management leading to soil degradation causing dry lands to become increasingly arid, loss of water bodies, vegetation & wildlife
+    + ultimate cause: increasing heat waves/drought + increasing population size
+    + e.g overgrazing results in shrub establishment & grassland degeneration, increased spatial heterogeneity, and soil compaction (desertification) compounded by wind erosion, nutrient loss, and water runoff
+    + climate change contributes to accelerate the process
+    + Soil erosion, desertification, climate change, biodiversity loss are linked in positive feedback loop accelerating the processes
+    
+* Pollution directly and indirectly impacts species
+    + industrial pollutants (toxic metals, acid rain, ...
+    + Pharmaceutical pollutants & personal care products
+    + Pesticides & Herbicides
+    + Nutrients
+    + Oil spills
+    + Plastics
+    
+* Many pollutants are persistent and stay in organisms/environment for a long time/able to harm long after & great distance from initial release
+    + Point source contamination: trace to specific points of discharge from waste water, treatment plants, factories, combined sewers
+    + Non-point sources result from run-off transporting pollutants into aquatic systems
+    + Air pollution spreads across the landscape, often overlooked as non-point source of pollution, may travel far
+    + Eroded soil & sediment can transport considerable amounts of nutrients (e.g. organic nitrogen, phosphorous, pesticides to rivers, streams)
+    
+* Pesidiced impact wildlife   
+    + decrease wild plants & birds
+    + reduce biodiversity of stream inverts
+    
+* Biomagnification of results in DDT, organochlorine pesticides, organic metals, and other toxic chemical compounds becoming concentrated at higher trophic levels of the food chain
+
+* Heavy (toxic) metals (lead, zinc, mercury, cobalt) released into environment through mining, smelting, leaded gasoline, coal burning, electronic waste
+  + direct effects (Lethal effects): toxic metal poisoning
+  + indirect effects (sublethal effects): Increasing susceptibility to disease, decreased fecundity, …
+
+* Effects of Pharmaceuticals & Personal Care Products on biodiversity are poorly understood - but it's not good
+    + enter environment through hospitals, households, industries discharge directly surface waters and Excretion, improper disposal of medicines into plumbing (indirectly)
+    + PPCPs are ubiquitous in the environment
+    + Wastewater treatment facilities do not have technology to get out of systems
+    + Example: Feminization of male fathead minnows: Exposure to 17-ethynylestradiol feminizes the male fathead minnow, reduce size of their gonads, loss of males lead to reproductive failure
+    
+* Nutrient overload leads to eutrophication and dead zones
+    + Macronutrients: Carbon, Nitrogen, Phosphorus
+    + Phosphorus is limiting nutrient freshwater systems/nitrogen in marine systems
+    + Algal blooms occur when there is sufficient sunlight, nutrients, and optimum temperature - once consumers (zooplankton) increase & nutrients are used up they subside
+    + Nutrients/organic matter from sewage treatment plants, effluents, Stream input, local non-point drainage, and direct rainfall result in eutrophication
+    + Eutrophication fuels high rates of phytoplankton growth and biomass accumulation
+    + Phytoplankton die and are decomposed using up the oxygen resulting in hypoxia/anoxia (dead zones)
+    + Fish either flee low-oxygen regions or die
+    
+* Plastics have strong & varied impact on biodiversity
+    + especially in marine systems plastics are growing form of environmental pollution
+    + effects are ingestion, entanglement, organic pollutants/metals, microplastics
+    + microplastics are an emergent contaminant with wide range of sources and potential for bioaccumulation of toxic plastic additives and organic pollutants (e.g DDT and PCB) that adsorb to microplastics
+    + filter feeding marine megafauna especially prone to microplastic ingestion (bioaccumulation may result)
+    
+* Oil spills
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
 
 
 **Pollution**
@@ -358,6 +443,36 @@ age-at-maturity ↑|  ↑                      |
 33. Give a brief description of how metapopulation theory can be applied to conservation.
 
 34. Habitat fragmentation has resulted in species A being restricted to a series of small, highly isolated habitat patches. By contrast, species B has several suitable habitat patches available that are connected by dispersal, though in some locations there have been local extirpations due to stochastic effects. In both cases, the local populations are small and some habitats have been further degraded by pollution. Compare and contrast these two species and their local populations in terms of their extinction risk.
+
+35. Define habitat degradation, list the major causes and explain how habitat loss and fragmentation may each contribute to habitat degradation.
+
+36. Briefly describe the causes, process, and effects of soil erosion & sedimentation on biodiversity & human well-being.
+
+37. A patch of tropic rain forest can be valued for its direct value as provisioning ecosystem service or its indirect value as a regulating ecosystem service. Describe its value in the context of habitat degradation to argue whether you think higher value should be placed on the provision ecosystem or regulating ecosystem service.
+
+38. Briefly explain the process of desertification using an example (be sure to describe causes & effects).
+
+39. Desertification, biodiversity loss, and climate change are linked through multiple positive feedback loops. Explain what a positive feedback loop is using one of these inter-connected mechanisms as an example (use an example if that is helpful for you).
+
+40. List six major categories of pollutants.
+
+41. Compare and contrast pollution and habitat degradation.
+
+42. Compare and contrast point and non-point sources of pollutants using specific examples for each and argue which group of sources you think has a greater impact on ecosystems.
+
+43. Use an example to explain the process of biomagnification.
+
+44. Use toxic metals as an example to explain the difference of sublethal and lethal effects of pollution.
+
+45. List a range examples of pharmaceutical and personal care products and explain how they enter the environment.
+
+46. Describe what a bioindicator is using aquatic invertebrates as an example.
+
+47. Explain what nutrient run-off is, explain how it leads to eutrophication and so-called dead zones, list ecosystems typically affected by dead zones, and describe how it impacts biodiversity (give two specific examples of affected taxonomic groups).
+
+48. List the four main ways plastics impact biodiversity (especially in marine systems).
+
+49. Describe what microplastics are, their sources/how they enter the environment and outline two major ways they can impact organisms. 
 
 
 
