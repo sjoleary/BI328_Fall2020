@@ -283,6 +283,8 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
     + climate change contributes to accelerate the process
     + Soil erosion, desertification, climate change, biodiversity loss are linked in positive feedback loop accelerating the processes
     
+**Pollution**
+    
 * Pollution directly and indirectly impacts species
     + industrial pollutants (toxic metals, acid rain, ...
     + Pharmaceutical pollutants & personal care products
@@ -329,30 +331,83 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
     + filter feeding marine megafauna especially prone to microplastic ingestion (bioaccumulation may result)
     
 * Oil spills
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-**Pollution**
-
+    + sources include tankers (reduced w/better navigation resulting in less accidents), pipelines (3-fold increase since 1970), oil storage/refineries (5-fold increase since 1970), and exploration/production facilities (2010 DWH oil spill largest marine oil spill with 134 - 206 mill gallons).
+    + oil spills impact biodiversity directly through exposure to oil, and indirectly when chemical dispersants used to break down oil themselves are toxic.
+    + Exxon Valdez tanker spill in 1989 (Prince William Sound) has had lasting impacts with oil still persisting in some beach locations and some species & ecosystems have still not recovered.
+    + The Deepwater Horizon oil spill leaked 19x more oil than Exxon Valdez, only 25% of oil was recovered (deepwater blowout); the use of dispersents had negative impacts (e.g. on corals), direct exposure to oil has multiple pathways resulting in lethal and sublethal effects. Much of the oil ended up on the seafloor with lasting impacts.
 
 
 **Overexploitation**
 
+* Overexploitation (Overharvesting) is the harvesting of a renewable source faster than it can be produced
+    + wild plants/animals
+    + whole ecosystems
+    + resources required to sustain life
+    
+* Persistent overexploitation may lead to complete destruction of a resource
+    + Overexploitation is not a new phenomena
+    + impact on biodiversity is increasing in anthropocene as human populations are larger & technology has improved
+    
+* Humans rely on domestic & wild organisms as food sources
+    + 62 developing countries rely on wildlife for at least 1/5 of their animal protein (insects, amphibians, reptiles, birds, fish, rodents, larger mammals)
+    + Fish provides 3 billion people with almost 20% of their average animal protein intake
+    
+* Exploitation of a common pool resource may lead to tragedy of the commons: Collective action of many individuals pursuing own self interest depletes, spoils, destroys the resource to the detriment of everyone
+
+* Types of exploitation
+    + Commercial exploitation
+    + Subsistence exploitation
+    + Recreational exploitation
+    
+* Subsistence exploitation is having an increasing impact
+    + Growing problem in developing countries faced with food insecurity
+    + with better access, technology & market for wild meat
+    + Increase of poaching pressure inside parks leads to conflict
+    + bushmeat can result in transmission of zoonotic disease
+
+* Recreational overexploitation   
+    + hunting & fishing
+    + recreational past time & cultural significance 
+    + most targeted animals not threatened
+    + impact differs by animals being hunted (trophy hunting vs. population control)
+    + many hunters are proponents of conservation efforts
+    + discussion on the up/downside of trophy hunting
+    
+* Commercial exploitation
+    + legal/illegal wildlife trade
+    + fish
+    + logging
+
+**Overfishing**
+
+* recreational fishing contributes to overfishing (may exceed commercial landings for some species)
+
+* global paterns of overfishing & regulation
+    + approx. 33% fished at unsustainable rate, 60% maximal sustainable rate, 7% underfished
+    + Areas w/poor regulation/enforcement vs areas that are well regulated/managed
+
+* uncheck fishing pressure may lead to collapse of fishery
+    + Atlantic Cod: mismanagement
+    + Peruvian Anchovata: regime shifts (El Nino)
+    + Atlantic herring: technology
+    + other contributors: open access resource, population expansion, conflicts between fisheries, subsidies
+    
+* does overfishing lead to extinction?
+    + well-documented link in terrestrial species between overharvesting + extinction
+    + few verifiable extinctions in the ocean, though cases of local extirpations & becoming functionally extinct do exist
+    + many exploited fish have high rebound potential
+    
+* Fisheries crisis
+    + state of fisheries varies: 35% in decline, 25% in recovery, 37% healthy/sustainably fished
+    + overfishing + habitat destruction leads to population collapse
+    + fishing impacts more than just the target species (bycatch, physical impact of gear, new ecosystems/habitats, fishing down the food web)
+    
+* Sustainable fishing
+    + regulatory measures include restrictions on time, space, size & gear
+    + Catch share programs allocate area or privilege to harvest share of total catch to establish controls on fishing pressure
+    + quotas are determined based on the fundamental principle of maximum sustainable yield (point at which population can reproduce indefinitely despite harvesting pressure); models include fixed quotas and fixed effort
+    + Criticism of MSY includes oversimplification of the model and its assumptions, lack of information on species can lead to quotas being set unsustainably, difficult to account for stochastic effects
+    + MSY no longer considered an appropriate upper limit (should not be the target) though more sophisticated models are built on same principle
 
 
 **Invasive species**
@@ -491,6 +546,8 @@ age-at-maturity ↑|  ↑                      |
 48. List the four main ways plastics impact biodiversity (especially in marine systems).
 
 49. Describe what microplastics are, their sources/how they enter the environment and outline two major ways they can impact organisms. 
+
+50. 
 
 
 
