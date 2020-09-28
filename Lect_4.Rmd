@@ -547,7 +547,51 @@ age-at-maturity ↑|  ↑                      |
 
 49. Describe what microplastics are, their sources/how they enter the environment and outline two major ways they can impact organisms. 
 
-50. 
+50. List the four main causes of oil spills.
+
+51. List direct and indirect impacts of oil spills on biodiversity, use examples of which type of organisms and/or ecosystems may be affected.
+
+52. Argue why you think some species may recover more quickly from an oil spill like Exxon Valdez than others.
+
+53. Briefly describe what dispersants are and how they are used to mitigate oil spills and use an example to explain how they may do more harm than good.
+
+54. Explain the difference between lethal and sublethal effects and argue which you think will have the greater impact on biodiversity (consider long vs. short-term impacts).
+
+55. Give a brief definition of overexploitation and list the different groups of resources that may be affected.
+
+56. Argue why overexploitation is the second largest driver of biodiversity loss after habitat loss/destruction.
+
+57. Define what a common-pool resource is and list three examples. Use one of these examples to explain the concept of the tragedy of the commons.
+
+58. List 5 reasons for overexploitation.
+
+59. Briefly define the three types of overexploitation.
+
+60. Define what subsistence overexploitation is and briefly outline why it is having an increasing impact on biodiversity.
+
+61. Define what recreational exploitation is and list the two major categories.
+
+62. Contrast two widely-held but opposing opinions that recreational hunting is beneficial for biodiversity and conservation efforts versus recreational hunting being harmful to species being hunted.
+
+63. Argue whether trophy hunting harms or benefits local biodiversity and local economies (remember argue means you should list arguments on both side and come to a conclusion based on those).
+
+64. List the three major categories of commercial exploitation.
+
+65. Compare and contrast recreational and commercial fisheries (consider points such as impact, locations/affected ecosystems, habitats, targeted species/fish within a population).
+
+66. Briefly describe the current status of global patterns of overfishing.
+
+67. Fishing pressure (unsustainable yields) may lead to a fisheries collapse. List three other factors that frequently co-contribute. Use an example to describe one mechanism in detail.
+
+68. Briefly explain why there is a well-documented link between overharvesting and extinction in terrestrial species while there are only few verifiable extinctions of marine fish due to overexploitation (i.e. explain why exploited marine fishes may be less or terrestrial species more vulnerable).
+
+69. List four ways fishing impacts more than just the target species. Briefly describe two of these mechanism in more detail.
+
+70. Briefly describe the four main regulatory measures that can be used to regulate a fishery.
+
+71. Explain the difference between an quota-based versus an area-based catch share program (remember this includes defining what each of these is).
+
+72. Briefly define what the maximum sustainable yield is and how it can be used to limit overexploitation. Briefly outline problems with the concept of MSY.
 
 
 
