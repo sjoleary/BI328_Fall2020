@@ -412,7 +412,40 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
 
 **Invasive species**
 
+* Global patterns of invasive species
 
+* Definitions
+    + Native/indigenous species: occurs w/in its past or present natural range
+    + Introduced species: Intentionally or unintentionally introduced to location outside its past or present natural range (beyond its natural dispersal abilities)
+    + Invasive species: Non-native species established in natural/semi-natural ecosystem/habitat; is an agent of change/threat to native biodiversity
+    
+* Increasing rate of invasive and introduced species assisted by humans
+    + Dispersal limitation is the greatest barrier to range expansion
+    + human serve as transport vectors (intentional + unintentional)
+
+
+* Biological interactions influence establishment
+    + Establishment in new habitat/ecosystem is not guaranteed
+    + Spread and proliferation of invasive species has distinct phases
+    
+* Invasive species negatively impact biodiversity
+    + can cause extinctions (predation, competition)
+    + may increase biodiversity when pace of invasion > pace of extinctions
+    + invasive species impact biodiversity: predation, competition, hybridization, homogenization, as pathogens or importing pathogens
+    + invasive species may reduce biodiversity as predators and competitors (lionfish)
+    + cause biotic homogenization
+    + may alter ecosystem functioning and habitats as a whole
+    + can have significant negative impact on economy
+
+* Invasive species can have intended positive impact
+    + intentional introductions for agriculture & as food source 
+    + rebuild forests
+    + biological pest controls
+    
+* Management & Control
+    + effective measures depend on stage of species' establishment - early intervention is important
+    + some measures are controversial (use of poison, trappings)
+    + characteristics of successful eradication programs
 
 **Climate Change**
 
@@ -593,6 +626,35 @@ age-at-maturity ↑|  ↑                      |
 
 72. Briefly define what the maximum sustainable yield is and how it can be used to limit overexploitation. Briefly outline problems with the concept of MSY.
 
+73. Compare and contrast the concepts of a native (indigenous species), an introduced species and an invasive species (invasive alien species) is; consider whether a species could fall into more than one category.
 
+74. A non-native species arriving in a new habitat/ecosystem must overcome three  barriers (filters) to be able to establish itself (colonize that habitat). Briefly describe each one and argue which you think is the greatest barrier to successful colonization.
+
+75. Dispersal limitations are the greatest barrier to successful colonization. Describe what has caused an rapid increase in invasive/introduced species in the last 100 - 200 years.
+
+76. Explain why most species fail to persist and successfully colonize a new habitat even when they are intentionally introduced.
+
+77. List the four main ways species overcome the biotic barrier and are able to successfully establish themselves in a new environment. Use an example to describe one mechanism in detail.
+
+78. Use an example to explain how invasive species may lead to species extinctions. Make sure to explicitly state factors that made species that went extinct vulnerable and factors that allowed the invasive species to have such a dramatic impact.
+
+79. Briefly explain how invasive species may actually increase biodiversity. Argue whether or not you would consider this a positive impact on biodiversity.
+
+80. The direct impacts of invasive species broadly fall into four categories. List all four categories and use a specific example to describe one mechanism in detail.
+
+81. Lionfish have rapidly invaded the Gulf of Mexico and the Caribbean in the last 10 years. List key characteristics to explain what has made them such successful invaders and describe the direct and indirect impacts they have had on the ecosystems they invade.
+
+82. List two ways invasive species can impact an entire ecosystem. Use a specific example to explain one of these in detail.
+
+83. Describe how invasive species can have a large negative impact on local/national economies. List three examples.
+
+84. List three reasons species are intentionally introduced with intended positive impacts.
+
+85. List the four major categories of risk management for invasive species. Briefly describe the different steps/phases of a invasive species becoming established in an ecosystem and explain how the focus of management strategies will differ at each stage (relate this back to the four categories you listed).
+
+86. List four characteristics of successful eradication programs and briefly explain how they contribute to a successful program.
+
+
+<br>
 
 Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/BI328_ReviewQs_Biodiversity_Loss.pdf).
