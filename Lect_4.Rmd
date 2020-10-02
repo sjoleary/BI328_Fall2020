@@ -449,6 +449,40 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
 
 **Climate Change**
 
+* Human activities are effecting global, simultaneous change of abiotic parameters (climate change)
+    + components of climate change (abiotic factors affected)
+    + levels of biological response
+    
+* Persistence in an altered climatic niche
+    + changing climate alter condition in the native habitat
+    + to persist species must have ability to adapt or migrate
+    + responses to allow species to persist: change in local phenotype, phenology, spatial distributions
+    
+* Modeling climate change to predict responses
+    + Identify spatial, demographic & life history characteristics that are important predictors of risk
+    + past trends are not good predictors
+    + different climate scenarios are used to determine different levels of impact
+    
+* Documented responses to climate change
+    + population decay/ local extirpation
+    + geographic range shifts
+    + altered phenologies
+    + biome regime shifts/alternative states
+    
+* Change in ecosystem services impact human well-being
+    + diseas outbreaks/spread
+    + provisioning services (raw materials, food sources)
+    + pollinator services
+    + range shift in fisheries may create new services
+    
+* Managing effects of climate change on biodiversity
+    + establish refugia & safe havens
+    + optimize migration pathways
+    + build evolutionary resilience/conserve adaptive potential
+    
+* Using biodiversity to manage/mitigate effects of climate change
+    + use biodiversity for climate mitigation (e.g. carbon sequestration)
+    + develop green infrastructure: use regulating ecosystem services to mitigate impact of floods, natural disasters
 
 
 **Tipping Points, Resilience & Persistence**
@@ -653,6 +687,38 @@ age-at-maturity ↑|  ↑                      |
 85. List the four major categories of risk management for invasive species. Briefly describe the different steps/phases of a invasive species becoming established in an ecosystem and explain how the focus of management strategies will differ at each stage (relate this back to the four categories you listed).
 
 86. List four characteristics of successful eradication programs and briefly explain how they contribute to a successful program.
+
+87. The result of anthropogenic climate change is a global, simultaneous change of abiotic parameters. List six categories to organize components of climate change, list two examples for each category.
+
+88. The impact of climate change is experienced across all levels of biodiversity from genes, species to ecosystems. List six categories to organize the types of responses, list two examples for each category.
+
+89. Changing climate is altering conditions of native habitats, as a result species will either go extinct (die) or they must have the ability to adapt or migrate. Briefly describe the three major ways species can respond to persist despite an altered climatic niche.
+
+90. Climate models use three types of predictors, spatial, demographic/life history, and recent trends. List three examples of parameters in each category and argue which type of predictors are more or less powerful predictors (argue includes stating which you think are better predictors and why).
+
+91. List the four major categories of documented responses to climate change.
+
+92. There is a range of documented cases of populations decaying (decreasing), some even resulting in local extirpations. Use two examples to explain two different mechanisms that can result in populations not being able to persist.
+
+93. Briefly explain what a geographic range expansion is (remember, this includes describing what a range expansion looks like, general patterns and explaining the mechanism behind it).
+
+94. Describe what a geographic range expansion is and explain the difference between a cold edge expansion (leading edge expansion), and a warm edge contraction (trailing edge contraction). 
+
+95. Use an example to explain how climate change may alter the fitness of a species through altered phenologies and resulting population asynchronies. Be sure to define both 'phenology' and 'population asynchrony' for your explanation.
+
+96. Briefly describe what a regime shift is.
+
+97. Use an example to explain how climate change may result in a regime shift (this includes defining what a regime shift is and the explaining the mechanism for the example you choose).
+
+98. Climate change impacts biodiversity which in turn will impact ecosystem functioning and the provided ecosystem services. Use an example to explain how climate change negatively impacts human well-being and positively impacts human well-being through changes in ecosystem services.
+
+99. List thee major strategies to manage & mitigate the effect of climate change on biodiversity. Use and example to explain one of the strategies in detail.
+
+100. List two major ways we can use biodiversity to mitigate the effects of climate change. Use an example to explain one strategy in detail.
+
+
+
+
 
 
 <br>
