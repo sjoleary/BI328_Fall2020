@@ -48,17 +48,17 @@ knitr::opts_chunk$set(echo = FALSE)
 | |       | F	| [Climate Change](https://bi328.netlify.app/lect_4)                                      | 12
 |8| 10/5  | M	| [Tippiing Points, Resilience, Persistence](https://bi328.netlify.app/lect_4)            | Leadly 2010
 | |       |   | *due 10/5 by midnight: outline/annotated bibliography*                                  |
-| |       | W |	[Special Topic: Wildfires](https://bi328.netlify.app/lect_4)                            |
+| |       | W |	Special Topic: Wildfires                                                                |
 | |       | F	| **MIDTERM**                                                                             |
 |	|	      |   | **MAINTAINING, CONSERVING, AND RESTORING BIODIVERSITY**	                                |
-|9|	10/12 |	M	| [Species/population-level conservation](https://bi328.netlify.app/)              |
-| |       | W	| [Species/population-level conservation](https://bi328.netlify.app/)              |
-| |       | F	| [Ex-situ conservation](https://bi328.netlify.app/)                               |
-|10| 10/19| M |	[Conservation Genetics](https://bi328.netlify.app/)                              |
+|9|	10/12 |	M	| [Wildlife forensics & Wildlife trade](https://bi328.netlify.app/lect_5)                 | 
+| |       | W	| [Ex-situ conservation](https://bi328.netlify.app/lect_5)                                | 16
+| |       | F	| [Species/population-level conservation](https://bi328.netlify.app/lect_5)               | 13
+|10| 10/19| M |	[Species/population-level conservation](https://bi328.netlify.app/lect_5)               | 13
 | |       | W |	[Conservation Genetics](https://bi328.netlify.app/)                              |
 | |       | F |	[Conservation Genetics](https://bi328.netlify.app/)                              |
 |11| 10/26| M |	[Conservation Genetics](https://bi328.netlify.app/)                              |
-| |       | W |	[Wildlife forensics & Wildlife trade](https://bi328.netlify.app/)                |
+| |       | W |	[Conservation Genetics](https://bi328.netlify.app/)                                    |
 | |       | F |	[Essential Habitats/Ecosystem-based management](https://bi328.netlify.app/)    |
 |12| 11/2 | M	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/)  |
 | |       | W	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/)  |
