@@ -17,6 +17,8 @@ navbar:
           href: Lect_3.html
         - text: "Biodiversity Crisis"
           href: Lect_4.html
+        - text: "Species-level conservation"
+          href: Lect_5.html
     - text: "Assignments"
       menu:
         - text: "Overview"

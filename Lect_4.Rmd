@@ -731,7 +731,7 @@ age-at-maturity ↑|  ↑                      |
 
 92. There is a range of documented cases of populations decaying (decreasing), some even resulting in local extirpations. Use two examples to explain two different mechanisms that can result in populations not being able to persist.
 
-93. Briefly explain what a geographic range expansion is (remember, this includes describing what a range expansion looks like, general patterns and explaining the mechanism behind it).
+93. Briefly explain what a geographic range expansion/shift is (remember, this includes describing what a range expansion looks like, general patterns and explaining the mechanism behind it).
 
 94. Describe what a geographic range expansion is and explain the difference between a cold edge expansion (leading edge expansion), and a warm edge contraction (trailing edge contraction). 
 

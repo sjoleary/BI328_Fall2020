@@ -41,30 +41,30 @@ knitr::opts_chunk$set(echo = FALSE)
 | |       | W	| [Global, regional, local patterns of biodiversity loss](https://bi328.netlify.app/lect_4) | 8
 | |       | F	| [Intrinsic Vulnerability & Habitat Loss](https://bi328.netlify.app/lect_4)              | 9
 |6|	9/21	| M	| [Habitat Fragmentation & Metapopulations](https://bi328.netlify.app/lect_4)             | 9
-| |       | W	| [Habitat Degradation & Pollution](https://bi328.netlify.app/lect_4)                     | 9, Diaz & Rosenberg 2008
-| |       | F	| [Overexploitation](https://bi328.netlify.app/lect_4)                                    | 10
+| |       | W	| [Habitat Degradation](https://bi328.netlify.app/lect_4)                                 | 9
+| |       | F	| [Pollution](https://bi328.netlify.app/lect_4)                                           | Diaz & Rosenberg 2008
 |7|	9/28	| M	| [Overexploitation](https://bi328.netlify.app/lect_4)                                    | 10
-| |       | W	| [Invasive Species](https://bi328.netlify.app/lect_4)                                    | 11
-| |       | F	| [Climate Change](https://bi328.netlify.app/lect_4)                                      | 12
-|8| 10/5  | M	| [Tippiing Points, Resilience, Persistence](https://bi328.netlify.app/lect_4)            | Leadly 2010
+| |       | W	| [Overfishing](https://bi328.netlify.app/lect_4)                                         | 10
+| |       | F	| [Invasive Species](https://bi328.netlify.app/lect_4)                                    | 11
+|8| 10/5  | M	| [Climate Change](https://bi328.netlify.app/lect_4)                                      | 12
 | |       |   | *due 10/5 by midnight: outline/annotated bibliography*                                  |
 | |       | W |	Special Topic: Wildfires                                                                |
 | |       | F	| **MIDTERM**                                                                             |
+|9|	10/12 |	M	| [Tipping Points, Resilience, Persistence](https://bi328.netlify.app/lect_5)             | Leadly 2010
 |	|	      |   | **MAINTAINING, CONSERVING, AND RESTORING BIODIVERSITY**	                                |
-|9|	10/12 |	M	| [Wildlife forensics & Wildlife trade](https://bi328.netlify.app/lect_5)                 | 
-| |       | W	| [Ex-situ conservation](https://bi328.netlify.app/lect_5)                                | 16
-| |       | F	| [Species/population-level conservation](https://bi328.netlify.app/lect_5)               | 13
+| |       | W	| [Wildlife forensics & Wildlife trade](https://bi328.netlify.app/lect_5)                 |
+| |       | F	| [Ex-situ conservation](https://bi328.netlify.app/lect_5)                                | 16
 |10| 10/19| M |	[Species/population-level conservation](https://bi328.netlify.app/lect_5)               | 13
-| |       | W |	[Conservation Genetics](https://bi328.netlify.app/)                              |
-| |       | F |	[Conservation Genetics](https://bi328.netlify.app/)                              |
-|11| 10/26| M |	[Conservation Genetics](https://bi328.netlify.app/)                              |
-| |       | W |	[Conservation Genetics](https://bi328.netlify.app/)                                    |
-| |       | F |	[Essential Habitats/Ecosystem-based management](https://bi328.netlify.app/)    |
-|12| 11/2 | M	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/)  |
-| |       | W	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/)  |
+| |       | W |	[Species/population-level conservation](https://bi328.netlify.app/lect_5)               |
+| |       | F |	[Conservation Genetics](https://bi328.netlify.app/)                                     |
+|11| 10/26| M |	[Conservation Genetics](https://bi328.netlify.app/)                                     |
+| |       | W |	[Conservation Genetics](https://bi328.netlify.app/)                                     |
+| |       | F |	[Conservation Genetics](https://bi328.netlify.app/)                                     |
+|12| 11/2 | M	| [Essential Habitats/Ecosystem-based management](https://bi328.netlify.app/)             |
+| |       | W	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/)                    |
 | |       | F	| **MIDTERM**	                                                                            |
-|13| 11/9 |	M	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/)   |
-| |       | W	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/)   |
+|13| 11/9 |	M	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/)                    |
+| |       | W	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/)                    |
 | |       | F	| [Politics & Policy/domestic & international](https://bi328.netlify.app/)         |
 |14| 11/16| M	| [Sustainable Development](https://bi328.netlify.app/)                            |
 | |       | W |	[Ecopragmatism/Ecomodernism](https://bi328.netlify.app/)                         |
