@@ -21,20 +21,22 @@ knitr::opts_chunk$set(echo = FALSE)
 **Reading reflections due: Oct. 16th, 5pm**
 
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 16
-`r icon::fa("book-reader")` TBD
 
-**Food for thought**
+
+*Food for thought*
 
 Consider pros and cons of zoos and aquariums by necessity keeping animals in captivity. Do you object on principle or do you think that the "how" is important? 
+
 
 <br>
 
 **Reading reflections due: Oct. 23rd, 5pm**
 
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 13
+
 `r icon::fa("book-reader")` TBD
 
-**Food for thought**
+*Food for thought*
 
 
 
@@ -81,4 +83,4 @@ Additional resources:
 
 <br>
 
-Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/BI328_ReviewQs_Intro_Conserv_Bio.pdf).
+Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/.pdf).
