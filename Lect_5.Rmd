@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-# Introduction to Conservation Biology
+# Species-level conservation
 
 ### Assigned readings
 
@@ -45,9 +45,46 @@ Consider pros and cons of zoos and aquariums by necessity keeping animals in cap
 
 ### Outline
 
-** **
+**Wildlife Trade**
 
-* 
+* Global wildlife trade is a multibillion dollar industry
+    + wide array of species (25% of terrestrial species affected)
+    + impacts of trade concentrated in certain phylogenetic groups leading to potential for substantial long-term impact on certain lineages
+    + Wildlife trade richness & hotspots of wildlife trade concentrated in tropics
+* Legal Wildlife trade
+    + Primates
+    + wild-caught fish + coral
+    + Main exporters: South East Asia & Amazon
+* Is (legal) wildlife trade sustainable?
+    + many species can be sustainably exploited resulting in potential for sustainable commercial trade
+    + uncontrolled trafficking/overexploitation can result in serious threat to local populations
+* Regulating the wildlife trade (CITES)
+    + Multilateral treaty to protect endangered plants/animals by regulating unsustainable wildlife trade
+    + Signatories voluntarily adopt their own domestic legislation
+    + demand is met by captive breeding/farming, harvesting from the wild and illegal harvesting/poaching
+    + lack of monitoring & enforcement are major contributors to resulting illegal trade
+* Illegal wildlife trade
+    + Primary driver of illegal trade is black market prices for rare specimen & body parts used for traditional medicine, folk remedies, status symbols, collector items
+    + global problem but major concentration in South Africa & Southeast Asia
+    + mammals/mammal derivates 51% of all seizures: skins, pelts, furs (26%) and ivory (25%) make up half of seized mammal derivates
+    + 76% of seizures included species listed on CITES Appendix I or II
+    + Orchids represent > 70% of 30,000 CITES-listed species 
+    + organized crime create international trafficking networks to fund illegal hunting, trapping & smuggling of high values wildlife
+* How can we combat illegal wildlife trade?
+    + poaching is more than an enforcement problem
+    + huge economic disparity between key markets & primary source countries makes illegal trade lucrative (if risky) source of income
+    + enforcement involves a cost/benefit analysis of conservation vs poaching (turn poachers into protectors)
+    + mitigating wildlife trade can be achieved by increasing enforcement or decreasing demand
+    + illegal trade can be combated by promoting sustainable trade
+* Wildlife forensics are a valuable tool to enforce regulations
+    + Wildlife trade and fraudulence in food, artefacts, and cosmetic industries may impact wildlife
+    + Lack of proper tools to identify & trace products (species/region of origin) can be a major constraint to frame charges against poachers/smugglers by law enforcement
+    + wildlife forensics methods must be fast, accurate & reliable with comprehensive coverage/easy accessibility to aid criminal investigation processes
+
+**Ex situ conservation**
+
+
+
 
 
 
@@ -73,7 +110,19 @@ Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/for
 
 Additional resources:
 
-`r icon::fa("book-reader")` 
+`r icon::fa("book-reader")` Scheffers, Brett R., et al. "Global wildlife trade across the tree of life." Science 366.6461 (2019): 71-76.
+
+`r icon::fa("book-reader")` Nijman, V. (2010). An overview of international wildlife trade from Southeast Asia. Biodiversity and conservation, 19(4), 1101-1114
+
+`r icon::fa("book-reader")` Hinsley, et al. (2018). A review of the trade in orchids and its implications for conservation. Botanical Journal of the Linnean Society, 186(4), 435-455.
+
+`r icon::fa("book-reader")` Challender & MacMillan (2014). Poaching is more than an enforcement problem. Conservation Letters, 7(5), 484-494.
+
+`r icon::fa("book-reader")` Cooney et al (2017). From poachers to protectors: engaging local communities in solutions to illegal wildlife trade. Conservation Letters, 10(3), 367-374.
+
+`r icon::fa("book-reader")` Holden et al. (2019). Increase anti‐poaching law‐enforcement or reduce demand for wildlife products? A framework to guide strategic conservation investments. Conservation Letters, 12(3), e12618.
+
+`r icon::fa("book-reader")` Gouda, Sushanto, et al. "Wildlife forensics: A boon for species identification and conservation implications." Forensic Science International (2020): 110530.
 
 
 
