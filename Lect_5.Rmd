@@ -34,7 +34,7 @@ Consider pros and cons of zoos and aquariums by necessity keeping animals in cap
 
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 13
 
-`r icon::fa("book-reader")` TBD
+`r icon::fa("book-reader")` Lacy (2019) Lessons from 30 years of population viability analysis of wildlife populations. Zoo Biology 38:67-77.
 
 *Food for thought*
 
