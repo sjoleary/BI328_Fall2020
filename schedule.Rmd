@@ -54,9 +54,9 @@ knitr::opts_chunk$set(echo = FALSE)
 |	|	      |   | **MAINTAINING, CONSERVING, AND RESTORING BIODIVERSITY**	                                |
 | |       | W	| [Wildlife forensics & Wildlife trade](https://bi328.netlify.app/lect_5)                 |
 | |       | F	| [Ex-situ conservation](https://bi328.netlify.app/lect_5)                                | 16
-|10| 10/19| M |	[Species/population-level conservation](https://bi328.netlify.app/lect_5)               | 13, Lacy 2019
-| |       | W |	[Species/population-level conservation](https://bi328.netlify.app/lect_5)               | 13, Lacy 2019
-| |       | F |	[Conservation Genetics](https://bi328.netlify.app/)                                     |
+|10| 10/19| M |	[Species/population-level conservation/Estimating population sizes](https://bi328.netlify.app/lect_5)               | 13, Lacy 2019
+| |       | W |	[Population models & predicting population persistence](https://bi328.netlify.app/lect_5)               | 13, Lacy 2019
+| |       | F |	[The problem with small populations](https://bi328.netlify.app/)                                     |
 |11| 10/26| M |	[Conservation Genetics](https://bi328.netlify.app/)                                     |
 | |       | W |	[Conservation Genetics](https://bi328.netlify.app/)                                     |
 | |       | F |	[Conservation Genetics](https://bi328.netlify.app/)                                     |

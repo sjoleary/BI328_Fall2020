@@ -83,6 +83,74 @@ Consider pros and cons of zoos and aquariums by necessity keeping animals in cap
 
 **Ex situ conservation**
 
+* Ex situ conservation can contribute to in situ conservation strategies.
+* Zoos & Aquariums
+    + Animals/fish are housed in human-built enclosures and displayed to the public may also be used for research and/or breeding programs
+    + Threatened animal species can find temporary refuge in zoos/aquariums
+    + some species are extinct in the wild but extant specimen exist in captivity
+    + criticism of zoos include concerns of ethical welfare of animals and that money would be better spent if directly used for conservation
+    + Zoos are addressing points of critisicm and re-inventing themselves as conservation centers
+* Botanical Gardens/arboretums
+    + Botanical gardens are dedicated to the collection, cultivation, and preservation of plants – may contain specialized collections of specific plant groups or represent biomes
+    + Arboretum specialized collection of woody plants/trees
+    + Purpose: Curation of medical plants, Taxonomy/collections for research programs, Assist in propagation & dissemination of plants for horticulture, agriculture, forestry, landscaping, restoration efforts, industry
+* Gene and Seed banks are biorepositories preserving genetic material
+    + Frozen zoos collect & hold tissues, cells, gametes & DNA of endangered animals in cryogenic freezers to assist with reproduction through artificial insemination, in vitro fertilization, and cloning (future plans).
+    + Seed banks stock & preserve seeds that can be germinated later to produce new plants.
+Most seeds can be stored for extended periods in cold/dry conditions at low cost with minimal supervision
+* Contributions to in situ conservation
+    + Captive breeding programs
+    + reintroduction/reinforcement
+    + education & public outreach
+    
+**Species-level conservation**
+
+* primary goal of species-level conservation is to ensure persistence of a species
+    + after threats are identified & removed where possible tit needs to be ensured tha the remaining population(s) are sufficiently large to persist
+    + to ensure long-term viability a populations must have Sufficient individuals in population to survive & reproduce to maintain positive growth rate and sufficient genetic diversity in population to maintain adaptive potential & avoid inbreeding depression
+    + populations may be restored using assisten colonization, reintroduction, and augmentation strategies
+* Decision-making and trade-offs
+    + every conservation effort has trade-offs (ecological, economic, social)
+    + every implemented conservation action is one of a suite of possible actions
+    + Structured decision-making offers a transparent and data-driven framework to evaluate potential decisions for management of natural resources 
+* Strategic species conservation
+    + Surrogate species provide an efficient means for achieving broader conservation goals
+    + Flagship species is used to attract the attention of the public (usually about the plight of a specific ecosystem or region)
+    + Umbrella species provides protective umbrella that benefits other species (usually large home range)
+
+**Estimating population size**
+
+* Census
+    + Count number of individuals present in a populations and monitor changes using repeated census over successive time intervals
+    + limitations of census include that they are frequently not repeated and that a census should be a complete count but rarely actually is
+    + Census of a biological community or geographic region determines what species are currently present in a locality
+    + Temporal and spatial comparisons enable us to understand changes in geographic ranges & local abundance
+    
+* Mark-recapture
+    + Individuals of a population are caught & marked during first sampling period
+    + During second sampling period the number of recaptured individuals are recorded
+    + Abundance is estimated based on the ratio of recaptured animals to total animals captured during second period
+
+* Population models
+    + Models allowing us to estimate population change over time are an important conservation tool to simulated how changes in a landscape may impact populations
+    + Models are (over)simplifications and based on best available sample information (frequently approximations)
+    + Changing conditions (habitat fragmentation, change in periodicity of weather events, environmental change) are more or less straightforward to model
+    + Population growth models: geometric growth, exponential growth, logistic growth.
+    + Age/stage-based models estimate fecundity and survival probability by age classes/life stages and allows for better understanding of demographic structure (number of individuals at each life stage/year class)
+    + Deterministic models have fixed values (constants) that reflect average values across life stages 
+    + Stochastic models account for variation in model parameters among time points
+    
+**Minimum viable population size** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -128,7 +196,58 @@ Additional resources:
 
 ### Review
 
-* 
+* Give a brief description of what the wildlife trade is and what range of products it encompasses.
+* List two regions that are main exporters in the wildlife trade and explain why they are well-suited to be so.
+* The Amazon is one of the main exporters in the wildlife trade. Use three examples to describe the range of how how animals are sourced, where they are exported to, and for what purpose.
+* Discuss whether the legal wildlife trade is/can be sustainable and give specific arguments to why having a well-regulated, sustainable trade commercial trade of wildlife is important.
+* Discuss how uncontrolled trafficking of wildlife can result in a serious threat to local populations.
+* Give a brief explanation of what CITES is and what it means for species to be listed on Appendix I, II, or II.
+* Give a brief description of the legal and illegal wildlife trade in terms of components of supply, trade, and demand.
+* Describe the primary driver of illegal wildlife trade.
+* Give a brief overview of the players & processes involved in wildlife trafficking. Argue why it is most frequently run by crime syndicates.
+* Give a simple "equation" that can be used to determine the cost/benefit analysis of conservation vs poaching and explain how it can be used to optimize management strategies.
+* Explain how using enforcement as the main tool to stop illegal wildlife trade can have unintended consequences.
+* List a range of possible strategies to combat the wildlife trade.
+* Compare and contrast using campaigns geared toward reducing prices and demand, promoting sustainable trade, and enforcement of regulations.
+* Describe what strategies can be used to reduce motivation for criminal involvement in the wildlife trade.
+* Strategies can be categorized as long-term vs. short-term and targeting the causes and/or the "symptoms" o the illegal wildlife trade. List a range of strategies and describe the tools used to achieve them and explain whether they are short/long-term strategies and whether they are focused more on the causes or effects of illegal trafficking.
+* Give a brief description of what wildlife forensics is and explain why it is an important tool to enforce regulations.
+* Explain the difference between in situ and ex situ conservation strategies.
+* Give a brief definition of what ex situ conservation is, list the major groups of ex situ conservation facilities and explain how they can contribute to in situ conservation.
+* Give a brief definition of what a zoo or aquarium is.
+* Give a brief description of the three major criticism levied against zoos/aquariums.
+* Explain what it means for a zoo to reinvent itself as a conservation center.
+* Give a brief description of what a botanical garden and an arboretum is and their purpose and explain how they can support in situ conservation.
+* Give a brief description of what gene and seed banks are and explain how they can be used to support in situ conservation.
+* Briefly explain why seed banks are particularly important for the agricultural industry.
+* List the three main categories of how ex situ conservation facilities can contribute to in situ conservation.
+* Give a brief explanation of what a captive breeding program is and explain why zoos/aquariums/botanical gardens are especially well-suited to be used to develop them.
+* Give a brief explanation for the three main reproductive tools & techniques used to increase reproductive output in captivity and explain why they are especially helpful for endangered/threatened species.
+* Give a brief definition of what cloning and de-exinction technology is and argue whether or not you think it is a good idea to use as a conservation tool.
+* List the five main limitations of captive breeding programs and discuss three of them in detail (remember discuss means that you need to describe them too).
+* Compare and contrast strategies of reintroduction/reestablishment and reinforcement/augmentation and explain how they differ from introduction/translocation/assisted colonization.
+* List three strategies used to increase the success of captive breeding programs and describe two of them in more detail.
+* Give two arguments as to whether zoos/aquariums are good education/outreach tools and discuss whether you think zoos are effective in their mission statement in that regard.
+* State the primary goal of species-level conservation.
+* The primary goal of species-level conservation is to ensure the persistence of a species. Briefly explain the two main components dictating how large a population must bee to ensure long-term viability and list three options to restore populations that are currently too small.
+* Give a brief explanation of what structured decision-making is.
+* Explain what the main components of the single multi-attributed rating technique (SMART) are to argue the benefits of this type of decision-making process especially when there are multiple stakeholders involved in the decision-making process.
+* Explain what a surrogate species is and give brief descriptions of two types of surrogate species.
+* List the two main methods to estimate population size and discuss their limitations.
+* Briefly describe characteristics of a species that would make them more or less difficult to count using the census method.
+* Discuss limitations of the census method.
+* Explain the benefits of repeated censuses of biological communities and geographic regions.
+* Explain how mark-recapture can be used to determine the number of individuals in a population.
+* List processes that can increase and decrease the number of individuals in a population.
+* Explain what a closed and an open population is and explain how this effects the processes that increase/decrease individuals in a populations.
+* Compare and contrast the three major population models in terms of whether growth is constrained/unconstrained, time is modeled as discrete or continuous, and whether the growth rate changes over time. For each model determine a group of species this model should be applied to.
+* Explain how age/stage-based models differ from standard geometric/exponential/logarithmic and why they are a better approximation and more informative for conservation/management.
+* Use a specific example to explain how stage/age-based demographic models can be used to optimized conservation strategies.
+* Explain the difference between a deterministic and a stochastic model.
+
+
+
+
 
 <br>
 
