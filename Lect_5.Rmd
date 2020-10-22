@@ -51,7 +51,9 @@ Consider the pros and cons of relying on models for much of the decision-making 
 
 *Food for thought*
 
+Conservation genetics is used as both a tool to support traditional approaches and to understand (and avoid) the impact of loss of genetic diversity itself.
 
+Re-consider the parameters a population viability analysis needs to consider including conservation genetics goals.
 
 
 <br>
@@ -153,7 +155,7 @@ Most seeds can be stored for extended periods in cold/dry conditions at low cost
     + Deterministic models have fixed values (constants) that reflect average values across life stages 
     + Stochastic models account for variation in model parameters among time points
     
-**Minimum viable population size** 
+**Minimum viable populations** 
 
 
 
