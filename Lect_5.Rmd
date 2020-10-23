@@ -157,16 +157,32 @@ Most seeds can be stored for extended periods in cold/dry conditions at low cost
     
 **Minimum viable populations** 
 
+* Minimum viable population size
+    + smallest population size predicted to have high chance of persisting for a set period of time 
+    + management goal: determine the minimum number of individuals necessary to ensure long-term survival of a population/species
+    + underlying fundamental principle is to be able to account for harsh not average conditions (run models for a range of scenarios)
+    + empirical evidence for MVP from monitored populations
+    + there is no magic number that can be applied to every species but there are consistent patterns
+    + accurate estimates require detailed demographic studies and analysis of the effect of the environment
+    + mobility/recolonization ability allows for lower MVPs
+    + life-history parameters/intrinsic growth rate have strong effect on MVP sizes
 
-
-
-
-
-
-
-
-
-
+* Minimum dynamic area/minimum area required
+    + area of suitable habitat necessary to maintain MVP
+    + factors determining minimum area required: body mass, feeding guild/trophic level, home range/dispersal distance, demography, niche breadth/proximity to range boundary
+    
+* Population viability analysis
+    + Population viability analysis is a risk assessment used to determine the minimum viable population and/or minimum required area needed for a population to be able to persist 
+    + need estimates of current population size, data/model to estimate how pop size will change over time to determine probability of population going extinct in certain time period
+    + example of PVA using stochastic geometric growth model: use basic growth model to predict population size each year for 50 years drawing growth rate from distribution of past annual growth rates to include stochasticity; each run will yield different result to determine extinction probability
+    + Increase usefulness of analysis by simulating different management plans and environmental scenarios  
+    + PVAs are population-specific and should be built using population-specific birth/death/growth rates
+    + Models become increasingly complex & accurate the better we understand the ecology, threats, demography of a species
+    + Models are only as good as the data that goes into them: Range of parameters for birth/death/growth rates by age/life stages based on past monitoring vs assumptions
+    + Assumption that past data predicts future variability: Create a range of possible future scenarios to be able to make predictions about future viability
+    + Validate models when possible: Use past data to compare to monitoring data
+    + PVA can also be used to determine minimum require area
+    + PVA can be used to inform management decisions using sophisticated models accounting for spatial distribution of habitat patches, dispersal corridors, abundance of tree cavities, forest dynamics
 
 
 
@@ -206,6 +222,30 @@ Additional resources:
 `r icon::fa("book-reader")` Holden et al. (2019). Increase anti‐poaching law‐enforcement or reduce demand for wildlife products? A framework to guide strategic conservation investments. Conservation Letters, 12(3), e12618.
 
 `r icon::fa("book-reader")` Gouda, Sushanto, et al. "Wildlife forensics: A boon for species identification and conservation implications." Forensic Science International (2020): 110530.
+
+`r icon::fa("book-reader")` Leader-Williams (1990). Black rhinos and African elephants: lessons for conservation funding. Oryx, 24(1), 23-29.
+
+`r icon::fa("book-reader")` Traill et al. (2010). Pragmatic population viability targets in a rapidly changing world. Biological Conservation, 143(1), 28-34.
+
+`r icon::fa("book-reader")` Wang et al (2019). Minimum viable population size and population growth rate of freshwater fishes and their relationships with life history traits. Scientific reports, 9(1), 1-8.
+
+`r icon::fa("book-reader")` Shoemaker et al. (2013). Reexamining the minimum viable population concept for long‐lived species. Conservation Biology, 27(3), 542-551.
+
+`r icon::fa("book-reader")` Pe’er et al. (2014). Toward better application of minimum area requirements in conservation planning. Biological Conservation, 170, 92-102.
+
+`r icon::fa("book-reader")` Linda et al. 2020 Spatial and temporal dynamics of habitat availability and stability for a critically endangered arboreal marsupial: implications for conservation planning in a fire-prone landscape.
+
+`r icon::fa("book-reader")` Drayton & Primack (1999). Experimental extinction of garlic mustard (Alliaria petiolata) populations: implications for weed science and conservation biology. Biological Invasions, 1(2-3), 159-167.
+
+`r icon::fa("book-reader")`
+
+`r icon::fa("book-reader")`
+
+`r icon::fa("book-reader")`
+
+`r icon::fa("book-reader")`
+
+`r icon::fa("book-reader")`
 
 
 
