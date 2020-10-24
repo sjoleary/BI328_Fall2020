@@ -286,7 +286,7 @@ Additional resources:
 * State the primary goal of species-level conservation.
 * The primary goal of species-level conservation is to ensure the persistence of a species. Briefly explain the two main components dictating how large a population must bee to ensure long-term viability and list three options to restore populations that are currently too small.
 * Give a brief explanation of what structured decision-making is.
-* Explain what the main components of the single multi-attributed rating technique (SMART) are to argue the benefits of this type of decision-making process especially when there are multiple stakeholders involved in the decision-making process.
+* Explain what the main components of a cost-benefit analysis (e.g. single multi-attributed rating technique (SMART)) to determine the most appropriate management strategy are are to argue the benefits of this type of decision-making process especially when there are multiple stakeholders involved in the decision-making process.
 * Explain what a surrogate species is and give brief descriptions of two types of surrogate species.
 * List the two main methods to estimate population size and discuss their limitations.
 * Briefly describe characteristics of a species that would make them more or less difficult to count using the census method.
