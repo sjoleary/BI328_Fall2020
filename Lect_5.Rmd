@@ -184,7 +184,34 @@ Most seeds can be stored for extended periods in cold/dry conditions at low cost
     + PVA can also be used to determine minimum require area
     + PVA can be used to inform management decisions using sophisticated models accounting for spatial distribution of habitat patches, dispersal corridors, abundance of tree cavities, forest dynamics
 
+**The problem with small populations**
 
+* Challenges to conserving small populations: Even when causes of population decline are removed and/or reduced small population still face three challenges that can lead to extinction
+    + Demographic stochasticity caused by random variations in birth/death rates
+    + Environmental stochasticity caused by variation in the biological/physical environment
+    + Loss of genetic variability due to effects of genetic drift/inbreeding
+* Environmental stochasticity
+    + Variation in the biotic & abiotic conditions of a landscape  affects the birth & survival rates of a population
+    + acts on a population level resulting in a shift in entire distribution/mean rates 
+    + Natural catastrophes/disasters are a form of environmental stochasticity occurring at unpredictable intervals – even if probability per generation is low over time period of decades/centuries have high probability
+    + Accounting for environm. stochasticity in management: reintroduced populations are small & isolated – probability of persistence can be improved by re-introducing at multiple spatially diverse sites 
+* Demographic stochasticity
+    + birth and death rate of each individual is a discrete and probabilistic event resulting in random fluctuations in population size
+    + acts on an individual level/leads to random variation in birth/death rates the impact of variability increases as population size decreases
+    + in small populations demographic stochasticity can lead to deviations in sex ratio resulting in further decrease in population size
+* Allee effect
+    + Allee effect is a population response due biological fitness of individuals being correlated with population size/density
+    + if population growth rate falls below certain critical threshold, fitness of individuals dramatically decreases & may cause population to crash
+    + Allee effects can be caused by: Unequal sex ratios, loss of heterozygosity due to inbreeding, reduction in cooperative interactions
+* Genetic stochasticity
+    + acts on genetic diversity of a population: genetic drift and inbreeding are inversely correlated to population size
+    + must maintain sufficient number of individuals to avoid genetic drift and inbreeding and maintain sufficient genetic diversity in population to maintain adaptive potential & avoid inbreeding depression
+
+**Loss of Genetic Diversity (Conservation Genetics)**
+
+
+
+    
 
 
 
@@ -253,9 +280,9 @@ Additional resources:
 
 * Give a brief description of what the wildlife trade is and what range of products it encompasses.
 * List two regions that are main exporters in the wildlife trade and explain why they are well-suited to be so.
-* The Amazon is one of the main exporters in the wildlife trade. Use three examples to describe the range of how how animals are sourced, where they are exported to, and for what purpose.
+* The Amazon is one of the main exporters in the wildlife trade. Use three examples to describe the range of how animals are sourced, where they are exported to, and for what purpose.
 * Discuss whether the legal wildlife trade is/can be sustainable and give specific arguments to why having a well-regulated, sustainable trade commercial trade of wildlife is important.
-* Discuss how uncontrolled trafficking of wildlife can result in a serious threat to local populations.
+* Discuss how uncontrolled trafficking of wildlife can result in a serious threat to local animal/plant populations.
 * Give a brief explanation of what CITES is and what it means for species to be listed on Appendix I, II, or II.
 * Give a brief description of the legal and illegal wildlife trade in terms of components of supply, trade, and demand.
 * Describe the primary driver of illegal wildlife trade.
@@ -263,22 +290,22 @@ Additional resources:
 * Give a simple "equation" that can be used to determine the cost/benefit analysis of conservation vs poaching and explain how it can be used to optimize management strategies.
 * Explain how using enforcement as the main tool to stop illegal wildlife trade can have unintended consequences.
 * List a range of possible strategies to combat the wildlife trade.
-* Compare and contrast using campaigns geared toward reducing prices and demand, promoting sustainable trade, and enforcement of regulations.
+* Compare and contrast using campaigns geared toward reducing prices and demand, promoting sustainable trade, and enforcement of regulations (consider limitations and benefits of each).
 * Describe what strategies can be used to reduce motivation for criminal involvement in the wildlife trade.
-* Strategies can be categorized as long-term vs. short-term and targeting the causes and/or the "symptoms" o the illegal wildlife trade. List a range of strategies and describe the tools used to achieve them and explain whether they are short/long-term strategies and whether they are focused more on the causes or effects of illegal trafficking.
+* Strategies can be categorized as long-term vs. short-term and targeting the causes and/or the "symptoms" of the illegal wildlife trade. List a range of strategies and describe the tools used to achieve them and explain whether they are short/long-term strategies and whether they are focused more on the causes or effects of illegal trafficking.
 * Give a brief description of what wildlife forensics is and explain why it is an important tool to enforce regulations.
-* Explain the difference between in situ and ex situ conservation strategies.
-* Give a brief definition of what ex situ conservation is, list the major groups of ex situ conservation facilities and explain how they can contribute to in situ conservation.
+* Explain the difference between *in situ* and *ex situ* conservation strategies.
+* Give a brief definition of what *ex situ* conservation is, list the major groups of *ex situ* conservation facilities and explain how they can contribute to in situ conservation.
 * Give a brief definition of what a zoo or aquarium is.
 * Give a brief description of the three major criticism levied against zoos/aquariums.
 * Explain what it means for a zoo to reinvent itself as a conservation center.
 * Give a brief description of what a botanical garden and an arboretum is and their purpose and explain how they can support in situ conservation.
 * Give a brief description of what gene and seed banks are and explain how they can be used to support in situ conservation.
 * Briefly explain why seed banks are particularly important for the agricultural industry.
-* List the three main categories of how ex situ conservation facilities can contribute to in situ conservation.
+* List the three main categories of how *ex situ* conservation facilities can contribute to *in situ* conservation.
 * Give a brief explanation of what a captive breeding program is and explain why zoos/aquariums/botanical gardens are especially well-suited to be used to develop them.
 * Give a brief explanation for the three main reproductive tools & techniques used to increase reproductive output in captivity and explain why they are especially helpful for endangered/threatened species.
-* Give a brief definition of what cloning and de-exinction technology is and argue whether or not you think it is a good idea to use as a conservation tool.
+* Give a brief definition of what cloning and de-extinction technology is and argue whether or not you think it is a good idea to use as a conservation tool.
 * List the five main limitations of captive breeding programs and discuss three of them in detail (remember discuss means that you need to describe them too).
 * Compare and contrast strategies of reintroduction/reestablishment and reinforcement/augmentation and explain how they differ from introduction/translocation/assisted colonization.
 * List three strategies used to increase the success of captive breeding programs and describe two of them in more detail.
@@ -303,6 +330,28 @@ Additional resources:
 * Use a specific example to explain how stage/age-based demographic models can be used to optimized conservation strategies.
 * Explain the difference between a deterministic and a stochastic model.
 * A coastal fish population is being assessed for a new fisheries management plan. Since this is a well understood species we have monitoring data from the last 40 years that include detailed information on the approximate number of eggs laid and larvae hatched, how many yearlings settle in the bays, how many sub-adults migrate back out to see and the number of adults in different year classes for each year. We also know from a previous study that even though they mature at 3 years old, the female's fecundity steadily increases for about 5 years before it levels out. By contrast, a second fish species has a similar age-at-maturity but is more evasive and therefore we only have information on overall population size (large juveniles, subadults + adults) from year to year. For each species argue what type of model would be the most appropriate to use to get the best population projections possible.
+* Give a definition for the concepts of minimum viable population size and minimum required area/minimum dynamic area.
+* Define what a minimum viable population size is and explain why it is so important for effective species-level management.
+* Argue the limitations and benefits of having to determine a MVP for each specific population targeted for management/conservation compared to having a rule of thumb to apply across species. Argue whether you think it is even possible to determine a "magic number" (median MVP) across (groups of) species.
+* Explain how characteristics such as mobility/dispersal ability affect MVP estimates.
+* Explain how life-history impacts MVP impacts.
+* Consider a small mammal that matures quickly and has a high fecundity compared to a long-lived large-bodied mammal with a long generation time and few offspring with high parental care and argue which you think will have the larger MVP. 
+* Occasionally small populations of long-lived species are observed to persist for extended periods of time. Explain how this is possible despite our general understanding of the MVP concept and argue whether you think this is common enough that managers should rely on this effect for their management plans.
+* Briefly describe the concept of a minimum dynamic area (minimum required area) and argue whether small mammals or large carnivores are expect to have larger/smaller minimum dynamic area.
+* List factors that can determine the minimum area required for a population to persist. Choose to an explain how they affect the area needed.
+* Give a brief description of what a population viability analysis is (this should include the purpose and components involved).
+* You have just been given 50 years worth of monitoring for a isolated population of elk in a national park that breeds every Fall. Give a brief description of how you would make best use of this data and what you know about population growth models to determine the probability of extinction in 50 years. Your description should should include a description of what type of model you will use, whether it is stochastic or deterministic, and the individual steps involved to determine extinction probability.
+* Briefly outline the limitations and potential of PVA models.
+* Explain why it can be useful to create PVAs focused on habitat and not just population size and argue which you think is more useful for management decision making.
+* Explain why population monitoring programs and the data they can generate are important even for species that currently aren't endangered in the connection of PVA models.
+* Give a brief description of the three main challenges small populations face that can lead to extinction.
+* Explain what environmental stochasticity is and how it can contribute to population extinction.
+* Briefly describe an example of how environmental stochasticity can be accounted for in management strategies.
+* Explain what demographic stochasticity is and how it can contribute to population extinctions.
+* Compare and contrast demographic and environmental stochasticity.
+* Define what the Allee effect is. List the three main causes for Allee effects and use an example to explain one in detail.
+* 
+
 
 
 
