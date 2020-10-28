@@ -272,8 +272,6 @@ Additional resources:
 
 `r icon::fa("book-reader")`
 
-`r icon::fa("book-reader")`
-
 
 
 ### Review
