@@ -209,6 +209,80 @@ Most seeds can be stored for extended periods in cold/dry conditions at low cost
 
 **Loss of Genetic Diversity (Conservation Genetics)**
 
+* Characterizing genetic diversity
+    + a locus is a specific position on a chromosome – this can be a gene (coding DNA) or a different genetic marker (non-coding DNA)
+    + A polymorphism is a genetic variation resulting in different variations (alleles) of the same locus
+    + Higher levels of heterozygosity among loci within an individual and across loci in a population indicate higher levels of genetic diversity in a population
+    + Hardy-Weinberg Equilibrium describes the relationship of heterozygosity & allele freq. which allows us to understand whether genetic diversity is higher/lower than expected 
+    + Hardy-Weinberg Principle: Genetic diversity remains constant from one generation to the next assuming no mutation, no selection, no drift, no gene flow & random mating
+* Loss of genetic diversity
+    + Genetic drift and Inbreeding result in a loss of heterozygosity & allelic diversity 
+    + both processes are inversely correlated to population size 
+    + Impacts on a population are Inbreeding Depression (short-term impact) and Loss of Adaptive Potential
+(long-term impact)
+* Conservation of adaptive potential is important for the long-term persistence of a (small) population especially under changing conditions
+    + The genetic diversity of a population harbors the adaptive potential of a population: the ability to adapt to a changing environment
+    + Selection acts on standing diversity: individuals in the same population may have different alleles at the same gene
+Individuals with certain (combinations) of alleles may have genotypes and corresponding phenotypes needed to survive & reproduce under future new conditions
+* Genotype - Phenotype - Environment interaction
+    + Genotype of an individual consists of both coding and non-coding parts of the genome that determine phenotype of an individual
+    + The phenotype of an individual consists not just of the morphology of an individuals but also it’s physiology and behavior
+    + Individuals with the same phenotype may differ in their genotypes.
+     + Changes in the environment can alter the expression of genes (phenotypic plasticity) which means two individuals may have the same genotype but vary in their phenotype depending on the environmental conditions/stimuli.
+    + The fitness of phenotypes is determined by the selective pressures produced through environmental conditions (i.e. the same phenotype may have different levels of fitness under different environmental conditions)
+    + environmental pressures include biotic factors (e.g. species interactions) and abiotic factors (e.g. temperature, salinity)
+    + We expect phenotypes with the highest fitness and their associated genotypes to be the most common in a population.
+    + changes in the environment will create new selective pressures in a system that was previously at equilibrium with individuals well adapted to previous conditions.
+    + This is expected to result in the fitness level of certain phenotypes increasing or decreasing. 
+    + Some phenotypes might no longer be able to survive under new conditions and the genotypes associated with them would be lost from the gene pool while genotypes associated with increased fitness would be come more common.
+* Genetic drift
+    + The gene pool is the sum of a population's genetic material at a specific point in time, it includes all genes and combinations of alleles 
+    + genetic drift is random changes in allele frequencies due to sampling error and is random in respect to fitness
+    + the probability of an allele becoming fixed/lost is the frequency of an allele at a given point in time
+    + the expected number of generations to fixation is proportional to population size
+    + rare alleles are lost first; as a consequence individuals mating are more likely to have the same genotype resulting in excess homozygosity
+    + sufficiently large populations act as “infinite populations” (drift is negligible)
+  * Genetic drift increase the genetic load and results in a loss of adaptive potential
+    + small populations more likely to loose allele entirely due to genetic drift: once alleles are lost, they cannot be returned to the gene pool
+    + recessive alleles representing loss-of-function mutations are usually rare and exist only in heterozygote individuals in small populations experiencing loss of genetic diversity and increasing homozygosity due to drift these traits are now expressed lowering the fitness of individuals
+    + most genes are under selection for heterozygote advantage (selection favors genetic diversity) - drift increase homozygosity and alleles are lost
+* Genetic bottlenecks accelerate the loss of genetic diversity
+    + Population bottleneck occurs when a population size is drastically reduced for at least one generation
+    + loss of diversity due to reduction individuals (randomly “selected”)
+    + rare alleles have high probability of being lost
+    + while the population is small it is highly susceptible to drift & risk of inbreeding
+    + Northern elephant seals have much lower genetic diversity 
+compared to southern elephant seals as a result of a demographic bottleneck
+    + The Tasmanian Devil experienced a demographic and genetic bottleneck which greatly reduced their genetic diversity; genetic diversity remained low and made them highly susceptible to transmitted facial tumor disease which is now threatening the population with extinction.
+* Founder effect
+    + Immigrants from a source population establish a new population which is likely to have different allele frequencies compared to the population due to stochasticity of "randomly selecting" founding individuals
+    + Re-colonization efforts are a population management strategy and managers must consider founder effects and negative consequences to be successful.
+* Inbreeding increases levels of homozygosity
+    + Inbreeding occurs when two individuals mate that have more similar genotypes than if they were randomly paired 
+    + Inbreeding change genotype frequencies resulting in an excess of homozygotes in the population
+    + mating of closely related individuals may result in a loss of biological fitness due to lower reproductive and/or survival rates of offspring (inbreeding depression)
+    + Inbreeding can cause an allee effect (biological fitness of individuals are correlated with population size/density) resulting in negative population growth at low population densities
+* Conservation Genetic of Prairie Chicken
+    + endangered due to habitat loss/fragmentation resulting in small, genetically isolated populations
+    + Loss of genetic diversity due to genetic drift & inbreeding resulted lower fertility and lower rates of successful egg hatching 
+    Loss of genetic diversity due to genetic drift & inbreeding resulted lower fertility and lower rates of successful egg hatching 
+    + Successful strategy to avoid inbreeding depression/loss of genetic diversity: Results in increased in population size & restoration of egg viability
+* Extinction Vortex
+    + positive feedback loops amplifying the negative effects of small populations can accelerate the reduction in population size and result in local extirpations
+    + Genetic drift results in fixation of (deleterious) alleles reducing mean population fitness (genetic load)
+    + Increasing probability of related individuals mating increasing the level of homozygosity and inbred individuals with lower fitness (inbreeding depression)
+      + Mean population fitness reduced resulting in further decline of the population size, exacerbating problems causing population decline
+* Effective population size
+
+
+
+
+
+
+    
+
+    
+
 
 
     
@@ -262,9 +336,7 @@ Additional resources:
 
 `r icon::fa("book-reader")` Linda et al. 2020 Spatial and temporal dynamics of habitat availability and stability for a critically endangered arboreal marsupial: implications for conservation planning in a fire-prone landscape.
 
-`r icon::fa("book-reader")` Drayton & Primack (1999). Experimental extinction of garlic mustard (Alliaria petiolata) populations: implications for weed science and conservation biology. Biological Invasions, 1(2-3), 159-167.
-
-`r icon::fa("book-reader")`
+`r icon::fa("book-reader")` McCallum, H. (2008). Tasmanian devil facial tumour disease: lessons for conservation biology. Trends in ecology & evolution, 23(11), 631-637.
 
 `r icon::fa("book-reader")`
 
@@ -348,8 +420,20 @@ Additional resources:
 * Explain what demographic stochasticity is and how it can contribute to population extinctions.
 * Compare and contrast demographic and environmental stochasticity.
 * Define what the Allee effect is. List the three main causes for Allee effects and use an example to explain one in detail.
-* 
-
+* List the two processes that lead to a loss of genetic diversity. For each list the main consequence and categorize it as a short or long-term impact.
+* Briefly explain what adaptive potential is and why it is important to consider for conservation & management.
+* Explain the relationship between genotype, phenotype, environmental conditions and selection and use this to explain why the genetic diversity of a population harbors the adaptive potential of that population.
+* Give a brief explanation of the process of genetic drift and describe how it can lead to a loss of genetic diversity.
+* Explain why even though every population experiences genetic drift it is only a problem in small population from the perspective of conservation genetics.
+* Use brief descriptions of the concepts of "genetic (mutational) load" and "adaptive potential" to assess the short and long-term impacts of the loss of genetic diversity.
+* Describe what a genetic bottleneck is and give a brief explanation of how it contributes to and accelerates the loss of genetic diversity.
+* Northern Elephant seals are observed to have much lower genetic diversity compared to Southern Elephant seals even though both species have similar population sizes. Argue what two type of past event(s) could have contributed to this pattern.
+* Use the example of the Tasmanian devil and the Tasmanian devil facial tumor disease to explain how a population bottleneck can result in the loss of adaptive potential and how this can have long-term impacts on the persistence of a population even after population sizes increase.
+* Give a brief description of the founder effect, explain how it can effect genetic diversity, and how conservation strategies may inadvertently cause a founder effect.
+* Briefly describe what inbreeding is and how it affects genetic diversity.
+* Briefly describe what inbreeding depression is.
+* Use inbreeding depression to explain what the allee effect is and why this can be problematic for conservation and management in the context of population viability analyses (this includes defining inbreeding depression).
+* Use an example to explain the concept of an extinction vortex.
 
 
 
