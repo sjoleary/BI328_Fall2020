@@ -58,17 +58,17 @@ knitr::opts_chunk$set(echo = FALSE)
 | |       | W |	["SNOW" DAY]()                                                                                | 
 | |       | F |	[Population models & predicting population persistence](https://bi328.netlify.app/lect_5)     | 13, Lacy 2019
 |11| 10/26| M |	[The problem with small populations](https://bi328.netlify.app/lect_5)                        | 13
-| |       | W |	[Conservation Geneticsl](https://bi328.netlify.app/lect_5)                                    | 13
+| |       | W |	[Conservation Genetics](https://bi328.netlify.app/lect_5)                                    | 13
 | |       | F |	[Conservation Genetics](https://bi328.netlify.app/lect_5)                                     | Hedrick & Fredrickson 2010, Schwartz et al 2007
-|12| 11/2 | M	| [Conservation Genetics](https://bi328.netlify.app/)                                           | Hedrick & Fredrickson 2010, Schwartz et al 2007
-| |       | W	| [Conservation Genetics](https://bi328.netlify.app/)                                           |
+|12| 11/2 | M	| [Conservation Genetics](https://bi328.netlify.app/lect_5)                                           | Hedrick & Fredrickson 2010, Schwartz et al 2007
+| |       | W	| [Conservation Genetics](https://bi328.netlify.app/lect_5)                                     |
 | |       | F	| **MIDTERM**	                                                                                  |
-|13| 11/9 |	M	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/)                          | 14, 15
-| |       | W	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/)                          | 14, 15
-| |       | F	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/)                          | 14, 15
-|14| 11/16| M	| [Sustainable Development](https://bi328.netlify.app/)                                         |
-| |       | W |	[Ecopragmatism/Ecomodernism](https://bi328.netlify.app/)                                      |
-| |       | F |	[The final word](https://bi328.netlify.app/)                                                  |
+|13| 11/9 |	M	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/lect_6)                    | 14, 15
+| |       | W	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/lect_6)                    | 14, 15
+| |       | F	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/lect_6)                    | 14, 15
+|14| 11/16| M	| [Sustainable Development & Policy](https://bi328.netlify.app/lect_7)                          | 17
+| |       | W |	[Sustainable Development & Policy](https://bi328.netlify.app/lect_7)                          | 17
+| |       | F |	[Sustainable Development & Policy](https://bi328.netlify.app/lect_7)                          |
 | |       |   | *due 11/23 by midnight: Term paper*                                                           |
 
 :::

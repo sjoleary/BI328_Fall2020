@@ -1,0 +1,73 @@
+---
+title: "Conservation Biology (BI328)"
+description: | 
+  Fall 2020 Lectures
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+# Ecosystem & Landscape-level conservation
+
+### Assigned readings
+
+**Reading reflections due: Nov. 13th, 5pm**
+
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 14
+`r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 15
+
+
+*Food for thought*
+
+
+
+
+<br>
+
+
+### Outline
+
+
+
+
+### Debrief
+
+Go over your notes & briefly answer these questions:
+
+*	What was the most muddy concept(s)? Do we need to further clarify?
+*	What was the exciting, interesting, or a new concept you learned?
+*	Was there any “assumed background knowledge” you didn’t have? Do we need to further clarify?
+*	Any additional general comments or questions on today's lecture or this week’s lab?
+
+Submit your answers [`r icon::fa("clipboard-list")`](https://docs.google.com/forms/d/e/1FAIpQLSf_wpIenOLXtsZ24-3Aa120mgZmN3ioZHVkA342ZCYOj5OQug/viewform?usp=sf_link).
+
+
+<br>
+
+**Due by 3pm the day after lecture.**
+
+
+### Dig a little deeper
+
+Additional resources:
+
+`r icon::fa("book-reader")` 
+
+
+
+### Review
+
+* 
+
+
+
+<br>
+
+Download a hard copy of the recap questions [`r icon::fa("file-download")`](files/BI328_ReviewQs_SpeciesConservation.pdf).

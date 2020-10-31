@@ -439,4 +439,4 @@ Additional resources:
 
 <br>
 
-Download a hard copy of the recap questions [`r icon::fa("file-download")`](/files/.pdf).
+Download a hard copy of the recap questions [`r icon::fa("file-download")`](files/BI328_ReviewQs_SpeciesConservation.pdf).
