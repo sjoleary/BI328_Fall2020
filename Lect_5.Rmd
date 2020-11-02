@@ -338,11 +338,13 @@ Additional resources:
 
 `r icon::fa("book-reader")` McCallum, H. (2008). Tasmanian devil facial tumour disease: lessons for conservation biology. Trends in ecology & evolution, 23(11), 631-637.
 
-`r icon::fa("book-reader")`
+`r icon::fa("book-reader")` Hedrick & Fredrickson (2010). Genetic rescue guidelines with examples from Mexican wolves and Florida panthers. Conservation genetics, 11(2), 615-626.
 
-`r icon::fa("book-reader")`
+`r icon::fa("book-reader")` Schwartz et al. (2007). Genetic monitoring as a promising tool for conservation and management. Trends in ecology & evolution, 22(1), 25-33.
 
-`r icon::fa("book-reader")`
+`r icon::fa("book-reader")` Johnson, Warren E., David P. Onorato, Melody E. Roelke, E. Darrell Land, Mark Cunningham, Robert C. Belden, Roy McBride et al. "Genetic restoration of the Florida panther." Science 329, no. 5999 (2010): 1641-1645.
+
+
 
 
 
@@ -434,6 +436,20 @@ Additional resources:
 * Briefly describe what inbreeding depression is.
 * Use inbreeding depression to explain what the allee effect is and why this can be problematic for conservation and management in the context of population viability analyses (this includes defining inbreeding depression).
 * Use an example to explain the concept of an extinction vortex.
+* Define census population size, number of spawners, effective population size, and effective number of breeders.
+* Compare and contrast census and effective population size to explain how these are informative for conservation & management and what their potential limitations are.
+* List the three main factors resulting in the effective population size being smaller than the census population size.
+* Briefly explain why the age structure impacts the effective population size.
+* Briefly describe how the sex ratio impacts the effective population size.
+* Briefly explain how high variance in reproductive success impacts the effective population size.
+* The effective population size can be up to three to five orders of magnitude smaller than the census population size in marine fish that are broadcast spawners and type III survivorship resulting in high variance in reproductive success. Explain why not accounting for the Ne/Nc ratio can be problematic in the context of population viability analysis.
+* Give a brief explanation of what genetic rescue is.
+* Briefly describe the scenario, necessary components, and information needed to be able to apply genetic rescue as a management option.
+* Explain why it is so important to implement a long-term monitoring plan along with a cautionary translocation protocol by briefly outlining the limitations and potential negtative impacts of genetic rescue.
+* Use a specific example to define the specific goals of genetic rescue, when it can/should be implemented and specific parameters you can use to test whether the management plan is successful.
+* Briefly discus the limitations and possible negative consequences of genetic rescue.
+* Conservation implies a goal of preserving a species (population). Argue whether given this perogative genetic rescue should be considered a "conservation" strategy.
+* A population of previously wide-spread foxes now consist only of a small, isolated breeding population. Recently, physical deformities have been commonly observed in the few juveniles that are found. Give a brief explanation of what could be causing this and suggest a way to test if your assumption is correct. Briefly outline a strategy you could use to counteract these effects, including what you would need to allow you to implement this strategy, how you would implement it, and how you would measure your success.
 
 
 
