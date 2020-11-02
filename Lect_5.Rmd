@@ -445,10 +445,10 @@ Additional resources:
 * The effective population size can be up to three to five orders of magnitude smaller than the census population size in marine fish that are broadcast spawners and type III survivorship resulting in high variance in reproductive success. Explain why not accounting for the Ne/Nc ratio can be problematic in the context of population viability analysis.
 * Give a brief explanation of what genetic rescue is.
 * Briefly describe the scenario, necessary components, and information needed to be able to apply genetic rescue as a management option.
-* Explain why it is so important to implement a long-term monitoring plan along with a cautionary translocation protocol by briefly outlining the limitations and potential negtative impacts of genetic rescue.
+* Explain why it is so important to implement a long-term monitoring plan along with a cautionary translocation protocol by briefly outlining the limitations and potential negative impacts of genetic rescue.
 * Use a specific example to define the specific goals of genetic rescue, when it can/should be implemented and specific parameters you can use to test whether the management plan is successful.
 * Briefly discus the limitations and possible negative consequences of genetic rescue.
-* Conservation implies a goal of preserving a species (population). Argue whether given this perogative genetic rescue should be considered a "conservation" strategy.
+* Conservation implies a goal of preserving a species (population). Argue whether given this prerogative genetic rescue should be considered a "conservation" strategy.
 * A population of previously wide-spread foxes now consist only of a small, isolated breeding population. Recently, physical deformities have been commonly observed in the few juveniles that are found. Give a brief explanation of what could be causing this and suggest a way to test if your assumption is correct. Briefly outline a strategy you could use to counteract these effects, including what you would need to allow you to implement this strategy, how you would implement it, and how you would measure your success.
 
 
