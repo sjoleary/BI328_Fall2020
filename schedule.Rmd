@@ -58,10 +58,10 @@ knitr::opts_chunk$set(echo = FALSE)
 | |       | W |	["SNOW" DAY]()                                                                                | 
 | |       | F |	[Population models & predicting population persistence](https://bi328.netlify.app/lect_5)     | 13, Lacy 2019
 |11| 10/26| M |	[The problem with small populations](https://bi328.netlify.app/lect_5)                        | 13
-| |       | W |	[Conservation Genetics](https://bi328.netlify.app/lect_5)                                    | 13
-| |       | F |	[Conservation Genetics](https://bi328.netlify.app/lect_5)                                     | Hedrick & Fredrickson 2010, Schwartz et al 2007
-|12| 11/2 | M	| [Conservation Genetics](https://bi328.netlify.app/lect_5)                                           | Hedrick & Fredrickson 2010, Schwartz et al 2007
-| |       | W	| [Conservation Genetics](https://bi328.netlify.app/lect_5)                                     |
+| |       | W |	[Loss of genetic diversity: adaptive potential](https://bi328.netlify.app/lect_5)             | 13
+| |       | F |	[Loss of genetic diversity: drift & inbreeding](https://bi328.netlify.app/lect_5)             | 13 
+|12| 11/2 | M	| [Effective populations size & Genetic rescue](https://bi328.netlify.app/lect_5)               | Hedrick & Fredrickson 2010
+| |       | W	| [Genetic Monitoring](https://bi328.netlify.app/lect_5)                                        | Schwartz et al 2007
 | |       | F	| **MIDTERM**	                                                                                  |
 |13| 11/9 |	M	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/lect_6)                    | 14, 15
 | |       | W	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/lect_6)                    | 14, 15

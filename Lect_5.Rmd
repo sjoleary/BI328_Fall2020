@@ -261,7 +261,10 @@ compared to southern elephant seals as a result of a demographic bottleneck
     + Inbreeding occurs when two individuals mate that have more similar genotypes than if they were randomly paired 
     + Inbreeding change genotype frequencies resulting in an excess of homozygotes in the population
     + mating of closely related individuals may result in a loss of biological fitness due to lower reproductive and/or survival rates of offspring (inbreeding depression)
-    + Inbreeding can cause an allee effect (biological fitness of individuals are correlated with population size/density) resulting in negative population growth at low population densities
+    
+**Allee effects & the extinction vortex**
+
+* Inbreeding can cause an allee effect (biological fitness of individuals are correlated with population size/density) resulting in negative population growth at low population densities
 * Conservation Genetic of Prairie Chicken
     + endangered due to habitat loss/fragmentation resulting in small, genetically isolated populations
     + Loss of genetic diversity due to genetic drift & inbreeding resulted lower fertility and lower rates of successful egg hatching 
@@ -272,7 +275,48 @@ compared to southern elephant seals as a result of a demographic bottleneck
     + Genetic drift results in fixation of (deleterious) alleles reducing mean population fitness (genetic load)
     + Increasing probability of related individuals mating increasing the level of homozygosity and inbred individuals with lower fitness (inbreeding depression)
       + Mean population fitness reduced resulting in further decline of the population size, exacerbating problems causing population decline
-* Effective population size
+      
+**Effective population size**
+      
+* not all (reproductively mature) individuals contribute genetic material (equally) to the next generation therefore to account for inbreeding and genetic drift we need to consider what our "population size" is
+    + abundance/census population size: number of individuals (regardless of age/life stage) present in the population
+    + number of spawners/breeding individuals (sometimes also unhelpfully referred to as census population size): number of mature adults in the study population
+    + effective population size: number of individuals in a population actually contributing genetic material to the next generation (from a genetic perspective: “The number of breeding individuals in an idealized population that would show the same amount of dispersion of allele frequencies under random genetic drift or the same amount of inbreeding as the population under consideration".)
+    + effective number of breeders: Number of individuals that contribute genetic material to a single cohort
+* Factors impacting Ne (Ne/Nc ratio)
+    + age structure of the population
+    + skewed sex ratio
+    + high variance in reproductive success: in broadcast spawning marine fish Ne has been found to be three to five order of magnitude lower compared to the census population size
+    + (migration pattern/population structure - but we generally assume closed populations)
+* Rates of genetic drift and inbreeding are determined by Ne
+    + monitoring of population sizes/population viability analysis traditionally focused on demographic component which can lead to potential impacts from drift/inbreeding being overlooked
+    + the 50/500 rule states that the critical effective population size are 50 to avoid the impacts of inbreeding depression and 500 to avoid the impact of losing adaptive potential due to drift while minimum Ne = 5,000 - 12,500 is required for long-term stability (Franklin & Frankham 1998)
+    + these are likely underestimates
+    + depending on the Ne/N ratio the census population sizes would need to be much larger than these thresholds
+    
+**Genetic Rescue**
+
+* Genetic rescue is a mitigation strategy with the goal of reducing extinction risk in small/isolated populations by restoring genetic diversity/counteracting effects inbreeding depression
+    + can be applied to small isolated population with low fitness showing effects of inbreeding depression/genetic load
+    + requires closely related donor population different enough to enhance genetic diversity but similar enough to avoid outbreeding depression/swamping out of alleles responsible for local adaptation
+    + requires experimental data of genetic diversity for both possibilities
+    + should be implemented using established/cautionary translocation protocol to avoid potential negative effects
+    + requires a detailed long-term monitoring plan for introduction/succeeding generations that can be adapted as needed to maximize success & avoid negative impacts
+
+* Case Study: Introduction of captive-bred Mexican wolves to Arizona/New Mexico
+* Case Study: Genetic rescue of Florida panthers
+* Limitations & negative consequences of genetic rescue
+    + Introduction may result in high donor population ancestry which may swamp out beneficial local genetic variation/traits resulting in a loss of local adaptation (outbreeding depression)
+    + Hybrids of local + introduced population become the main component of "new" population ("conserving" a species?)
+    + if only few individuals from donor population are successful this will reduce Ne again (not a long-term solution)
+    + fitness increase may be short-term impact only
+    
+**Genetic Monitoring**
+
+
+
+
+
 
 
 
