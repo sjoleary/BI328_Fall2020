@@ -19,6 +19,10 @@ navbar:
           href: Lect_4.html
         - text: "Species-level conservation"
           href: Lect_5.html
+        - text: "Ecosystem-level conservation"
+          href: Lect_6.html
+        - text: "Policy & Sustainable Development"
+          href: Lect_6.htm
     - text: "Assignments"
       menu:
         - text: "Overview"

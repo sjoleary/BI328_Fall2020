@@ -21,12 +21,15 @@ knitr::opts_chunk$set(echo = FALSE)
 **Reading reflections due: Nov. 13th, 5pm**
 
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 14
+
 `r icon::fa("book-reader")` Cardinale et al. 2019. **Conservation Biology**. Chapter 15
 
 
 *Food for thought*
 
-
+Why do you think historically conservation focused more on the species-level?
+Do you think focusing on the minimum viable population or the minimum required habitat is more effective?
+Why do you think it can be more difficult to engage the public in a campaign to conserve a specific endangered species compared to implementing protected areas?
 
 
 <br>
