@@ -21,8 +21,8 @@ navbar:
           href: Lect_5.html
         - text: "Ecosystem-level conservation"
           href: Lect_6.html
-        - text: "Policy & Sustainable Development"
-          href: Lect_6.htm
+        - text: "Wrap Up"
+          href: Lect_7.htm
     - text: "Assignments"
       menu:
         - text: "Overview"

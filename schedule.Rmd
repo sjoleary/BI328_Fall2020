@@ -66,9 +66,9 @@ knitr::opts_chunk$set(echo = FALSE)
 |13| 11/9 |	M	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/lect_6)                    | 14, 15
 | |       | W	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/lect_6)                    | 14, 15
 | |       | F	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/lect_6)                    | 14, 15
-|14| 11/16| M	| [Sustainable Development & Policy](https://bi328.netlify.app/lect_7)                          | 17
-| |       | W |	[Sustainable Development & Policy](https://bi328.netlify.app/lect_7)                          | 17
-| |       | F |	[Sustainable Development & Policy](https://bi328.netlify.app/lect_7)                          |
+|14| 11/16| M	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/lect_6)                    | 14, 15
+| |       | W |	[Wrap-up](https://bi328.netlify.app/lect_7)                                                   | 
+| |       | F |	[Wrap-up](https://bi328.netlify.app/lect_7)                                                   |
 | |       |   | *due 11/23 by midnight: Term paper*                                                           |
 
 :::
