@@ -27,9 +27,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 *Food for thought*
 
-Why do you think historically conservation focused more on the species-level?
-Do you think focusing on the minimum viable population or the minimum required habitat is more effective?
-Why do you think it can be more difficult to engage the public in a campaign to conserve a specific endangered species compared to implementing protected areas?
+* Why do you think historically conservation focused more on the species-level?
+* Do you think focusing on the minimum viable population or the minimum required habitat is more effective?
+* Why do you think it can be more difficult to engage the public in a campaign to conserve a specific endangered species compared to implementing protected areas?
 
 
 <br>
@@ -37,6 +37,85 @@ Why do you think it can be more difficult to engage the public in a campaign to 
 
 ### Outline
 
+**Preserving Habitat**
+
+* Ex situ and in situ strategies focus on conserving small populations
+    + natural environment (long-term strategy)
+    + artificial environments (short-term solutions) to enhance/kick-start in situ strategies
+* Challenges to conserving small populations even after all threats have been removed
+    + demographic perspective: focus on positive growth rates
+    + genetic perspective: focus on avoiding inbreeding depression (short-term) and loss of adaptive potential (long-term)
+* Focus on preserving complete ecosystems and their functions
+    + importance of maintaining and conserving habitat for species-focused conservation
+    + some species function as umbrella species protecting species that inhabit the same territory/ecosystem being protected
+    + focus on conserving fully functioning ecosystem
+    
+**Classification of Protected Areas**
+
+* IUCN Classifications
+    + Category Ia: Strict Nature reserve/Ib Wilderness area: created/managed for protection of large/unspoiled wilderness areas to protect & maintain biodiversity & evolutionary ecosystem processes
+    + Category IIb: Management focused on balancing conservation with human tourism/recreation which includes some development (economic benefit surrounding communities)
+    + Category III: Protect specific natural geological/geomorphological features, culturally influenced natural features, or cultural sites w/associated ecology
+    + Management focused on maintaining, conserving, or restoring species and habitats, includes public outreach/providing means for urban residents obtain contact with nature
+    + Category V: Management focused on protecting important landscapes & sustain associated nature conservation/other values by interactions w/humans & traditional managem. practices
+    + Category VI: Management focused on protecting natural ecosystems & natural use of resources when conservation + sustainable use mutually beneficial
+* Purpose, Focus, and Objectives of creating protected areas
+    + strict natural reserve: no human development or exploitation
+    + (eco)tourism, recreation. outreach, cultural significance
+    + Resource management: balance conservation & sustainable exploitation
+    + components considered: landscape/geological features, cultural significance, species/habitat
+* Positive impacts on human well-being
+    + Social, political, economic impacts of protected areas on human well-being: Particularly in developing nations protected areas may improve health & prosperity of local people through extraction, sale, and use of products from the protected area and as result of economic activity (ecotourism, recreation)
+    + Economic benefits of protected areas translate into improved human health: Multiple use protected areas managed simultaneously for conservation & sustainable resources use improved people’s health & wealth compared to those not located near protected area
+Strict areas showed no socio-economic benefits to local people
+* Downside of protected areas
+    + creation of protected areas may lead to a displacement of local communities/loss of livelihoods: Top-down decisions & enforcement (evicting people) from governments may lead to conflict & violence and/or loss of livelihood (agriculture, no access to land)
+    + Displaced people rarely compensated and are usually more vulnerable (poor, no political representation): Implementation of conservation needs to account for (traditional) property & sovereignty rights and limitation of livelihoods & economic development of local communities
+* Global status of protected areas
+    + growth in area of coverage for protected areas and spatial distribution
+    + key biodiversity areas “sites contributing significantly to global persistence of biodiversity”
+    
+**Approaches for choosing protected areas**
+
+* Habitat requirement of a give species
+* Hotspots of biodiversity
+    + Biodiversity hotspot is a geographic area with particularly high levels and is also highly threatened by human activities
+    + Goal: Protect a few, relatively small geographic areas and protect large fraction of world’s species
+    + Limitations: delineation depends heavily on definition/measures of biodiversity, overemphasis on diversity may result in other conservation goals being overlooked (e.g. ecosystem services of systems that have naturally low diversity, for example seagrass beds, open oceans)
+* Ecoregions
+    + “a unit of land containing a distinct assemblage of natural communities and species, with boundaries that approximate the original extent of natural communities prior to major land-use change” 
+    + Goal: Protect full representation of naturally occurring biological boundaries pre-anthropogenic impacts
+    + Limitations: Overambitious goals, many countries have poor regulations & enforcement, degree of arbitrariness at which ecoregions are delineated, defined at scales that can be impractical to manage – need multiple countries to cooperate
+* Political & economic boundaries
+    + Organizations advocating for conservation that use political boundaries to plan & prioritize biodiversity conservation will better align with plans/actions of governments
+    + Planning efforts of governments generally follow geopolitical boundaries not biological boundaries
+    + Limitations: Species couldn't care less what political boundaries there are
+* Ecosystem services
+    + Goals: Select protected areas on their delivery of ecosystem services to protect biological functions of nature underlying delivery of important goods & services
+    + Areas maximizing biodiversity (ecoregion approach) do not always maximize ecosystem services: distinct but potentially complimentary goals of protecting biodiversity
+    + Least common approach but expected to increase as our understanding of ecosystem services increases
+* Areas of cultural importance
+    + Goal: Select protected areas according to their cultural importance or significance
+    + Most typically obtain protection through UNESCO as Biosphere Reserves/World Heritage Sites
+    
+**Effectiveness of protected areas**
+
+* Terrestrial protected areas
+    + protected areas significantly reduce habitat loss & exhibit increased habitat cover: The magnitude of difference depends on the level of pressure on non-protected areas and whether there is continued pressure inside protected area
+    + Large fractions of tropical forests already destroyed – sharp boundaries in forest cover at edges of protected areas
+    + Protected areas on average 14% more individuals (population sizes larger)
+    + Protected areas on average 11% higher species richness but adjusting for sample size/number of species, higher levels of endemism no longer significant, i.e. the benefit of protected areas frequently is larger populations not unique species
+* Marine protected areas
+    + Marine protected areas (MPAs) are a recent strategy most MPAs are small ( < 10km2) but initial success is promising in terms of effectiveness
+    + MPAs reduce loss of important marine habitats
+    + MPAs maintain higher population sizes and higher biodiversity of many species across biomes, different types of habitats, and geographic regions
+* Predictors of success
+    + Not all protected areas are effective/successful: only 22% of protected areas have sound management/50% of tropical reserves are effective, frequently documentation of declines in plant/animal abundance inside PA
+    + Most common threats to PAs include illegal/unsustainable hunting (61%), disturbance from recreational activities (55%), natural system disturbances/fire/fire suppression (49%)
+    + Strongest predictor of effective management is enforcement & compliance with regulations
+    + successful PAs require public support from stakeholders & community involvement
+    + Focus on integrated social development and conservation goals results in positive socioeconomic outcomes
+    + Growing evidence that conservation efforts can be just as effective in multi-use PAs as in traditional strict PAs
 
 
 
@@ -67,7 +146,11 @@ Additional resources:
 
 ### Review
 
-* 
+* Compare and contrast the focus of conserving individuals species and complete ecosystems. Determine whether these are mutually exclusive and if now what those areas of overlap look like.
+* Give two arguments why focusing solely on ecosystems for conservation might actually be disadvantageous for individual populations of endangered species.
+* The IUCN has seven categories for protected areas. Give a brief (1-2 sentence) description of their central goals, then compare and contrast them in terms of their purpose, focus, and objectives.
+* Give a brief description of of the positive impacts of protected areas on the human well-being of individuals and their local communities (consider economic, social, political, and wellness aspects).
+* Social pressure from affected local communities has led to some protected areas downgrading and downsizing. Explain what the downsides of protected areas are that have caused this and determine what measures could be taken to reduce the negative impacts.
 
 
 

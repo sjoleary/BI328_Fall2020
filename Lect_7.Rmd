@@ -20,9 +20,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Reading reflections due: Nov. 20th, 5pm**
 
-`r icon::fa("book-reader")` Schellenbergs, ["On Behalf Of Environmentalists, I Apologize For The Climate Scare"](https://environmentalprogress.org/big-news/2020/6/29/on-behalf-of-environmentalists-i-apologize-for-the-climate-scare)
+`r icon::fa("book-reader")` Schellenberg, ["On Behalf Of Environmentalists, I Apologize For The Climate Scare"](https://environmentalprogress.org/big-news/2020/6/29/on-behalf-of-environmentalists-i-apologize-for-the-climate-scare)
 
-Format for this reading assignment: 500 words (min. 300/max 750); give brief summary of Schellenberg's main arguments/central points and then give your position on the article - do you agree/disagree (with some parts/all parts), how does this relate to what you have learned this semsester etc.
+Format for this reading assignment: 500 words (min. 300/max 750); give brief summary of Schellenberg's main arguments/central points and then give your position on the article - do you agree/disagree (with some parts/all parts), how does this relate to what you have learned this semester etc.
 
 
 
