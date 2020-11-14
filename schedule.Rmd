@@ -47,7 +47,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | |       | W	| [Overfishing](https://bi328.netlify.app/lect_4)                                         | 10
 | |       | F	| [Invasive Species](https://bi328.netlify.app/lect_4)                                    | 11
 |8| 10/5  | M	| [Climate Change](https://bi328.netlify.app/lect_4)                                      | 12
-| |       |   | *due 10/5 by midnight: outline/annotated bibliography*                                  |
+| |       |   | *due 10/5 by midnight: outline/annotated bibliography term paper*                       |
 | |       | W |	Special Topic: Wildfires                                                                |
 | |       | F	| **MIDTERM**                                                                             |
 |9|	10/12 |	M	| [Tipping Points, Resilience, Persistence](https://bi328.netlify.app/lect_5)             | Leadly 2010
@@ -63,10 +63,10 @@ knitr::opts_chunk$set(echo = FALSE)
 |12| 11/2 | M	| [Effective populations size & Genetic rescue](https://bi328.netlify.app/lect_5)               | Hedrick & Fredrickson 2010
 | |       | W	| [Genetic Monitoring](https://bi328.netlify.app/lect_5)                                        | Schwartz et al 2007
 | |       | F	| **MIDTERM**	                                                                                  |
-|13| 11/9 |	M	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/lect_6)                    | 14, 15
-| |       | W	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/lect_6)                    | 14, 15
-| |       | F	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/lect_6)                    | 14, 15
-|14| 11/16| M	| [Ecosystem/Landscape-level Conservation](https://bi328.netlify.app/lect_6)                    | 14, 15
+|13| 11/9 |	M	| [Ecosystem-level conservation through protected Areas](https://bi328.netlify.app/lect_6)      | 14
+| |       | W	| [Impact of Protected Areas on Biodiversity/humans](https://bi328.netlify.app/lect_6)          | 14
+| |       | F	| [Strategies to prioritize areas and determine success](https://bi328.netlify.app/lect_6)      | 14
+|14| 11/16| M	| [Landscape-level conservation & Management](https://bi328.netlify.app/lect_6)                 | 15
 | |       | W |	[Wrap-up](https://bi328.netlify.app/lect_7)                                                   | 
 | |       | F |	[Wrap-up](https://bi328.netlify.app/lect_7)                                                   |
 | |       |   | *due 11/23 by midnight: Term paper*                                                           |
