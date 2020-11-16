@@ -156,7 +156,16 @@ Strict areas showed no socio-economic benefits to local people
     + Consider trade-offs of alternative development options (environmental/socioeconomic) 
     + Prevent (government-) approved activities on public lands threatening biodiversity using regulations, legal system, political pressure
 * Ecosystem-based management
+    + “Ecosystem-based management is an integrated approach to management that considers the entire ecosystem, including humans. The goal of ecosystem-based management is to maintain an ecosystem in a healthy, productive, and resilient condition, so that it can provide the services humans want and need. Ecosystem-based management differs from current approaches that usually focus on a single species, sector, activity or concern; it considers the cumulative impacts of different sectors.” Communication Partnership for Science and Sea (COMPASS)
+    + EBM can work on a continuum of management levels/ecosystem components managed as intrinsically linked
+    + Place-based: geographic areas defined by ecological criteria (not political boundaries)
+    + Proactive: incorporate trade-offs to manage (marine/coastal) environments
+    + Cross-sectoral: considers interactions between sectors of human activity
+    + Stepwise process: adaptive & flexible, responsive to monitoring/research results
+    + Inclusive/collaborative: participation from all levels of government/indigenous peoples/stakeholders encouraged/balances diverse/interconnected needs of society + environment
 
+<br>
+<br>
 
 
 ### Debrief
@@ -197,8 +206,17 @@ Additional resources:
     + List the three most common threats to PAs
     + Give a brief description of two of the most effective predictors of the success of a PA.
 * Recent evidence has shown that conservation efforts can be just as effective in sustainable use protected areas compared to traditional strict PAs. Explain the importance of focusing on social development and conservation goals in the planning of PAs and how this may increase the success of the PA overall, despite this frequently resulting in less strict regulations of PAs.
-
-
+* Habitat loss, fragmentation & degradation has resulted in landscape mosaics. Briefly describe three arguments outlining the need for landscape-level conservation.
+* When establishing new protected areas the focus can either be to maximize biodiversity conservation through individual protected areas or across a landscape using a network of protected areas. Briefly compare and contrast desirable properties for design when focused on individual PAs vs networks.
+* Briefly describe three arguments supporting the importance of connectivity of PAs as a key requirement to increase their effectiveness and ensure persistence of population being protected. Briefly describe two commonly used methods to connect PAs in networks.
+* Give a brief explanation of why it is important for unprotected areas to be managed and accounted for in conservation efforts at a landscape-levels.
+* The land-use continuum classifies habitats by their **patterns** ranging from artificial to natural (e.g. housing, road density, proportion of natural vegetation cover) and **processes** ranging from controlled to free (e.g. historic range of variability, dam density). Argue where you think industrial/urban habitat, city parks, wilderness, traditional agriculture, suburbs, and national parks fall on this continuum and whether the extent to which they can be managed to serve as viable habitat for species.
+* Tropical forests, privately owned land, urban settings, and land used for agriculture are habitats/large tracts of land that are frequently unprotected. For each, give a brief description of how these habitats can still be incorporated into management plans for species even though they do not constitute protected areas using an example.
+* Agriculture occurs on a spectrum of how sustainable farming practices are. Briefly compare and contrast conventional farming, sustainable intensified framing and organic/agroecological farming to argue which provides the most options to maintain biodiversity levels and be integrated into landscape-scale conservation (useful categories include use of fertilizer/pesticides, crop/livestock diversity, spatial heterogeneity, non-farmed biodiversity, provision/use of ecosystems).
+* Use an example to explain why agro-ecological farming allows for better integration into landscape-scale conservation/management plans.
+* Give a brief description of multiuse/mixed-use habitats and compare & contrast them to protected areas, in terms of purpose and use.
+* Give two arguments of why despite protecting biodiversity increaslngly being incorporated as an explicit goal of land management incoporating mixed-use habitats in landscape-level conservation plans can still be difficult.
+* Give a brief description of ecosystem-based management, including key goals and characteristics. Argue why you think it has become the standard especially for fisheries management.
 
 
 <br>
