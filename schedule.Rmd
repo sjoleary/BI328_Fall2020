@@ -67,8 +67,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | |       | W	| [Impact of Protected Areas on Biodiversity/humans](https://bi328.netlify.app/lect_6)          | 14
 | |       | F	| [Strategies to prioritize areas and determine success](https://bi328.netlify.app/lect_6)      | 14
 |14| 11/16| M	| [Landscape-level conservation & Management](https://bi328.netlify.app/lect_6)                 | 15
-| |       | W |	[Wrap-up](https://bi328.netlify.app/lect_7)                                                   | 
-| |       | F |	[Wrap-up](https://bi328.netlify.app/lect_7)                                                   |
+| |       | W |	[Sustainable Development/Ecomodernism](https://bi328.netlify.app/lect_7)                      | Schellenberger 2020
+| |       | F |	[Conservation IRL](https://bi328.netlify.app/lect_7)                                          |
 | |       |   | *due 11/23 by midnight: Term paper*                                                           |
 
 :::
